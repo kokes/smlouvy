@@ -14,7 +14,7 @@ r = requests.get('http://data.smlouvy.gov.cz/index.xml')
 
 if not r.ok:
     print('Nestáhlo se, zkus pozdějc')
-    quite()
+    quit()
 
 lm = time.strptime(r.headers['Last-Modified'], '%a, %d %b %Y %H:%M:%S %Z')
 if os.path.isfile(ind) and time.mktime(lm) < os.path.getmtime(ind):
