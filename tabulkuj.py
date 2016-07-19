@@ -1,70 +1,93 @@
-import xmltodict
+from lxml import etree
 import pandas as pd
 import numpy as np
-import requests
 import os
 from glob import glob
 
-vstupy = 'vstupy'
+def tag(nd):
+    return nd.tag.replace('{%s}' % nd.nsmap[None], '')
 
-fns = glob(os.path.join(vstupy, 'xml', 'dump*.xml'))
+def node_dict(nd, excl=None):
+    if nd.text is not None:
+        return nd.text.strip()
+
+    rt = dict()
+    
+    for j in nd.getchildren():
+        tg = tag(j)
+        if excl is not None and tg in excl: continue
+            
+        if tg not in rt:
+            rt[tg] = node_dict(j)
+            continue
+        
+        if type(rt[tg]) == list:
+            rt[tg].append(node_dict(j))
+        else:
+            rt[tg] = [rt[tg]] + [node_dict(j)]
+            
+    return rt
+
+## =============================================
+
+vstupy = 'vstupy'
 
 dt = [['idsml', 'idver', 'zverejneni', 'uzavreni', 'subjekt', 'ico', 'cena_bezdph',\
 'cena_sdph', 'cena_cizi', 'cena_cizi_mena', 'predmet', 'odkaz']]
 kli =[['idsml', 'idver', 'ico', 'subjekt']]
-
-# mame = set()
 subj = dict() # ico -> jmeno parovani, aby se daly odstranit jmenny duplikaty
 
+fns = glob(os.path.join(vstupy, 'xml', 'dump*.xml'))
+
 for j, fn in enumerate(fns):
-    print('Zpracovavam (%d/%d): %s' % (j, len(fns), fn), end='\r')
-    with open(fn, encoding='utf8') as f:
-        z = xmltodict.parse(f.read())['dump']['zaznam']
+    print('Zpracovavam (%d/%d): %s' % (j+1, len(fns), fn), end='\r')
+    et = etree.parse(fn).getroot()
 
-    for j, sml in enumerate(z):
-        idsml = int(sml['identifikator']['idSmlouvy'])
-        idver = int(sml['identifikator']['idVerze'])
+    for z in et.findall('.//{%s}zaznam' % et.nsmap[None]):
+        #vl = node_dict(z, excl = set(['prilohy'])) # nahrada za xmltodict
+        vl = node_dict(z) # nahrada za xmltodict
 
-        # if idsml in mame: continue
-        # mame.add(idsml)
+        if vl['platnyZaznam'] != '1': continue # verzování, neberem neplatný záznamy
+
+        idsml = int(vl['identifikator']['idSmlouvy'])
+        idver = int(vl['identifikator']['idVerze'])
 
         # objednatel
-        icok = sml['smlouva']['subjekt']['ico'] # ICO kupujiciho
+        icok = vl['smlouva']['subjekt']['ico'] # ICO kupujiciho
         if icok not in subj:
-            subj[icok] = sml['smlouva']['subjekt']['nazev']
-            
+            subj[icok] = vl['smlouva']['subjekt']['nazev']
+
         dt.append([idsml, idver,
-                     sml['casZverejneni'],
-                     sml['smlouva']['datumUzavreni'],
+                     vl['casZverejneni'],
+                     vl['smlouva']['datumUzavreni'],
                      subj[icok], icok,
-                     float(sml['smlouva'].get('hodnotaBezDph', np.nan)),
-                     float(sml['smlouva'].get('hodnotaVcetneDph', np.nan)),
-                     float(sml['smlouva'].get('ciziMena', {}).get('hodnota', np.nan)),
-                     sml['smlouva'].get('ciziMena', {}).get('mena', np.nan),
-                     sml['smlouva']['predmet'],
-                     sml['odkaz']
+                     float(vl['smlouva'].get('hodnotaBezDph', np.nan)),
+                     float(vl['smlouva'].get('hodnotaVcetneDph', np.nan)),
+                     float(vl['smlouva'].get('ciziMena', {}).get('hodnota', np.nan)),
+                     vl['smlouva'].get('ciziMena', {}).get('mena', np.nan),
+                     vl['smlouva']['predmet'],
+                     vl['odkaz']
                      ])
 
         # smluvni strana    
-        sstr = sml['smlouva']['smluvniStrana']
+        sstr = vl['smlouva']['smluvniStrana']
         sstr = sstr if type(sstr) == list else [sstr]
         assert len(sstr) > 0
 
         for k, insm in enumerate(sstr):
             if insm.get('ico', np.nan) == icok: continue # nakupci mezi smluvnima stranama
-            
+
             if 'ico' in insm and insm['ico'] not in subj:
                 subj[insm['ico']] = insm['nazev']
-                
+
             kli.append([idsml, idver,
                       insm.get('ico', np.nan), # obcas ICO neni
                       insm['nazev'] if 'ico' not in insm else subj[insm['ico']]])
 
-
 res = pd.DataFrame(dt[1:], columns=dt[0])
 kli = pd.DataFrame(kli[1:], columns=kli[0])
 
-assert len(res.subjekt.unique()) == len(res.ico.unique())
+assert len(res.subjekt.unique()) == len(res.ico.unique()) # failne, az bude vic Lhot
 
 # budem delat asi az v interpretaci
 # res['cena'] = res[['cena_bezdph', 'cena_sdph']].T.apply(lambda x: np.nan if np.isnan(x).all() else np.nanmean(x))
@@ -73,5 +96,5 @@ assert len(res.subjekt.unique()) == len(res.ico.unique())
 # res.uzavreni = pd.to_datetime(res.uzavreni)
 # res.zverejneni = pd.to_datetime(res.zverejneni)
 
-res.to_csv(os.path.join(vstupy, 'smlouvy.csv'), index=False)
-kli.to_csv(os.path.join(vstupy, 'smluvni_strany.csv'), index=False)
+res.to_csv(os.path.join(vstupy, 'smlouvy.csv'), index=False, encoding='utf8')
+kli.to_csv(os.path.join(vstupy, 'smluvni_strany.csv'), index=False, encoding='utf8')
