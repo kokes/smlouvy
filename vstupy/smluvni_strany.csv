@@ -20,7 +20,6 @@ idsml,idver,ico,subjekt
 113,113,63668475,"VICTORIA-AG ART, spol. s r.o."
 117,117,48528790,MOTO MORAVA s.r.o.
 121,121,24250074,Prokservis s.r.o.
-125,125,26424991,KRD-obchodní společnost s.r.o.
 129,129,24250074,Prokservis s.r.o.
 133,133,24250074,Prokservis s.r.o.
 137,137,63073188,Přerost a Švorc - auto
@@ -61,7 +60,6 @@ idsml,idver,ico,subjekt
 297,305,48948624,G IMPULS Praha spol.s.r.o.
 301,309,28998081,"UNISSA plus, SE"
 305,313,68334796,Místní skupina polského kulturně - osvětového svazu v Jablunkově
-309,317,71170707,Základní organizace odborového svazu státních orgánů a organizací při Městském úřadu Nové Město na Moravě
 313,321,46744959,Obec Jeřmanice
 317,325,00262820,Město Hodkovice nad Mohelkou
 321,329,00275786,Obec Jesenný
@@ -69,7 +67,6 @@ idsml,idver,ico,subjekt
 329,337,68898878,"Vodní záchranná služba ČČK Těrlicko, pobočný spolek"
 337,345,70891508,Liberecký kraj
 341,349,00276006,Obec Poniklá
-345,353,26290944,COMFOR STORES a.s.
 349,357,29078172,SEOS
 353,361,46825754,Hnat
 357,365,47714972,Statek Bor
@@ -98,15 +95,6 @@ idsml,idver,ico,subjekt
 457,465,13642464,"GEMO OLOMOUC, spol. s r.o."
 461,469,43383513,Svaz vodovodů a kanalizací Žďársko
 465,473,24123641,Skanska Asfalt s.r.o.
-473,481,61342441,Ján Berky
-473,481,27260526,E S B a.s.
-473,481,25032739,"H - REKULTIVACE, a.s."
-473,481,26160277,"KHL-EKO, a.s."
-473,481,61342599,Baratali Lali
-473,481,03847306,Lesgeo s.r.o.
-473,481,72711507,Lothar Lorenz
-473,481,44569769,"REKULTIVAČNÍ VÝSTAVBA Most, a.s."
-473,481,28740378,Stavby a údržba krajin s.r.o.
 477,485,62913671,Le Cheque Déjeuner s.r.o.
 473,493,61342441,Ján Berky
 473,493,27260526,E S B a.s.
@@ -127,7 +115,7 @@ idsml,idver,ico,subjekt
 537,533,68292970,Roman Šimůnek
 541,537,64509214,FOSAN s.r.o.
 545,541,25953702,SIGREEN s.r.o.
-549,545,2574068,"Auto Štěpánek, a.s."
+549,545,02574068,"Auto Štěpánek, a.s."
 557,553,72969717,Petr Slánský
 561,557,25691970,"VELAZ, s.r.o."
 577,573,62913671,Le Cheque Déjeuner s.r.o.
@@ -147,7 +135,6 @@ idsml,idver,ico,subjekt
 633,629,24128376,"Amper Market, a.s."
 637,633,24128376,"Amper Market, a.s."
 641,637,24729035,"ČEZ Distribuce, a. s."
-645,641,15526194,"VSM, spol. s r.o."
 649,645,64827496,SIMED s.r.o.
 653,649,04621611,Tesco Franchise Stores ČR s.r.o.
 657,653,26196620,"Středočeské vodárny, a.s."
@@ -157,18 +144,15 @@ idsml,idver,ico,subjekt
 673,669,25632213,PROGASTRO s.r.o.
 677,673,25632213,PROGASTRO s.r.o.
 681,677,24739464,KT ING s.r.o.
-685,681,63 43 44 58,"Základní škola Břeclav, Komenského 2, příspěvková organizace"
 689,685,48035599,SWIETELSKY stavební s.r.o.
 693,689,15922766,Ing. Viktor Kotrubenko
 697,693,26475677,ATAK - Úklidový servis s.r.o.
 705,701,26475677,ATAK - Úklidový servis s.r.o.
-709,705,61504513,"ELTES,s.r.o."
 713,709,28111265,AL - SYSTEM EXPO s.r.o.
 717,713,49704362,"ASIANA, spol. s r.o."
 721,717,60827475,Výstaviště České Budějovice a.s.
 725,721,29124107,Striker digital czech s.r.o.
 733,729,,Agrární komora Pelhřimov
-737,733,45270970,Thermo Fisher Scientific (Praha) s.r.o.
 741,737,29383161,ExaSoft Holding a.s.
 737,741,45270970,Thermo Fisher Scientific (Praha) s.r.o.
 125,745,26424991,KRD-obchodní společnost s.r.o.
@@ -252,7 +236,6 @@ idsml,idver,ico,subjekt
 1077,1081,43906753,Svoboda
 1081,1085,690613/0099,Wagner
 1085,1089,45272956,Česká pojišťovna a. s.
-1089,1093,62415603,OBIS  s.r.o.
 1089,1105,62415603,OBIS  s.r.o.
 1097,1109,,fyzická osoba
 1101,1113,03920071,"Institut pro veřejné zadavatele, s. r. o."
@@ -296,10 +279,8 @@ idsml,idver,ico,subjekt
 1269,1285,25006096,"DEKONTA, a.s."
 1273,1289,22773134,ADP Trans s.r.o.
 1277,1293,,FYZICKÁ OSOBA
-1281,1297,64942503,OFFICE DEPOT s.r.o.
 1285,1301,,Česká jezdecká federace
 1293,1309,27675645,C SYSTEM CZ a.s.
-1297,1313,45476012,"Clarima, s.r.o."
 1305,1321,,Josef Leibetseder
 1297,1325,45476012,"Clarima, s.r.o."
 1281,1329,64942503,OFFICE DEPOT s.r.o.
@@ -308,7 +289,6 @@ idsml,idver,ico,subjekt
 1325,1349,73435023,"Martin Sýkora, Opravy prádelenského zařízení"
 1333,1357,,Kraj Vysočina
 1341,1365,73435023,"Martin Sýkora, Opravy prádelenského zařízení"
-1345,1369,00569224,DEWETRON-PRAHA spol. s r.o.
 1349,1373,44015542,SECURITY TECHNOLOGIES a.s.
 1353,1377,01800710,"MAGTRADE, s.r.o."
 1357,1381,73988081,Liana Špatenková
@@ -380,7 +360,6 @@ idsml,idver,ico,subjekt
 1669,1693,27146928,"Janssen-Cilag,s.r.o."
 1673,1697,00494453,Česká provincie Kongregace Dcer Božské Lásky
 1677,1701,,Na základě § 5 odst. 6ZRS vyloučeno z uveřejnění
-1681,1705,64826996,D A B O N A s.r.o.
 1689,1713,45359326,"PHOENIX LV,a.s."
 1653,1721,04200632,ER servis Holding s.r.o.
 1697,1725,27117804,"AMGEN,s.r.o."
@@ -397,7 +376,6 @@ idsml,idver,ico,subjekt
 1745,1777,,ROCHE s.r.o.
 1749,1781,,Polák Lukáš
 1753,1785,,Na základě § 5 odst. 6ZRS vyloučeno z uveřejnění
-1757,1789,61860476,Sodexo Pass Česká republika a.s.
 1765,1797,,Novák František
 1769,1801,48168769,AUTOSPOL spol. s r.o.
 1773,1805,27271552,UPTIME s.r.o.
@@ -405,8 +383,6 @@ idsml,idver,ico,subjekt
 1781,1813,26427389,Alcon Pharmaceuticals (Czech Republic) s.r.o.
 1785,1817,49285271,"SOLIDA, spol. s r.o."
 1789,1821,70890749,KruV - RS (Kraj Vysočina)
-1793,1825,25285262,CHRPA stavební společnost s r. o. Pardubice
-1681,1829,64826996,D A B O N A s.r.o.
 1797,1833,26258412,"ELISABETH  PHARMACON, spol. s r.o."
 1801,1837,25231405,"Grimed, s.r.o."
 1805,1841,26178109,Networksys a.s.
@@ -416,13 +392,10 @@ idsml,idver,ico,subjekt
 1817,1857,69901775,Tomáš Knedlík
 1821,1861,19010290,"PHARMOS,a.s."
 1825,1865,13360779,Miroslav Jarolímek
-1829,1869,60470291,ISS Facility Services s.r.o.
 1833,1873,61860476,Sodexo Pass Česká republika a.s.
 1837,1877,45310815,"FITAZ, s. r. o."
 1837,1877,27680754,"NACKO GROUP, spol. s r. o."
 1837,1877,44851057,"PHAR SERVICE, a.s."
-1841,1881,60470291,ISS Facility Services s.r.o.
-1845,1885,26682443,"DYNEX LABORATORIES, s.r.o."
 1849,1889,25099019,"PROMEDICA PRAHA GROUP,a.s."
 1853,1893,44848200,SANOFI-AVENTIS  s.r.o
 1857,1897,25145444,ICZ a.s.
@@ -441,7 +414,6 @@ idsml,idver,ico,subjekt
 1913,1953,760828/3815,Press
 1917,1957,22886842,občanské sdružení Hlasohled
 1921,1961,00565474,BAYER s.r.o.
-1929,1969,00240079,Město Brandýs nad Labem - Stará Boleslav
 1933,1977,25135228,Fresenius Kabi s.r.o.
 1937,1981,,fyzická osoba
 1941,1985,29353181,SD nářadí s.r.o.
@@ -450,7 +422,6 @@ idsml,idver,ico,subjekt
 1953,1997,61860476,Sodexo Pass Česká republika a.s.
 1957,2001,64051561,GENOR Finance s.r.o.
 1961,2005,28714199,"Autocentrum Nord, a.s."
-1965,2009,61860476,Sodexo Pass Česká republika a.s.
 1845,2013,,"DYNEX LABORATORIES, s.r.o."
 1965,2017,61860476,Sodexo Pass Česká republika a.s.
 1969,2021,65069200,Pavel Hrdlička
@@ -501,7 +472,6 @@ idsml,idver,ico,subjekt
 2165,2233,,Štefan Matúšek
 2169,2237,25496565,"Frýdlantská vodárenská společnost,a.s."
 2173,2241,12081299,Ing. Ivo Hrdlička
-2181,2249,00203459,"ARGUS, spol. s r.o."
 2185,2253,25815458,FENBAU s.r.o.
 2189,2257,00571024,PCS spol. s r.o.
 2193,2261,27608875,ECOVIS blf s.r.o.
@@ -516,7 +486,6 @@ idsml,idver,ico,subjekt
 2237,2301,45193525,"Těšínská tiskárna, a. s."
 1929,2305,00240079,Město Brandýs nad Labem - Stará Boleslav
 2241,2309,63488191,BossCan ComPrint spol. s r.o.
-2245,2313,61860476,Sodexo Pass Česká republika a.s.
 2249,2317,,Zbyněk Buriánek
 2253,2321,,Jiří Řehák
 2257,2325,,PhDr. Václav Hradecký
@@ -536,7 +505,6 @@ idsml,idver,ico,subjekt
 2317,2389,02327287,CIPRAG PARTNER ENGINEERING s.r.o.
 2321,2393,,Petr Melichar
 2325,2397,,Vlasta Svobodová
-2329,2401,27068641,"Olympus Czech Group, s.r.o., člen koncernu"
 2333,2405,,SEFTIMA INVEST s.r.o.
 2337,2409,,SEFTIMA INVEST s.r.o.
 2341,2413,,Miloslav Dokulil
@@ -557,7 +525,6 @@ idsml,idver,ico,subjekt
 2409,2481,28853911,"PROTEQ PLUS, a.s."
 2413,2485,14707420,Alliance Healthcare
 2417,2489,60277289,HITO spol. s r.o.
-2329,2493,27068641,"Olympus Czech Group, s.r.o., člen koncernu"
 2421,2497,00291463,Město Uherský Brod
 2425,2501,46353259,"Gastro instant, spol. s r.o."
 2429,2505,14707420,Alliance Healthcare
@@ -572,16 +539,12 @@ idsml,idver,ico,subjekt
 2461,2541,25267027,"Zich a spol., s.r.o."
 2465,2545,41411927,Jaroslav Žálčík
 2469,2549,,Liechtensteinische Post AG
-2473,2553,26255618,DIRS Brno s.r.o.
 2477,2557,11089661,Mgr. Ilona Šulcová TaPŠ ILMA
 2481,2561,26157284,IPPOS BOHEMIA s.r.o.
-2489,2569,27869032,brainz.cz s.r.o.
 2497,2577,25830210,"Colour Production, spol. s r.o."
 2509,2589,25716964,"Geometry Global, s.r.o."
 2513,2593,02120356,2P Gastro spol. s r.o.
-2517,2597,62525310,PROMPT 2 SERVIS v.o.s.
 2521,2601,25099019,"PROMEDICA PRAHA GROUP,a.s."
-2533,2613,24784834,ORSmix s.r.o.
 2537,2617,45359326,"PHOENIX LV,a.s."
 2541,2621,11089661,Mgr. Ilona Šulcová TaPŠ ILMA
 2545,2625,,ORSmix s.r.o.
@@ -623,7 +586,6 @@ idsml,idver,ico,subjekt
 2757,2861,,"Zelená Milena ,Ing."
 2761,2865,,"Maurerová Tamara ,Mgr."
 2765,2869,26450691,Makro
-2769,2873,47633832,Pavel Hadamčík
 2773,2877,,Novotná Jana
 2777,2881,,"Pípal Pavel ,Ing."
 2781,2885,,Bodlák Jan
@@ -653,7 +615,6 @@ idsml,idver,ico,subjekt
 2909,3013,,Orthacker Petr
 2913,3017,48397555,MAVA spol. s r.o.
 2917,3021,70890749,KruV - RS (Kraj Vysočina)
-2921,3025,47903783,GORDIC spol. s r.o.
 2925,3029,46708456,Báňské projekty Teplice a.s.
 2933,3037,48035599,SWIETELSKY stavební s.r.o.
 2769,3045,47633832,Pavel Hadamčík
@@ -664,7 +625,6 @@ idsml,idver,ico,subjekt
 2957,3065,25881370,Morcinek s.r.o.
 2961,3069,26519313,Veteran Car club Ostrava
 2965,3073,02015617,Petra Hrbková
-2921,3077,47903783,GORDIC spol. s r.o.
 2969,3081,24729035,"ČEZ Distribuce, a. s."
 2973,3085,63320461,TESTCAR s.r.o.
 2977,3089,03466116,Chirurgie VM s.r.o.
@@ -675,7 +635,6 @@ idsml,idver,ico,subjekt
 3009,3121,,Jaroslav Havrda
 3013,3125,,Martin Zálabský
 3017,3129,,Jitka Janatová
-3021,3133,60162694,Fakturace (Ministerstvo obrany)
 3025,3137,25395351,C.B.A. spektrum spol. s r.o.
 3029,3141,,Iveta Dvorská
 3033,3145,,Iva Svárovská
@@ -740,7 +699,6 @@ idsml,idver,ico,subjekt
 3297,3409,27068641,"Olympus Czech Group, s.r.o., člen koncernu"
 3301,3413,,Stavební bytové družstvo Dobříš
 3305,3417,26349825,"AYIN, s.r.o."
-3309,3421,24745391,Edenred CZ s.r.o.
 3313,3425,00260746,Město Mimoň
 3317,3429,28257162,ATICO MONEO a.s.
 3321,3433,47903317,AV Pro v.o.s.
@@ -748,7 +706,6 @@ idsml,idver,ico,subjekt
 3333,3445,45359326,"PHOENIX LV,a.s."
 3337,3449,,Ladislav Novák
 3341,3453,24119393,"Bracco Imaging Czech, s.r.o."
-3345,3457,00854671,Obec Horka u Staré Paky
 3353,3465,00064581,Hlavní město Praha
 3357,3469,63834197,Technická správa komunikací hl.m.Prahy
 3361,3473,25598074,"AD 7, spol. s r.o."
@@ -800,9 +757,7 @@ idsml,idver,ico,subjekt
 3553,3669,29360846,IVENT PRO s.r.o.
 3557,3673,61860476,Sodexo Pass Česká republika a.s.
 3569,3685,68416300,Jaroslav Lizner
-3573,3689,47675934,Perfect Distribution a.s.
 3577,3693,45359326,"PHOENIX LV,a.s."
-3581,3697,25816179,PODA a.s.
 3585,3701,,JASY Vsetín s.r.o.
 3589,3705,02437406,SMAPRO design s.r.o.
 3593,3709,,JASY Vsetín s.r.o.
@@ -846,7 +801,6 @@ idsml,idver,ico,subjekt
 3729,3845,"04048954,04937139","KP REAL SOLICITATION s.r.o., Venkato Invest s.r.o."
 3737,3853,,PRIMA spol. s r.o.
 3741,3857,41031024,EKOZIS spol. s r. o.
-3745,3861,48391531,"Projekt 2010, s.r.o."
 3749,3865,03957209,Rychle a odborně s.r.o.
 3753,3869,00275905,MĚSTO LOMNICE NAD POPELKOU
 3757,3873,62913671,Le Cheque Déjeuner s.r.o.
@@ -878,16 +832,13 @@ idsml,idver,ico,subjekt
 3873,3997,27450376,"MarkIT.cz, s.r.o."
 3877,4001,49453653,"Prototypa-ZM, s.r.o."
 3881,4005,48108375,"AV MEDIA, a.s."
-3885,4009,30224349,"Decon, spol. s r.o."
 3889,4013,64583562,Medtronic Czechia s.r.o.
 3893,4017,,Obec Přeckov
 3901,4025,,Obec Předín
-3905,4029,47473266,ALTER s.r.o.
 3909,4033,,Obec Kojatice
 3913,4037,,Obec Radkovice u Hrotovic
 3917,4041,,Obec Urbanov
 3921,4045,27246175,PRINT PRODUKCE PRAHA s.r.o.
-3885,4049,30224349,"Decon, spol. s r.o."
 3925,4053,,TJ VTŽ Chomutov
 3929,4057,,MUDr. SOŇA PROCHÁZKOVÁ
 3933,4061,,Obec Černíč
@@ -898,10 +849,8 @@ idsml,idver,ico,subjekt
 3953,4081,25855581,JANKOSTAV s.r.o.
 3957,4085,45317054,"Komerční banka, a.s."
 3961,4089,00293881,Město Znojmo
-3965,4093,46344942,"GEOtest, a.s."
 3969,4097,26427389,Alcon Pharmaceuticals (Czech Republic) s.r.o.
 3965,4101,46344942,"GEOtest, a.s."
-3973,4105,28650859,"NEUROLKA s.r.o., MUDr. Jan Žwak"
 3977,4109,46344942,"GEOtest, a.s."
 3981,4113,,Městys Stonařov
 3985,4117,,Město Náměšť nad Oslavou
@@ -949,7 +898,6 @@ idsml,idver,ico,subjekt
 4185,4305,03080323,Asif Iqbal
 4189,4309,70939322,"Mateřská škola Treperka Semily, příspěvková organizace"
 4193,4313,27916693,CCS Česká společnost pro platební karty s.r.o.
-4197,4317,46348620,Bross spol. s r.o.
 4201,4321,47958901,Tibor Polgár
 4205,4325,67534848,Jan Kužel
 4209,4329,87064308,Jan Pospíchal
@@ -977,7 +925,6 @@ idsml,idver,ico,subjekt
 4309,4429,,Obec Ježov
 4313,4433,,Obec Veselá
 4317,4437,,Obec Ondřejov
-4321,4441,25059394,ATALIAN CZ s.r.o.
 4325,4445,,Obec Nová Buková
 4329,4449,,Obec Častrov
 4333,4453,26658437,"VIZ - CENTRUM ""spolek"""
@@ -987,14 +934,11 @@ idsml,idver,ico,subjekt
 4349,4469,,Obec Milasín
 4353,4473,,Obec Ujčov
 4357,4477,65174798,Karel Blšták
-4361,4481,40056210,Miloslava Procházková AVANTI
 4365,4485,49629549,Česká společnost ornitologická
-4369,4489,22675256,CDU SPORT - VOLNÝ ČAS z.s.
 4373,4493,15030261,"ORSIA, spol. s r. o."
 4377,4497,60109581,R.D.Engineering s.r.o.
 4381,4501,25383370,"COPY STAR, s.r.o."
 4385,4505,26177005,"COLAS CZ, a.s."
-4389,4509,28650859,"NEUROLKA s.r.o., MUDr. Jan Žwak"
 4393,4513,14707420,Alliance Healthcare
 4397,4517,45275718,"TRANSTECHNIK CS,spol. s r.o."
 4401,4521,28312767,K a P O - plus s.r.o.
@@ -1023,7 +967,6 @@ idsml,idver,ico,subjekt
 4505,4629,61860476,Sodexo Pass Česká republika a.s.
 4509,4633,12697281,Libor Václavík - LIBROS
 4513,4637,25692810,SUPER-KRETE CZECH s.r.o.
-4389,4641,28650859,"NEUROLKA s.r.o., MUDr. Jan Žwak"
 4517,4645,45310815,"FITAZ, s. r. o."
 4521,4649,25879243,"ITAGE,spol.s.r.o."
 4525,4653,27686779,KmNet s.r.o.
@@ -1135,7 +1078,6 @@ idsml,idver,ico,subjekt
 4957,5081,60193492,"Pražská plynárenská, a.s."
 4961,5085,26444569,AUTODÍLY ŠPINDLER HOLDING a.s.
 4965,5089,,"Aon Central and Eastern Europe, a.s."
-4969,5093,61977306,"CS21 Nextnet, s.r.o."
 4973,5097,49419340,ŠIN - MU Hodonín
 4977,5101,69653470,"Klub sportovního potápění Najada Hodonín, pobočnýspolek SPMS"
 4981,5105,28173724,"AUTON CZ, a.s."
@@ -1152,7 +1094,7 @@ idsml,idver,ico,subjekt
 5033,5157,,Eva Jurková
 5045,5169,03921921,VYKRUT zahradní služby a.s.
 5045,5169,47667036,"BESTON, spol. s r.o."
-5049,5173,275 97 075,Unipetrol RPA s. r. o.
+5049,5173,27597075,"UNIPETROL RPA, s.r.o."
 5057,5181,26052083,Autosalon Kudrna CZ a.s.
 5061,5185,,"Mgr. Peter Janků, PhD."
 5065,5189,65408781,I.T.A.-Intertact s.r.o.
@@ -1178,14 +1120,12 @@ idsml,idver,ico,subjekt
 5141,5273,46960341,AUTONOVA BRNO s.r.o.
 5149,5281,60275677,Jezdecký klub BON EQUI Club Louny
 5153,5285,04928121,CZ - PODLAHY design s.r.o.
-5157,5289,,BDSTAV MORAVA s.r.o.
-5161,5293,,BDSTAV MORAVA s.r.o.
+5157,5289,00000000,BDSTAV MORAVA s.r.o.
+5161,5293,00000000,BDSTAV MORAVA s.r.o.
 5165,5297,04799801,"Za krásným kopcem,z.s."
 5173,5305,,sanofi-aventis s.r.o.
-5177,5309,14707420,Alliance Healthcare
 5185,5317,00426199,Oblastní spolek Českého červeného kříže Jičín
 5189,5321,26274906,"Kaiser servis, spol. s r.o."
-5193,5325,00299006,Obec Cholina
 5197,5329,25595351,"ZZM, spol. s r.o."
 5201,5333,42657482,Petr Kaláček
 5205,5337,,fyzické osoby
@@ -1199,24 +1139,19 @@ idsml,idver,ico,subjekt
 5237,5369,28785606,"Safety Agency, s.r.o."
 5241,5373,44851057,"PHAR SERVICE, a.s."
 5245,5377,63604566,Petr Habětínek
-5253,5385,48425052,Pavel Šomek
 5257,5389,26300711,STK SLATINA a.s.
 5265,5397,00290629,Město Třebíč
 5269,5401,01768182,LX servis Group s.r.o.
 5037,5405,29041520,Culture Tech s.r.o.
 5273,5409,25526171,S - Invest CZ s.r.o.
 5273,5409,25533843,"RTS,a.s."
-5277,5413,70812853,Sdružení obcí Vysočiny z.s.p.o.
 5281,5417,47114983,"Česká pošta, s.p."
 5289,5425,25278118,OZM Research s.r.o.
 5293,5429,12702633,Lubomír Kučera
-5297,5433,25765647,SPEED PRESS Plus a.s.
 5301,5437,,Janssen-Cilag s.r.o.
 5305,5441,29266246,TENSIO TECHNOLOGY s.r.o.
 5309,5445,,Divadlo Oskara Nedbala Tábor
 5313,5449,46680748,LBE spol. s r.o.
-5317,5453,47677961,"Pila MSK, a.s."
-5321,5457,,"Edenred CZ, s.r.o."
 5325,5461,42196868,M - SILNICE a.s.
 5333,5469,43212590,MVDr. Helebrant Miloš
 5337,5473,48425753,Petr Slanina
@@ -1252,14 +1187,11 @@ idsml,idver,ico,subjekt
 5461,5601,00300870,Město Vítkov
 5465,5605,15050050,MARHOLD a.s.
 5469,5609,64013430,Milan Staňo
-5473,5613,,"Sportovní klub FIT & FUN Ostrava, z.s."
-5481,5621,25394967,"TOMA Olomouc, a.s."
 5485,5625,00300535,Statutární město Opava
 5489,5629,27729109,AISECO s.r.o.
 5497,5637,04244320,Borry Build s.r.o.
 5501,5641,02235412,"Kulturní centrum Bílovec, příspěvková organizace"
 5501,5641,00297755,Město Bílovec
-5505,5645,69202575,Mgr. Roman Lipavský
 5509,5649,60913037,SQS Vláknová optika a.s.
 5513,5653,27560015,ENVICONS s.r.o.
 5517,5657,00845451,Městský obvod Vítkovice
@@ -1271,14 +1203,12 @@ idsml,idver,ico,subjekt
 5521,5661,25028766,RAPRINT s.r.o.
 5521,5661,00199389,"ML Trade, s.r.o."
 5525,5665,63078236,Software602 a.s.
-5529,5669,26807947,BD STAV MORAVA s.r.o.
 5533,5673,26807947,BD STAV MORAVA s.r.o.
 5537,5677,,MUDr. Ludmila Sophová
 5541,5681,,MONIKA HIRSCHOVÁ
 5545,5685,,MUDr. OTAKAR HIRSCH
 5549,5689,22762477,Lezení do škol
 5553,5693,63080575,"ABF, a.s."
-5561,5701,27813398,REALIZACE GROUP s.r.o.
 5565,5705,00262943,Obec Křižany
 5193,5709,00299006,Obec Cholina
 5569,5713,22858555,Ensemble Damian o.s.
@@ -1293,9 +1223,7 @@ idsml,idver,ico,subjekt
 5605,5749,45193452,Priessnitzovy léčebné lázně a.s.
 5609,5753,61989592,Univerzita Palackého v Olomouci
 5613,5757,03338959,Czech Promoteam s.r.o.
-5617,5761,45794171,SIGMA-ALDRICH spol. s r.o.
 5621,5765,22609385,Mezinárodní šachová škola Interchess
-5625,5769,24745391,Edenred CZ s.r.o.
 5629,5773,00020699,"ČESKÝ HYDROMETEOROLOGICKÝ ÚSTAV, přísp. org."
 5633,5777,04244320,Borry Build s.r.o.
 5637,5781,26384833,Eurotherm-KV s.r.o.
@@ -1307,7 +1235,6 @@ idsml,idver,ico,subjekt
 5661,5805,24184241,JESA s.r.o.
 5665,5809,70745978,Radek Jandovský
 5669,5813,04741111,Mudicon s.r.o.
-5685,5821,25232100,Šumavské vodovody a kanalizace a.s.
 5693,5829,27775402,JOROS s.r.o.
 5697,5833,22719423,"BOXING OSTRAVA, z.s."
 5473,5837,26654989,"Sportovní klub FIT & FUN Ostrava, z.s."
@@ -1321,7 +1248,6 @@ idsml,idver,ico,subjekt
 5725,5869,,Obec Skuhrov
 5729,5873,,Obec Pavlov
 5733,5877,,Obec Přibyslavice
-5737,5881,29246954,"Way to Nature, s.r.o., Svatoplukova 1224/24, Ostrava - Vítkovice 70300"
 5741,5885,00285862,Obec Hodice
 5745,5889,64511341,"Společnost obcí pro lesní hospodaření v Náměšti nad Oslavou, s.r.o."
 5749,5893,,Obec Černíč
@@ -1335,7 +1261,6 @@ idsml,idver,ico,subjekt
 5785,5929,00295205,Obec Radešínská Svratka
 5789,5933,00511242,Obec Lesná
 5793,5937,00295353,Obec Řečice
-5797,5941,25855506,HAOSPOL s.r.o.
 5801,5945,00289922,Městys Mohelno
 5805,5949,00294306,Obec Herálec
 5809,5953,00286079,Městys Kamenice
@@ -1364,7 +1289,6 @@ idsml,idver,ico,subjekt
 5905,6049,14707420,Alliance Healthcare
 5909,6053,24745391,Edenred CZ s.r.o.
 5913,6057,24745391,Edenred CZ s.r.o.
-5253,6061,48425052,Pavel Šomek
 5253,6065,48425052,Pavel Šomek
 5261,6069,88599205,"Luděk Trunečka, DiS"
 5917,6073,28301200,MKA Service s.r.o.
@@ -1378,7 +1302,6 @@ idsml,idver,ico,subjekt
 5949,6105,26078201,EON Energie a.s.
 5953,6109,24128376,"Amper Market, a.s."
 5957,6113,26223155,PODHORAN LUKOV a.s.
-5961,6117,26704277,"Opava Development Company, a.s."
 5965,6121,00544957,AGROTEC a.s.
 5969,6125,24745391,Edenred CZ s.r.o.
 5421,6129,25047299,INSTAS Melíšek s.r.o.
@@ -1390,7 +1313,6 @@ idsml,idver,ico,subjekt
 5997,6157,16052188,Karel Neumann
 6001,6161,76141390,Ing. Ondřej Musil
 6005,6165,28690133,Stavební firma Marek Kopinec s.r.o.
-6009,6169,26375869,VAK SERVIS s.r.o.
 6017,6173,02279401,Služby Morava s.r.o.
 6021,6177,49551655,"TOI TOI, sanitární systémy, s r.o."
 6025,6181,49971379,MSO servis spol. s r.o.
@@ -1430,7 +1352,6 @@ idsml,idver,ico,subjekt
 6173,6329,44797320,"SITEL, spol. s  r.o."
 6181,6337,25609378,GeneTiCA s.r.o.
 6185,6341,26433087,"INSTAMA, s.r.o."
-6189,6345,26026074,"MEMFIS. cz, s.r.o."
 6201,6357,00262803,Město Hejnice
 6205,6361,00262668,Obec Bílá
 6209,6365,00671991,Obec Kryštofovo Údolí
@@ -1449,7 +1370,6 @@ idsml,idver,ico,subjekt
 6257,6417,,Pavel Vrábel
 6265,6425,,Ondřej Sobotka
 6269,6429,14707420,Alliance Healthcare
-6273,6433,26375869,VAK SERVIS s.r.o.
 6277,6437,26456061,"TIBBIS, s.r.o."
 6281,6441,25358928,"wamp in, s.r.o."
 6285,6445,14707420,Alliance Healthcare
@@ -1463,8 +1383,7 @@ idsml,idver,ico,subjekt
 6313,6473,14707420,Alliance Healthcare
 6321,6481,66090806,"AVZO TSČ ČR TEPLICE hrad DOUBRAVKA, p.s."
 6325,6485,03271811,REDBLOCK PROJECT s.r.o.
-6333,6493,69797111,Územní pracoviště Hradec Králové (Úřad pro zastupování státu ve věcech majetkových)
-6341,6501,63492202,"Javořice, a.s."
+6333,6493,69797111,Úřad pro zastupování státu ve věcech majetkových
 6345,6505,25656635,"Pražské vodovody a kanalizace, a.s."
 6349,6509,29382661,HYDRAULICKÉ JEŘÁBY s.r.o.
 6353,6513,45359326,"PHOENIX LV,a.s."
@@ -1492,12 +1411,9 @@ idsml,idver,ico,subjekt
 6433,6601,00275646,Obec Bukovina u Čisté
 6437,6605,61974731,"Trade FIDES, a.s."
 6441,6609,61515914,"Junák – český skaut, středisko Dvojka Teplice,  z. s."
-6445,6613,29385920,Nextis Services s.r.o.
 6449,6617,00554740,V.O.S. INKOD - CHOMUTOV
-6453,6621,28604083,DŘEVO Rakov s.r.o.
 6461,6629,28244532,"Letiště Praha, a. s."
 6465,6633,00275760,Obec Chuchelna
-5625,6637,24745391,Edenred CZ s.r.o.
 6469,6641,25099019,"PROMEDICA PRAHA GROUP,a.s."
 6473,6645,25638955,SITA CZ a.s.
 6477,6649,27712991,Kompresory a chlazení s.r.o.
@@ -1511,7 +1427,6 @@ idsml,idver,ico,subjekt
 6505,6681,00407933,"SOS dětské vesničky, z.s."
 6509,6685,00560618,DC 90 o.p.s
 6513,6689,00636037,Obec Česká Ves
-6517,6693,24187798,WOOD FOR YOU s.r.o.
 6521,6697,00302724,Město Jeseník
 6525,6701,01693182,"Domov se zvláštním režimem Bílsko, o. p. s."
 6529,6705,66113059,LTK Teplice
@@ -1521,7 +1436,6 @@ idsml,idver,ico,subjekt
 6545,6721,25843907,PONTIS Šumperk o.p.s.
 6549,6725,25862294,"TyfloCentrum Olomouc, o.p.s."
 6553,6729,25900757,"Help-in,o.p.s."
-6557,6733,03903907,Netpromotion group s.r.o
 6561,6737,26533952,o.s. InternetPoradna.cz
 6565,6741,26538181,"Pro Vás, z.s."
 6569,6745,26660571,"Společnost Mana, o. p. s."
@@ -1635,7 +1549,7 @@ idsml,idver,ico,subjekt
 7021,7213,70842612,Základní škola speciální a Praktická škola Černovice
 7029,7221,00020681,Ústav pro hospodářskou úpravu lesů
 7033,7225,25999729,TECHNICKÁ A LESNÍ SPRÁVA CHOTĚBOŘ s.r.o.
-7037,7229,546534,STYL 2000 spol. s r.o.
+7037,7229,00546534,STYL 2000 spol. s r.o.
 7053,7241,00263141,Město Raspenava
 7057,7245,,Městys Sněžné
 7061,7249,,Město Moravské Budějovice
@@ -1731,7 +1645,6 @@ idsml,idver,ico,subjekt
 7429,7625,24745391,Edenred CZ s.r.o.
 7433,7629,27279618,Plošiny Rybáček s.r.o.
 7437,7633,18754988,Ing. Luděk Fridrich
-7441,7637,25358928,"wamp in, s.r.o."
 7445,7641,25751018,"ELTODO-CITELUM, s.r.o."
 3309,7645,24745391,Edenred CZ s.r.o.
 7449,7649,,obchodní tajemství
@@ -1744,7 +1657,6 @@ idsml,idver,ico,subjekt
 7477,7681,28786793,"Ing. Ivan Šír, projektování dopravních staveb, a.s."
 7481,7685,46768203,SK Sokol Brozany
 7485,7689,22823441,Česká golfová asociace hendikepovaných
-7489,7693,69601267,"PRO-BIO Svaz ekologických zemědělců, z.s."
 7493,7697,14707420,Alliance Healthcare
 7497,7701,26277760,B.Trade obalové materiály s.r.o.
 7501,7705,41189671,TOTAL ČESKÁ REPUBLIKA s.r.o.
@@ -1789,14 +1701,10 @@ idsml,idver,ico,subjekt
 7677,7885,,Obec Vatín
 7681,7889,45273201,Veronex a.s.
 7685,7893,45273201,Veronex a.s.
-5961,7897,26704277,"Opava Development Company, a.s."
-5961,7901,26704277,"Opava Development Company, a.s."
-5961,7905,26704277,"Opava Development Company, a.s."
 7689,7909,11205202,Tomáš Koupil
 5961,7913,26704277,"Opava Development Company, a.s."
 7693,7917,64610250,"Městský dopravní podnik Opava, a.s."
 7697,7921,45244782,"Česká spořitelna, a.s."
-7701,7925,45244782,"Česká spořitelna, a.s."
 7705,7929,,fyzická osoba
 7709,7933,27512819,HYDRO-M s.r.o.
 7713,7937,27117804,"AMGEN,s.r.o."
@@ -1875,7 +1783,6 @@ idsml,idver,ico,subjekt
 8033,8257,45195579,4 M Rožnov spol. s r. o.
 8037,8261,63113074,Svaz měst a obcí České republiky
 8041,8265,25751018,"ELTODO-CITELUM, s.r.o."
-8045,8269,40763374,"FACSON, spol. s r.o."
 8049,8273,00267449,Město Havlíčkův Brod
 8053,8277,60419466,Obec Častohostice
 8057,8281,00298077,Město Kopřivnice
@@ -1888,14 +1795,12 @@ idsml,idver,ico,subjekt
 8089,8313,70312851,\nDance studio Ostrava
 8097,8317,22755179,Voltiž Duha
 8101,8321,61387991,"Česká florbalová unie, o. s."
-8105,8325,00094854,"Oblastní galerie Vysočiny v Jihlavě, příspěvková organizace"
 8113,8333,60803576,FOTBAL TŘINEC z.s.
 8117,8337,41031547,SAGITTARIA - Sdružení pro ochranu přírody středníMoravy
 8121,8341,25720767,LIN a.s
 8125,8345,65468431,Občanské sdružení AVE
 8129,8349,00533190,TJ Baník Karviná o.s.
 8133,8353,25833901,Česko-polská obchodní komora
-8137,8357,18827527,"Stráský, Hustý a partneři s.r.o."
 8141,8361,75125285,Dolní oblast VÍTKOVICE
 8145,8365,,Svět zábavy Michaela Marková
 8153,8373,64948251,"ALTRON, a.s."
@@ -1934,7 +1839,6 @@ idsml,idver,ico,subjekt
 8317,8541,,Obec Milíčov
 8321,8545,,Město Ledeč nad Sázavou
 8325,8549,28822765,BAMONAFT a.s.
-8329,8553,75964830,Jiří Vařeka
 8333,8557,,Obec Bílý Kámen
 8337,8561,,Obec Hladov
 8341,8565,,Obec Rouchovany
@@ -1973,13 +1877,11 @@ idsml,idver,ico,subjekt
 8477,8705,27020665,"Česká leukemická skupina - pro život, občanské sdružení"
 8105,8709,00094854,"Oblastní galerie Vysočiny v Jihlavě, příspěvková organizace"
 8485,8713,47676795,AutoCont CZ a.s.
-8489,8717,75032333,Národní památkový ústav
 8493,8721,27121372,REMOEX CZ a.s.
 8497,8725,45359326,"PHOENIX LV,a.s."
 8501,8729,,"DIPRO, spol. s r.o."
 8505,8733,28085965,evocati s.r.o.
 8513,8741,00275905,MĚSTO LOMNICE NAD POPELKOU
-8517,8745,00262463,Obec Malá Skála
 8521,8749,00262307,Město Desná
 8525,8753,00262307,Město Desná
 8529,8757,00260401,Obec Brniště
@@ -2009,16 +1911,13 @@ idsml,idver,ico,subjekt
 8637,8865,01592521,BVTV s.r.o.
 8641,8869,63834197,Technická správa komunikací hl.m.Prahy
 8645,8873,27195571,D.I.SEVEN SERVICE s.r.o.
-8649,8877,29048052,ENERGY PRO s.r.o.
 8653,8881,25267027,"Zich a spol., s.r.o."
-8661,8889,48592412,"EVROPSKÁ VODNÍ DOPRAVA-SPED., s.r.o."
 8665,8893,46508147,"THT Polička, s.r.o."
 8669,8897,04673786,Nadační fond regionální fotbalové akademie Ústeckého kraje
 8673,8901,03889530,PKD PROJEKT s.r.o.
 8677,8905,27615952,FUTURA Advertising s.r.o.
 8681,8909,,LEMO Internet a.s.
 8693,8921,29141303,STŘECHY ČAPEK s.r.o.
-8701,8929,27675645,C SYSTEM CZ a.s.
 8705,8933,25793349,SUDOP PRAHA a.s.
 8709,8937,25623257,FS CODES s.r.o.
 8713,8941,62449524,Jaroslav Hejduk
@@ -2027,11 +1926,9 @@ idsml,idver,ico,subjekt
 8737,8965,26115760,DRING Consulting s.r.o.
 8741,8969,49314653,"Gymnázium, Lanškroun, nám. Jana Marka Marků 113"
 8749,8977,12396729,Hana Hončíková
-8753,8981,48038687,"OMV Česká republika, s.r.o."
 8757,8985,46713301,PEMA VELKOOBCHOD s.r.o.
 8769,8997,47542098,BENZ spol.s.r.o.
 8777,9005,25141732,"ALBRA, spol. s r.o."
-8781,9009,64835286,HART - PIPE s.r.o.
 8785,9013,,Fyzická osoba M.N.
 8789,9017,63487951,YBUX s.r.o.
 8793,9021,25397087,PB SCOM s.r.o.
@@ -2044,7 +1941,6 @@ idsml,idver,ico,subjekt
 8821,9053,14707420,Alliance Healthcare
 8825,9057,14707420,Alliance Healthcare
 8829,9061,25598074,"AD 7, spol. s r.o."
-7489,9069,69601267,"PRO-BIO Svaz ekologických zemědělců, z.s."
 8837,9073,,Zdeněk Sternberg
 8841,9077,26069156,Happy Technik s.r.o.
 8845,9081,02058529,"FK Přepeře, z.s."
@@ -2080,8 +1976,6 @@ idsml,idver,ico,subjekt
 8973,9217,27909247,"TIMED, organizační složka"
 8977,9221,27108406,"Airport Systems Design Agency , spol. s r.o."
 8701,9225,27675645,C SYSTEM CZ a.s.
-8981,9229,25835661,"H  & B delta, s.r.o."
-8985,9233,28766423,"GOLEM Group CZ, s.r.o."
 8989,9237,70920907,ZO ČSOP Zelené Vendolí
 9005,9253,00579971,Obec Nejepín
 9009,9257,00511323,Obec Čížkov
@@ -2098,11 +1992,8 @@ idsml,idver,ico,subjekt
 9053,9301,28080602,LUNA PROGRESS s.r.o.
 9057,9305,14707420,Alliance Healthcare
 9061,9309,14707420,Alliance Healthcare
-9065,9313,24729035,"ČEZ Distribuce, a. s."
-9065,9313,28628250,ENPRO Energo s.r.o.
 9073,9321,00268453,Obec Věž
 9077,9325,25084526,"M 3000, a.s."
-8045,9329,40763374,"FACSON, spol. s r.o."
 9081,9333,64088421,T - SAFE s.r.o.
 9085,9337,00295329,Obec Rožná
 9089,9341,00295281,Obec Rovečné
@@ -2154,7 +2045,7 @@ idsml,idver,ico,subjekt
 9281,9545,49617052,ROCHE s.r.o.
 9285,9549,49617052,ROCHE s.r.o.
 9289,9553,27689310,Mikulovská rozvojová s.r.o.
-9293,9557,241229,Obec Horoměřice
+9293,9557,00241229,Obec Horoměřice
 9297,9561,70940223,"Mateřská škola Třebíč, ul.Okružní, příspěvková organizace"
 9301,9565,00378607,Obec Slavičky
 9305,9569,00267996,Obec Oudoleň
@@ -2189,10 +2080,8 @@ idsml,idver,ico,subjekt
 9437,9705,69601267,"PRO-BIO Svaz ekologických zemědělců, z.s."
 9441,9709,00527611,"Tělovýchovná jednota Spartak Rokytnice nad Jizerou, z.s."
 9445,9713,65335775,Zbyněk Toufar
-9449,9717,745615/2858,Lišková Zuzana
 9453,9721,61386839,Dům zahraniční spolupráce
 9461,9725,49968319,"HaSaM, s.r.o."
-9465,9729,04205481,Agentura theBESTtranslation s.r.o.
 9469,9733,00266345,Obec Hrobčice
 9473,9737,27824578,MERANO a.s.
 9477,9741,00266345,Obec Hrobčice
@@ -2255,13 +2144,12 @@ idsml,idver,ico,subjekt
 9725,9993,46750584,"TJ Lokomotiva Česká Lípa, z.s."
 9729,9997,25145444,ICZ a.s.
 9733,10001,00219169,"ARKO TECHNOLOGY, a.s."
-9737,10005,61859575,"MORAVSKÁ VODÁRENSKÁ, a.s."
 9741,10009,46346171,"STAMOS Uherské Hradiště, spol. s r.o."
 9745,10013,28233492,Beckman Coulter Česká republika s.r.o.
 9465,10017,04205481,Agentura theBESTtranslation s.r.o.
 9753,10025,25135228,Fresenius Kabi s.r.o.
 9757,10029,27795152,SPEDOS Vrata a.s.
-9761,10033,243132,Město Příbram
+9761,10033,00243132,Město Příbram
 9765,10037,45584010,Lubomír Fildán
 9769,10041,27076601,"LUBSTAR, a.s."
 9773,10045,12918105,Ing. Jan Zeman
@@ -2270,16 +2158,13 @@ idsml,idver,ico,subjekt
 9793,10061,48041351,Grifols s.r.o.
 9801,10065,46745661,Sportovní klub stolního tenisu Liberec
 9805,10069,00063461,Městská část Praha 2
-9809,10073,04928555,Sewing Development Czech Company s.r.o.
 9817,10081,,Martin Tichý
 9821,10085,00507814,LINET spol. s.r.o.
-9825,10089,64053580,LOSAN s.r.o.
 9833,10097,26306921,"DŘEVOARTIKL, SPOL.S R.O."
 9837,10101,76378969,Tomáš Novák
 9841,10109,43005560,Porr a.s.
 9845,10113,41193113,Unikont Group s.r.o.
 9849,10117,70890749,KruV - RS (Kraj Vysočina)
-9853,10125,26810093,Bartoň a Partner s.r.o.
 9861,10133,02492245,"Ronnex Group, s.r.o."
 9825,10137,64053580,LOSAN s.r.o.
 9865,10145,45192464,Ridera Stavební a.s.
@@ -2314,3 +2199,3166 @@ idsml,idver,ico,subjekt
 9933,10221,29267102,"Braun SDK, s.r.o."
 9941,10229,24729035,"ČEZ Distribuce, a. s."
 9957,10245,47785977,TRANS-REGION-STAV s.r.o.
+9965,10253,64668533,ČLTK BIŽUTERIE Jablonec nad Nisou
+9969,10257,16389298,Tělovýchovná jednota Velké Hamry
+9973,10261,44224087,Liberecký tenisový klub z.s.
+9977,10265,00482421,"Tělovýchovná jednota DUKLA Liberec, z.s."
+9981,10269,16389514,"TJ Desná, z.s."
+9985,10273,41328019,"Atletický klub AC Slovan Liberec, z.s."
+9989,10277,69387940,TS TAKT Liberec
+9993,10281,00483371,"Tělovýchovná jednota Lokomotiva Liberec 1, z.s."
+9997,10285,44224842,"Slovan Frýdlant, oddíl kopané"
+10001,10289,26660385,"FK Turnov, z.s."
+10009,10297,45359326,"PHOENIX LV,a.s."
+10017,10305,43487491,Ing. Jan Němeček - projekční kancelář
+10021,10309,43487491,Ing. Jan Němeček - projekční kancelář
+10025,10313,27487938,MDS projekt s.r.o.
+10029,10317,27558681,MARESA s.r.o.
+10033,10321,43487491,Ing. Jan Němeček - projekční kancelář
+10037,10325,27487938,MDS projekt s.r.o.
+10041,10329,27558681,MARESA s.r.o.
+10045,10333,27558681,MARESA s.r.o.
+10049,10337,27558681,MARESA s.r.o.
+10061,10349,70100691,Poradna pro občanství/Občanská a lidská práva
+10065,10353,60850213,Povltavská stavební společnost s.r.o.
+10013,10357,60755075,SILKO s.r.o.
+10069,10361,87728320,Martin Kocourek
+10073,10365,25352776,KAR-mobil s.r.o.
+10077,10369,49977202,VV TOP s.r.o.
+10085,10377,00845035,"Komorní scéna Aréna, příspěvková organizace"
+10089,10381,28708091,"Říp, o.p.s."
+10097,10389,24729035,"ČEZ Distribuce, a. s."
+10101,10393,28608909,"ATRIS, s.r.o."
+10105,10397,00845035,"Komorní scéna Aréna, příspěvková organizace"
+10109,10401,87728320,Martin Kocourek
+10113,10405,,Pradeová Renata
+10121,10413,26617013,"Bunkr , o.p.s."
+10125,10417,00373222,"Janáčkova filharmonie Ostrava, příspěvková organizace"
+10125,10417,00845451,Městský obvod Vítkovice
+10129,10421,65141261,TRANSCARGO s.r.o.
+10133,10425,25317628,"FIRESTA-Fišer, rekonstrukce, stavby a.s."
+10137,10429,25691970,"VELAZ, s.r.o."
+10141,10433,00845451,Městský obvod Vítkovice
+10141,10433,00100528,"Národní divadlo moravskoskoslezské, příspěvková organizace"
+10145,10437,62502034,BÜROPROFI s.r.o.
+10149,10441,48386740,Jiří Kouřil
+10153,10445,61386839,Dům zahraniční spolupráce
+10157,10449,25590511,"STEELMET, s.r.o."
+10165,10457,64829413,AGRO CS a.s.
+10169,10461,48539589,"SAMSON PRAHA, spol. s r.o."
+10173,10465,11480467,Zdeněk Červinka
+10177,10469,61386839,Dům zahraniční spolupráce
+10185,10477,2870704461,"Elzeton, s.r.o."
+10189,10481,,Prattingerová Jana
+10193,10485,,Na základě § 5 odst. 6ZRS vyloučeno z uveřejnění
+10197,10489,74695347,Digital Info Promotion LLC
+10205,10497,28766423,"GOLEM Group CZ, s.r.o."
+10209,10501,24120375,SP Elektro s.r.o.
+10213,10505,25334611,"SILSTAP - silniční stavební práce, s.r.o."
+10217,10509,62414402,Purum s.r.o.
+10221,10513,60781165,T. J. Sokol Olomouc-Neředín
+10225,10517,24206181,Werfen Czech s.r.o.
+10229,10521,,Mgr. Wolkerová Ilona
+10233,10525,,"The Centre For Applied Genomics, The Hospital for Sick Children"
+10241,10533,,manželé Jaroslava a Jiří Hromadovi
+10245,10537,68149816,Petra Jbaili
+10249,10541,04624041,"DELTA facility, s.r.o."
+10253,10545,45359326,"PHOENIX LV,a.s."
+10265,10557,44963386,"Kámen Brno, spol. s r.o."
+10269,10561,00100528,"Národní divadlo moravskoskoslezské, příspěvková organizace"
+10273,10565,45359326,"PHOENIX LV,a.s."
+10277,10569,00373222,"Janáčkova filharmonie Ostrava, příspěvková organizace"
+10281,10573,,Obchodní tajemství
+10285,10577,46356088,"ÚJV Řež, a. s."
+10289,10581,45359326,"PHOENIX LV,a.s."
+10293,10585,,Obchodní tajemství
+10297,10589,25888595,VAPES CE s.r.o.
+10301,10593,64693112,MARTIN MRÁZEK
+10305,10597,45357307,Silnice Klatovy a.s.
+10309,10601,45359326,"PHOENIX LV,a.s."
+10317,10609,26617013,"Bunkr , o.p.s."
+9961,10613,49356691,Carl Zeiss spol. s r.o.
+10321,10617,47676795,AutoCont CZ a.s.
+10325,10621,45359326,"PHOENIX LV,a.s."
+10329,10625,47676795,AutoCont CZ a.s.
+10333,10629,65765885,Centrum AMAVET - Junior Brno
+10337,10633,48038687,"OMV Česká republika, s.r.o."
+10345,10641,45359326,"PHOENIX LV,a.s."
+10349,10645,14817802,Josef Marek
+10353,10649,,Fyzická osoba- I.S.
+10357,10653,14707420,Alliance Healthcare
+10361,10657,,fyzická osoba
+10365,10661,00565474,BAYER s.r.o.
+10369,10665,00278017,Obec Kohoutov
+10373,10669,70879150,"Základní škola K.V.Raise, Lázně Bělohrad, okres Jičín"
+10377,10673,03838722,ENERGYLOW s.r.o.
+10381,10677,26792711,SILNICE.CZ s. r. o.
+10385,10681,25097008,"REISSWOLF likvidace dokumentů a dat, s.r.o."
+10389,10685,25186183,"BOHEMIA ASFALT, s.r.o."
+10393,10689,25112015,"BS PRAGUE MEDICAL CS, spol. s r.o."
+10397,10693,14707420,Alliance Healthcare
+10401,10697,25099019,"PROMEDICA PRAHA GROUP,a.s."
+10405,10701,45359326,"PHOENIX LV,a.s."
+10409,10705,,Obchodní tajemství
+10413,10709,14817802,Josef Marek
+10417,10713,45359326,"PHOENIX LV,a.s."
+10421,10717,49617052,ROCHE s.r.o.
+10425,10721,45359326,"PHOENIX LV,a.s."
+10429,10725,42179831,Jiří Kejř
+10433,10729,25629646,"TEVA Pharmaceuticals CR, s.r.o."
+10437,10733,25186183,"BOHEMIA ASFALT, s.r.o."
+10441,10737,25186183,"BOHEMIA ASFALT, s.r.o."
+10445,10741,26260654,Avenier a.s.
+10449,10745,,SAI Infusion Technologies
+10453,10749,,Obchodní tajemství
+10461,10757,24148725,AbbVie s.r.o.
+10465,10761,,Utylis Energie s.r.o.
+10469,10765,27426653,BusinessCom  a.s.
+10473,10769,62043935,Jan Kolowrat-Krakowský
+10485,10781,27224953,FRMOL s.r.o.
+10489,10785,47282711,oaza - net spol. s r.o.
+10493,10789,,Michal Hamáček
+10497,10793,,Zdeněk Divíšek
+10501,10797,,Kateřina Slížová
+10505,10801,,Josef Vlk
+10509,10805,,Jiřina Milerová
+10513,10809,,Ing. Miroslav Štěpán
+10517,10813,,Antonín Dufek
+10521,10817,,Martin Paldus
+10525,10821,,Bohumil Šulc
+10529,10825,,Mgr. Jitka Madejová
+10533,10829,,Petr Šimral
+10537,10833,,Jarmila Křížková
+10541,10837,,Květoslav Kudrnáč
+10545,10841,,Ing. Bohumil Bičiště
+10553,10849,24148725,AbbVie s.r.o.
+10093,10853,28608909,"ATRIS, s.r.o."
+10561,10857,61278971,"Doc. RNDr. Jana Kocourová, CSc."
+10565,10861,,Marie Zurčínová
+10569,10869,,Komárek Martin
+10573,10873,28149114,Pavon Gastro s.r.o.
+10577,10877,47538856,JOHNNY SERVIS s.r.o.
+10581,10881,61860476,Sodexo Pass Česká republika a.s.
+10589,10889,48586285,B. Braun Medical s.r.o.
+10593,10893,61989592,Univerzita Palackého v Olomouci
+10597,10897,41189671,TOTAL ČESKÁ REPUBLIKA s.r.o.
+10477,10901,25691970,"VELAZ, s.r.o."
+10601,10905,,Obchodní tajemství
+10605,10909,28650859,"NEUROLKA s.r.o., MUDr. Jan Žwak"
+10609,10917,60719877,CARDION s.r.o.
+10613,10921,,"Medical Business+Consulting Slovakia, s.r.o."
+10585,10925,41189671,TOTAL ČESKÁ REPUBLIKA s.r.o.
+10617,10929,62300920,OZO Ostrava s.r.o.
+10549,10933,25065939,"SCHOELLER INSTRUMENTS, s.r.o."
+10621,10937,25396544,"Ostravské komunikace, a.s."
+10625,10941,00000493,"VOP CZ, s.p."
+10629,10945,,"ANDY, s.r.o."
+10633,10949,25396544,"Ostravské komunikace, a.s."
+10637,10953,27660940,Požární bezpečnost s.r.o.
+10641,10957,,Ing. Karel Novotný
+10645,10961,,Jaroslav Dejmek
+10653,10969,,Ivana Krištofková
+10657,10973,,Blažena Salabová
+10661,10977,,Lukáš Havránek
+10665,10981,01391577,BoneCare s.r.o.
+10669,10985,,Na základě § 5 odst. 6 ZRS vyloučeno z uveřejnění.
+10681,10997,26177005,"COLAS CZ, a.s."
+10685,11001,41193075,"Johnson  & Johnson, s.r.o."
+10689,11005,47282711,oaza - net spol. s r.o.
+10693,11009,60193913,"Pražská energetika, a.s."
+10701,11017,00075370,Statutární město Plzeň
+10705,11021,45794120,"ETL-Ekotherm, spol.s r.o."
+10709,11025,48586285,B. Braun Medical s.r.o.
+10713,11029,70824282,Centrum seniorů Mělník
+10717,11033,74835581,Radek Vettermann
+10721,11037,26439395,První certifikační autorita  a.s.
+10725,11041,68378025,"Sociologický ústav AV ČR, v. v. i."
+10729,11045,26043319,Internet CZ
+10733,11049,72510021,Vladimíra Kneslíková - Služba škole
+10737,11053,15050084,"ComArr, spol. s r.o."
+10741,11057,27094987,CHEIRÓN a.s.
+10749,11065,,Truhlářství Minařík
+10753,11069,70289361,Florbalový klub PANTHERS OTROKOVICE
+10757,11073,01414143,"Electronica Group, s.r.o."
+10761,11077,70824282,Centrum seniorů Mělník
+10765,11081,49455842,Vodárenská akciová  a.s.
+10769,11085,,GTS Novera a.s.
+10777,11093,49451341,Brnotron v.o.s
+10781,11097,,Ave komunální služby s.r.o
+10785,11101,47677961,"Pila MSK, a.s."
+10789,11105,41193598,ContiTrade Services s.r.o.
+10801,11117,01482840,Tatra Trucks a.s.
+10805,11121,45106363,Milan Vácha
+10481,11125,45028249,Jaroslav Jabůrek
+10813,11133,,Jan Honců
+10817,11137,25961039,JESPO obal s.r.o.
+10821,11141,64772624,Tomáš Hanzlík
+10825,11145,00290629,Město Třebíč
+10829,11149,25648241,"SES BOHEMIA ENGINEERING, a.s."
+10833,11153,26042029,M Computers s.r.o.
+10841,11161,,Plošiny Rybáček s.r.o.
+10845,11165,,Zdeněk Krejsa
+10849,11169,,Jaroslav Kosťun
+10853,11173,,Jan Kaněra
+10857,11177,,Luděk Markvart
+10861,11181,,Miloslav Kudr
+10865,11185,25028316,"Stavební společnost Jaroslav Oršuliak, a.s."
+10869,11189,27828417,VOJKŮVKA s.r.o.
+10877,11197,25691970,"VELAZ, s.r.o."
+10881,11201,03748600,Stavebniny DEK a.s.
+10889,11209,10466452,Lubomír Dvořák
+10897,11217,,Jiří Nykl
+10901,11221,,Jiří Borovička
+10905,11225,,Miloslav Lelek
+10909,11229,,Josef Zákoucký
+10913,11233,13642464,"GEMO OLOMOUC, spol. s r.o."
+10917,11237,44018045,GIENGER spol. s r.o.
+10921,11241,13642464,"GEMO OLOMOUC, spol. s r.o."
+10925,11245,48677752,"Domov Barbora Kutná Hora, poskytovatel sociálníchslužeb"
+10929,11249,25323610,HRASPO spol. s r.o.
+10933,11253,63492202,"Javořice, a.s."
+10937,11257,43465242,Římskokatolická farnost - děkanství Hostinné
+10941,11261,00272299,Obec Újezd pod Troskami
+10945,11265,43465242,Římskokatolická farnost - děkanství Hostinné
+10949,11269,60464496,"GHC Invest, s.r.o."
+10953,11273,27430774,ROBSTAV stavby k.s.
+10957,11277,60838744,STRABAG a.s.
+10957,11277,00256561,Obec Dolní Lukavice
+10961,11281,45357307,Silnice Klatovy a.s.
+10965,11285,65141261,TRANSCARGO s.r.o.
+10969,11289,48029483,AŽD Praha s.r.o.
+10873,11293,26956756,LIGNOMETAL s.r.o.
+10973,11297,,neuvedeno
+10977,11301,27117804,"AMGEN,s.r.o."
+10981,11305,26177005,"COLAS CZ, a.s."
+10985,11309,70189013,"Mateřská škola, Nový Bydžov, F. Palackého 1241"
+10989,11313,28747623,TEPSTROJ s.r.o.
+10993,11317,49617052,ROCHE s.r.o.
+10997,11321,25403460,ARMEX OIL s.r.o.
+11001,11325,14707420,Alliance Healthcare
+11005,11329,25302809,JAVORNÍK-CZ-PLUS s.r.o.
+11009,11337,25908375,INTIMEX s.r.o.
+11013,11341,,Emil Prokš
+11017,11345,,Josef Žaloudek
+11025,11353,29272149,"PJB SERVIS, s.r.o."
+11029,11357,28604083,DŘEVO Rakov s.r.o.
+11033,11361,67362621,"Poradna pro integraci,z.ú."
+11037,11365,25095145,"Abbott Laboratories, s.r.o."
+11041,11369,,občanské sdružení Čistěveský dráček
+11045,11373,47676795,AutoCont CZ a.s.
+10793,11377,28666569,"Rock Empire, s.r.o."
+11049,11381,,Josef Kaňka
+11053,11385,29085161,"Dobrá chuťovka, s.r.o."
+11057,11389,64574296,"ITTEC, s.r.o."
+11061,11393,41193075,"Johnson  & Johnson, s.r.o."
+11065,11397,48267210,"ARR - Agentura regionálního rozvoje, spol. s r.o."
+11069,11401,,Radek Mlejnek
+11073,11405,,Jaroslav Lešák
+11077,11409,,Regina Krchňáková
+11081,11413,,Věra Žďárská
+11085,11417,25095145,"Abbott Laboratories, s.r.o."
+11089,11421,28497481,DiaSorin Czech s.r.o.
+11093,11425,28977955,WANDEL CZECH s.r.o.
+11097,11429,41605373,"UPS Technology, spol. s r. o."
+11105,11437,00575381,"DAV, a.s."
+11109,11441,00029084,"Snaha KV, družstvo\n"
+11113,11445,47827254,Jaroslav Křenek
+11117,11449,24206741,GTH catering a.s.
+11121,11453,45310203,MEDKOTECH s.r.o.
+11125,11457,47606550,"Sdružení Čechů z Volyně a jejich přátel, z.s."
+10885,11461,25691970,"VELAZ, s.r.o."
+11133,11469,48586285,B. Braun Medical s.r.o.
+11137,11473,27146928,"Janssen-Cilag,s.r.o."
+11141,11477,60154721,"Základní škola Schulzovy sady, Dvůr Králové nad Labem, Školní 1235"
+11145,11481,26072602,"ASTON - služby v ekologii, s.r.o."
+11149,11485,45359326,"PHOENIX LV,a.s."
+11157,11493,,David Jinek
+11161,11497,25264605,Stora Enso Wood Products Ždírec s.r.o.
+11165,11501,,Petra Švarcová
+11169,11505,24148725,AbbVie s.r.o.
+11173,11509,48035599,SWIETELSKY stavební s.r.o.
+11177,11513,25264605,Stora Enso Wood Products Ždírec s.r.o.
+11181,11517,25403460,ARMEX OIL s.r.o.
+11185,11521,25635972,Boston Scientific Česká republika s.r.o.
+11189,11525,24257311,IVPS Inženýrská výstavba a pozemní stavby s.r.o.
+11197,11533,24206741,GTH catering a.s.
+11201,11537,25432010,L2M - rolety s.r.o.
+11209,11545,25479733,"KM - PRONA, a.s."
+11213,11549,26229854,WOOD & PAPER a.s.
+11221,11557,45350353,"PRIMA VIA, s.r.o."
+11225,11561,,PAVLYUK BOGDAN
+11229,11565,25085484,A care a.s.
+11233,11569,64617874,STAMONT - POZEMNÍ STAVITELSTVÍ s.r.o.
+11237,11573,26485524,"Dallmayr Vending & Office, k.s."
+11241,11577,26485524,"Dallmayr Vending & Office, k.s."
+11245,11581,26485524,"Dallmayr Vending & Office, k.s."
+11253,11589,27933075,R.K.L. systém s.r.o.
+11257,11593,25497561,PNEU HNÍDEK s.r.o.
+11261,11597,60703016,"MEDICOPROJECT, s.r.o."
+11265,11601,42108438,Petr Kendík
+11269,11605,01391577,BoneCare s.r.o.
+11277,11613,25636057,"ADJUST ART, spol. s r.o."
+11281,11617,26072602,"ASTON - služby v ekologii, s.r.o."
+11285,11621,28644484,Profistav-elektro s.r.o.
+11289,11625,48173355,"PARAMO, a.s."
+11293,11629,64175227,Miroslav Šálený
+11297,11633,00288934,Obec Vrbátky
+11301,11637,00636126,Obec Beňov
+11305,11641,48677752,"Domov Barbora Kutná Hora, poskytovatel sociálníchslužeb"
+11313,11649,61860476,Sodexo Pass Česká republika a.s.
+11317,11653,27513149,DERS Group s.r.o.
+11321,11657,29385920,Nextis Services s.r.o.
+11325,11661,00507814,LINET spol. s.r.o.
+11329,11665,48171131,"Iveco Czech Republic, a. s."
+11333,11669,,obchodní tajemství
+11337,11673,,obchodní tajemství
+11341,11677,,Obchodní tajemství
+8045,11681,40763374,"FACSON, spol. s r.o."
+9809,11685,04928555,Sewing Development Czech Company s.r.o.
+11345,11689,,Pavel Udatný
+11349,11693,,Miroslav Kozák
+11353,11697,,Petr Svoboda
+11357,11701,46350110,TRIGON PLUS spol. s r.o.
+11361,11705,49976770,"Mediform, spol. s r.o."
+11365,11709,25501003,DYNATECH s.r.o.
+11369,11713,13865170,František Vopat
+11373,11717,,El Camino GmbH
+11377,11721,45359326,"PHOENIX LV,a.s."
+11381,11725,27512614,DYNTAR spol. s r.o.
+11385,11729,01391577,BoneCare s.r.o.
+11389,11733,45359326,"PHOENIX LV,a.s."
+11393,11737,05049989,MUDr. Eva Jašová
+11397,11741,29267102,"Braun SDK, s.r.o."
+11401,11745,14707420,Alliance Healthcare
+11409,11753,26322242,PP-servis Plzeň s.r.o.
+11413,11757,27765857,FICHNA - HUDECZEK a.s.
+11417,11761,25635972,Boston Scientific Česká republika s.r.o.
+11429,11773,71008063,"Mateřská škola Jaroměř, Lužická 321"
+11433,11777,27532208,"SOVIS CZ, a.s."
+11437,11781,01391577,BoneCare s.r.o.
+11445,11789,73925381,Zdeněk Opletal
+11453,11797,40924394,Ing. Bohumil Šťastný
+11457,11801,01391577,BoneCare s.r.o.
+11465,11809,00299308,Statutární město Olomouc
+11217,11813,28634993,ISOWELL Building s.r.o.
+11469,11817,00299634,Město Uničov
+11481,11829,00288659,Statutární město Prostějov
+11485,11833,41189671,TOTAL ČESKÁ REPUBLIKA s.r.o.
+11493,11841,29268826,"ICT Energo, s.r.o."
+11497,11845,25635972,Boston Scientific Česká republika s.r.o.
+11501,11849,00576263,Obec Bukovany
+11505,11853,46460829,Fotbalový klub Kostelec nad Orlicí z. s.
+11509,11857,00299308,Statutární město Olomouc
+11517,11865,24206181,Werfen Czech s.r.o.
+11521,11869,48592722,"DIPRO, spol. s. r. o."
+11525,11873,41189671,TOTAL ČESKÁ REPUBLIKA s.r.o.
+11537,11885,00576263,Obec Bukovany
+11541,11889,,Kučerová Blanka
+11545,11893,00299634,Město Uničov
+11553,11901,25635972,Boston Scientific Česká republika s.r.o.
+11561,11909,00075370,Statutární město Plzeň
+11573,11921,40767141,"Ateliér AND, spol. s. r. o."
+11577,11925,,Zdeněk Jirkal
+11581,11929,,Josef Koník
+11585,11933,,Renata Šťastná
+11589,11937,,Radek Vimmer
+11593,11941,,Vlasta Fidlerová
+11597,11945,,Vítěslav Gracias
+11605,11953,,Jiří Macek
+11609,11957,75124718,"Společenství vlastníků jednotek Tyršova č.p. 351, 352, 353, 354/IV Klatovy"
+11613,11961,,B.BRAUN Medical s.r.o.
+11625,11973,25106643,Diamant film Praha s.r.o.
+11629,11977,00578509,Obec Petrovičky
+11633,11981,64949681,T-mobile Czch Republic a.s.
+11637,11985,10072403,Josef Vašek - VAPO
+11641,11989,25548085,"KONZULTA Brno,a.s."
+11649,11997,28829689,LTM Krkonoše s.r.o.
+11653,12001,31715796,"TECH-MONT Helicopter company, s.r.o."
+11661,12009,27482219,drevotvar.com družstvo
+11669,12017,36363669,W.A.R. s.r.o.
+11677,12025,,"Mandavan, z.s."
+11685,12033,48529753,"BAUMAT,spol.s.r.o."
+11693,12041,00075370,Statutární město Plzeň
+11697,12045,,Fyzická osoba
+11701,12049,25625632,newps.cz s.r.o.
+11705,12053,27529517,2G geolog s.r.o.
+11709,12057,28711335,DPU REVIT s.r.o.
+11721,12069,36363669,W.A.R. s.r.o.
+11729,12077,,Fyzická osoba
+11733,12081,24124184,Polabská lesní s.r.o.
+11737,12085,70983097,Svazek obcí pod Kunětickou horou
+11761,12105,26871068,Vsetínská nemocnice a.s.
+11765,12109,,Dobročinný fond ViZa
+11769,12113,18659764,Mgr. Radana Hamsíková Podzemná
+11781,12125,24779296,"WEGER CZ, s.r.o."
+11801,12145,25755021,"COMFORT CARE, a.s."
+11805,12149,70891095,Středočeský kraj - rejstřík smluv (Středočeský kraj)
+11809,12153,25600699,"SERIFA, s.r.o."
+11813,12157,25391810,RÝMSTAV CZ spol. s r.o.
+11817,12161,25508881,"Dopravní podnik města Brna,a.s."
+11821,12165,61989100,Vysoká škola báňská - Technická univerzita Ostrava
+11825,12169,87988160,Mgr. Dagmar Hamsíková
+11829,12173,15873943,Ivo Novák
+11833,12177,28234642,Bidvest Czech Republic s.r.o.
+11837,12181,26342545,Jatky Blovice s.r.o.
+11845,12189,48267210,"ARR - Agentura regionálního rozvoje, spol. s r.o."
+11849,12193,00565679,NOWASTAV akciová společnost
+11857,12201,47785977,TRANS-REGION-STAV s.r.o.
+11861,12205,47785977,TRANS-REGION-STAV s.r.o.
+11865,12209,00565679,NOWASTAV akciová společnost
+11869,12213,65082818,Tuháček Ervín - HUBERT
+11873,12217,47780274,PEXTRA stavební spol. s r. o.
+11877,12221,24128376,"Amper Market, a.s."
+11881,12225,27195147,"SMP CZ, a.s."
+11885,12229,70891095,Středočeský kraj - rejstřík smluv (Středočeský kraj)
+11889,12233,48038687,"OMV Česká republika, s.r.o."
+11893,12237,49196812,OMEXOM GA Energo s.r.o.
+11897,12241,70890749,KruV - RS (Kraj Vysočina)
+11901,12245,26956683,RIVA SERVIS s.r.o.
+11905,12249,00170551,OBEC ÚDRNICE
+11909,12253,00271471,Obec Dětenice
+11913,12257,00274810,OBEC ČESKÉ MEZIŘÍČÍ
+11917,12261,00580775,OBEC SUCHOVRŠICE
+11925,12269,00277941,OBEC CHVALEČ
+11929,12273,00580783,Obec Horní Kalná
+11937,12281,68561385,Ing. Václav Slavíček
+11941,12285,70890749,KruV - RS (Kraj Vysočina)
+11945,12289,26177005,"COLAS CZ, a.s."
+11949,12293,70890749,KruV - RS (Kraj Vysočina)
+11953,12301,10147535,Josef Krch
+11957,12305,02492032,AUTOOPRAVNY Prachatice s.r.o.
+11961,12309,01391577,BoneCare s.r.o.
+11965,12313,28977653,AJAX CZ s.r.o.
+11969,12317,48032263,"Bytové družstvo uživatelů domu čp.820,Budějovická 42 Praha 4"
+11973,12321,71164952,SH ČMS - Krajské sdružení hasičů Olomouckého kraje
+11977,12325,26177005,"COLAS CZ, a.s."
+11985,12333,26272211,Serviscentrum Vysočina s.r.o.
+11989,12337,68688393,"Klub společenských tanců Aleše a Dany MědílkovýchZlín, z.s."
+11997,12345,00579238,Obec Jílovice
+12001,12349,00278335,MĚSTO SVOBODA NAD ÚPOU
+12005,12353,70504547,"Základní škola Humpolec, Hradská 894, okres Pelhřimov"
+12009,12357,,Ing. Milan Fíla
+12009,12357,,Ing. Olga Fílová
+12013,12361,26448831,VEMEX s.r.o.
+12017,12365,66244773,"Kiselová Simona, Mgr. - soudní exekutorka"
+12021,12369,25297015,B plus P spol. s r.o.
+12029,12377,43005071,"RAISA, spol. s r.o."
+12033,12381,46508431,"STATEK DOUBRAVKA, s.r.o."
+12037,12385,,"Strana psa, o.s."
+12045,12393,00262455,Město Lučany nad Nisou
+12049,12397,,obchodní tajemství
+12053,12401,25270095,Technické služby Náchod s.r.o.
+12057,12405,,Musil Jaroslav
+12057,12405,,Musilová Alena
+12065,12413,64949681,T-mobile Czch Republic a.s.
+12069,12417,26378191,TaNET West s.r.o.
+12073,12421,64669351,"TK Břízky, z.s."
+12077,12425,28633831,TECHSTAIN s.r.o.
+12081,12429,70866104,Základní článek Hnutí Brontosaurus Modrý kámen
+12085,12433,70888337,Jihomoravský kraj
+12089,12437,27850463,"Leemon Concept, s.r.o."
+12093,12441,28144368,PREZENTA CZECH s.r.o.\nPelhřimov\n
+12097,12445,42324254,OTIS a.s.
+12101,12449,87848686,Sylvie Štefková
+12105,12453,41326687,"Horák - stavební a obchodní společnost, s.r.o."
+12109,12457,62156489,Mendelova univerzita v Brně
+12121,12469,02449862,PRONTO-OKNA DVEŘE s.r.o.
+12125,12473,00276022,Obec Příkrý
+12129,12477,,Mrva Václav
+12133,12481,46508431,"STATEK DOUBRAVKA, s.r.o."
+12141,12485,27434141,MGA GREIF s.r.o.
+12145,12489,00000493,"VOP CZ, s.p."
+12149,12493,00000493,"VOP CZ, s.p."
+12153,12497,00000493,"VOP CZ, s.p."
+12157,12501,00216208,Univerzita Karlova v Praze
+12161,12505,05197643,Machátová Veronika
+12165,12509,26240980,"Sasta CZ, a.s."
+12169,12513,46683461,"SETO, spol. s r.o."
+12173,12517,29303966,Thermo Solutions s.r.o.
+12177,12521,25409891,TopKarMoto s.r.o.
+12181,12525,62587978,"VERA, spol. s r.o."
+12185,12529,25791079,"HPST, s.r.o."
+12193,12537,26177005,"COLAS CZ, a.s."
+12197,12541,,ŠEVČÍKOVÁ KLÁRA
+12201,12545,,ŠEVČÍKOVÁ MARKÉTA
+12205,12549,,ILČÍKOVÁ ANEŽKA
+12209,12553,,ŠPRTOVÁ KAROLÍNA
+12213,12557,48038687,"OMV Česká republika, s.r.o."
+12217,12561,,Veselý Miroslav
+12221,12565,,Veselý Miroslav
+12229,12573,60193531,"ČEPRO, a.s."
+12233,12577,26177005,"COLAS CZ, a.s."
+12237,12581,60193531,"ČEPRO, a.s."
+12241,12585,04179960,"Siemens Healthcare, s.r.o."
+12245,12589,63469511,NWT a.s.
+12249,12593,28085400,E.On Distribuce a.s.
+12253,12597,,Fyzická osoba - J.Ř.
+12257,12601,63564831,Luboš Milichovský
+12261,12605,10288830,Jiří Písař
+12265,12609,70891095,Středočeský kraj - rejstřík smluv (Středočeský kraj)
+12269,12613,28085400,E.On Distribuce a.s.
+12273,12617,,Ing. Václav Jansa
+12273,12617,,Ing. Jana Jansová
+3885,12621,30224349,"Decon, spol. s r.o."
+12277,12625,28527895,Valvera s.r.o.
+12281,12629,46508147,"THT Polička, s.r.o."
+12285,12633,,DYMÁČEK JOSEF
+12289,12637,45359326,"PHOENIX LV,a.s."
+12293,12641,,CHMELOVÁ VERONIKA
+12297,12645,67252117,Emil Šůla
+12301,12649,42196868,M - SILNICE a.s.
+12305,12653,26689707,"SUNCAD, s.r.o."
+12309,12657,26721511,Nadece ČEZ
+12317,12665,,Mgr. SVOBODA MAREK MBA
+12321,12669,49283171,"NADOZ, s.r.o."
+12325,12673,22801936,"DESIGN 4 - projekty staveb, s.r.o."
+12329,12677,,HOLÍK ZDENĚK
+12333,12681,01391577,BoneCare s.r.o.
+12337,12685,47676795,AutoCont CZ a.s.
+12341,12689,45359326,"PHOENIX LV,a.s."
+12345,12693,26128233,RENTEL a.s.
+12349,12697,,LOPRAIS PAVEL
+12353,12701,14707420,Alliance Healthcare
+12357,12705,01391577,BoneCare s.r.o.
+12361,12709,73102156,Lenka Gulašiová
+12365,12713,48135267,"ĆR - Úřad pro technickou normalizaci,metrologii astátní zkušebnictví,organizační složka státu"
+12369,12717,16279034,Pavel Kašpar
+12373,12721,14707420,Alliance Healthcare
+12377,12725,48171131,"Iveco Czech Republic, a. s."
+12381,12729,25792628,WORLD BUSINESS CENTER s.r.o.
+12385,12733,25518241,K6 s.r.o.
+12389,12741,25252135,JOPECO spol. s r.o.
+12393,12745,29249627,AUTOSERVIS TOTH s.r.o.
+12397,12749,19014104,EMOS spol. s r.o.
+12409,12761,47453702,M A K R O - ND spol. s r. o.
+12413,12765,15292789,Ing. arch. Richard Cibik
+12417,12769,42638011,"Jonal, spol. s r.o."
+12425,12777,25403460,ARMEX OIL s.r.o.
+12429,12781,44113099,Jarmila Neduchalová
+12433,12789,48135267,"ĆR - Úřad pro technickou normalizaci,metrologii astátní zkušebnictví,organizační složka státu"
+12437,12793,45359326,"PHOENIX LV,a.s."
+12441,12797,25512251,"TESPRA Hodonín, s.r.o."
+12445,12801,46508147,"THT Polička, s.r.o."
+12449,12805,48135267,"ĆR - Úřad pro technickou normalizaci,metrologii astátní zkušebnictví,organizační složka státu"
+12457,12813,48135267,"ĆR - Úřad pro technickou normalizaci,metrologii astátní zkušebnictví,organizační složka státu"
+12041,12817,,Fyzická osoba
+12465,12825,27688828,Chanar s.r.o
+12469,12829,,Novotný Josef
+12473,12833,,Palán Karel
+12477,12837,,Bedřich Novotný
+12481,12841,15045480,"JUNÁK - český skaut, Středisko Štika Turnov, z.s."
+12485,12845,46969951,"REPRESS, spol. s r.o."
+12489,12849,45359326,"PHOENIX LV,a.s."
+12421,12853,24745391,Edenred CZ s.r.o.
+12497,12861,61394041,Libor Masařík
+12501,12865,14707420,Alliance Healthcare
+12505,12869,25145444,ICZ a.s.
+12509,12873,69617058,"Ing. Petr Bureš, Ph.D."
+12513,12877,61860476,Sodexo Pass Česká republika a.s.
+12517,12881,45359326,"PHOENIX LV,a.s."
+12521,12885,49787021,"CAPSELLA, spol. s r. o."
+12525,12889,48111198,ACTIVA spol. s r.o.
+12529,12893,00635995,Obec Mírov
+12533,12897,61860476,Sodexo Pass Česká republika a.s.
+12537,12901,00565474,BAYER s.r.o.
+12541,12905,67338810,DUHA klub Dlažka
+12545,12909,25390686,"MINFAR, spol. s r.o."
+12549,12913,00295841,Město Žďár nad Sázavou
+12553,12917,27688828,Chanar s.r.o
+12557,12921,45792143,"EURORAD, spol. s r. o."
+12561,12925,47674539,"Strojírny a stavby Třinec, a.s."
+12565,12929,00090450,"Krajská správa a údržba silnic Vysočiny, příspěvková organizace"
+12569,12933,00285293,Obec Starý Poddvorov
+12573,12937,48035599,SWIETELSKY stavební s.r.o.
+12577,12941,,neuvedeno
+12581,12945,24745391,Edenred CZ s.r.o.
+12585,12949,45794707,"ARAMARK, s.r.o."
+12593,12953,24206741,GTH catering a.s.
+9065,12957,24729035,"ČEZ Distribuce, a. s."
+12597,12961,00029807,"ORLÍK-KOMPRESORY, výrobní družstvo"
+12601,12965,45794171,SIGMA-ALDRICH spol. s r.o.
+12605,12969,24206741,GTH catering a.s.
+12609,12973,45280096,"ZELOS, spol. s r.o."
+12617,12981,,Lucie Dvorská
+12625,12989,62335685,"Junák - český skaut, středisko Ladislava Ruska, z.s."
+12629,12993,41192168,ARCADIS CZ a.s.
+12633,12997,26185423,"East Port Praha, s.r.o."
+12637,13001,42196451,"Lesy České republiky, s.p."
+12641,13005,24745391,Edenred CZ s.r.o.
+12645,13009,64524400,Leona Nerudová
+12401,13017,45359326,"PHOENIX LV,a.s."
+12653,13021,25466810,G DESIGN spol. s r.o.
+12657,13025,25008196,ALKON s.r.o.
+12661,13029,02210088,Quick & Quality IT s.r.o.
+12665,13033,00483389,"TETRONIK, v.d."
+12669,13037,26700778,Dräger Safety s.r.o.
+12673,13041,03665496,Hautech a.s.
+12677,13045,26095157,"Nemocnice Jindřichův Hradec, a.s."
+12681,13049,29222389,"InQool, a.s."
+12685,13053,26177005,"COLAS CZ, a.s."
+12689,13057,12197025,Jarmil Hrbek
+12693,13061,25028588,"Correct BC, s.r.o."
+12697,13065,25004638,HERKUL a.s.
+12701,13069,71884220,Ing. Břetislav Sedláček
+12705,13073,69914940,Jiří Šeps
+12709,13077,25049011,"Lidé výtvarnému umění, výtvarné umění lidem, o.p.s."
+12713,13081,00266205,Obec Želenice
+12717,13085,71214011,Generální ředitelství cel
+12721,13089,25609378,GeneTiCA s.r.o.
+12725,13093,71214011,Generální ředitelství cel
+12729,13097,46792635,Jan Heran
+12737,13105,45359326,"PHOENIX LV,a.s."
+12741,13109,27769038,ARMATEX s.r.o.
+12753,13117,70853517,"Hospic sv. Jana N. Neumanna, o.p.s."
+12757,13121,25524135,"TECHSPORT, s.r.o."
+12761,13125,26177005,"COLAS CZ, a.s."
+12765,13129,,manželé Jaroslava a Jiří Hromadovi
+12769,13133,14812452,Pavel Krejčí
+12773,13137,43389635,"SINGO, spol. s r.o."
+12793,13157,48586366,"AMEDIS, spol. s r.o."
+12805,13169,87117363,Ladislav Žák
+12809,13173,00262978,STATUTÁRNÍ MĚSTO LIBEREC
+12813,13177,00262978,STATUTÁRNÍ MĚSTO LIBEREC
+12817,13181,28196210,ABC Works CZ s.r.o.
+12821,13185,02510120,"ECP Vyškov, s. r. o."
+12829,13189,70853517,"Hospic sv. Jana N. Neumanna, o.p.s."
+12833,13193,,Šuška Milan
+12837,13197,27284727,"STŘECHY MIMOŇ, s.r.o."
+12845,13205,46744991,"Zdravotnická záchranná služba Libereckého kraje, příspěvková organizace"
+12849,13209,28089782,Domácí péče Dačice s.r.o.
+12853,13213,71245669,Mika Lubomír - notář
+12853,13213,29229821,"HLINKY ESTATE, s.r.o."
+12857,13221,63482576,"COMINFO, a.s."
+12861,13225,26177005,"COLAS CZ, a.s."
+12865,13229,28244532,"Letiště Praha, a. s."
+12869,13233,28244532,"Letiště Praha, a. s."
+12873,13237,28244532,"Letiště Praha, a. s."
+12877,13241,70890005,"Povodí Labe, s.p."
+12881,13245,46748777725,"Junák - český skaut, přístav Flotila Liberec, z.s."
+12885,13249,,BERKA STANISLAV
+12889,13253,28084594,SILVERMIX s. r. o.
+12893,13257,27574032,Netfox s.r.o.
+12897,13261,,obchodní tajemství
+12901,13265,15545318,Anti-Germ CZ s.r.o.
+12905,13269,72050501,Krajské ředitelství policie Libereckého kraje
+12909,13273,26751305,"ASTRON studio CZ, a.s."
+12913,13277,DE812581215,INNO-TRAIN Diagnostik GmbH
+12917,13281,28436024,Window Holding a.s.
+12921,13285,63148226,ALTRYSS s. r. o.
+12929,13293,00256650,Obec Chlumčany
+12933,13297,,neuvedeno
+12937,13301,02383357,SNO Systems spol. s r.o.
+12453,13305,26843935,"Z + M Partner, spol. s r.o."
+12941,13309,45359326,"PHOENIX LV,a.s."
+12945,13313,28497481,DiaSorin Czech s.r.o.
+12953,13317,22885412,FK Stará Bělá z.s.
+12957,13321,45359326,"PHOENIX LV,a.s."
+12961,13325,46508147,"THT Polička, s.r.o."
+12965,13329,45359326,"PHOENIX LV,a.s."
+12969,13333,27295567,RWE GasNet s.r.o
+12973,13337,49617052,ROCHE s.r.o.
+12977,13341,29029210,Energy Benefit Centre a.s.
+12981,13345,,"A - Realitka, s.r.o."
+12985,13349,,"A - Realitka, s.r.o."
+12989,13353,45796301,"AnLab, s.r.o."
+8329,13357,75964830,Jiří Vařeka
+12993,13361,47675934,Perfect Distribution a.s.
+12997,13365,47675934,Perfect Distribution a.s.
+13001,13369,,Obchodní tajemství
+13005,13373,49243764,BIO-RAD spol. s r.o.
+13009,13377,,"BYTservis - služby, spol. s r.o."
+13017,13385,47675934,Perfect Distribution a.s.
+13021,13393,28523563,LOPACO s.r.o.
+13025,13397,,Ing. Marek Šott
+13029,13401,47675934,Perfect Distribution a.s.
+13033,13405,28738861,SiJaMo s.r.o.
+13037,13409,47675934,Perfect Distribution a.s.
+13041,13413,28829689,LTM Krkonoše s.r.o.
+13045,13417,47675934,Perfect Distribution a.s.
+13053,13425,14888742,ViaPharma s.r.o.
+13057,13429,47675934,Perfect Distribution a.s.
+13061,13433,,HAMPL STANISLAV
+4321,13437,25059394,ATALIAN CZ s.r.o.
+13065,13441,26177005,"COLAS CZ, a.s."
+13069,13445,60724862,RI OKNA a.s.
+13077,13453,47675934,Perfect Distribution a.s.
+13085,13461,29029210,Energy Benefit Centre a.s.
+13089,13465,14888742,ViaPharma s.r.o.
+13093,13469,00288659,Statutární město Prostějov
+13101,13477,26450691,Makro
+13105,13481,29029210,Energy Benefit Centre a.s.
+13117,13493,45359326,"PHOENIX LV,a.s."
+13121,13497,25879243,"ITAGE,spol.s.r.o."
+13125,13501,46678191,Rybářství Třeboň Hld. a.s.
+13133,13509,72978325,Ing. Štěpán Šňupárek
+13137,13513,,Klíma Petr
+13141,13517,14707420,Alliance Healthcare
+13145,13521,16736010,TIFANNYS spol. s r. o.
+13149,13525,45359326,"PHOENIX LV,a.s."
+13153,13529,26936453,STUDIO 6.15 s.r.o.
+13157,13533,49617052,ROCHE s.r.o.
+13165,13541,45359326,"PHOENIX LV,a.s."
+13169,13545,00565474,BAYER s.r.o.
+12925,13553,27295567,RWE GasNet s.r.o
+13177,13561,64254577,MEDESA s.r.o.
+13185,13569,,Miroslav Brůna
+13189,13573,15502309,"Ateliér IDEA, spol. s r.o."
+13193,13577,43004211,"Valar Czech Oil, a.s."
+13197,13581,61860409,ATS-TELCOM PRAHA a.s.
+13201,13585,47676795,AutoCont CZ a.s.
+13205,13589,43874681,AMBULANCE MEDITRANS s.r.o.
+13209,13593,47473266,"ALTER, s.r.o."
+13213,13597,49618555,Sport-Technik Bohemia s.r.o.
+13217,13601,,Na základě § 5 odst. 6ZES vyloučeno z uveřejnění.
+13221,13605,26260654,Avenier a.s.
+13225,13609,46992707,RENOVA stavební a obchodní společnost s r.o.
+13229,13613,48586285,B. Braun Medical s.r.o.
+13233,13617,22839216,TK Elán Třinec o.s.
+13237,13621,45359326,"PHOENIX LV,a.s."
+13241,13625,00426091,Český červený kříž – Oblastní spolek Českého červeného kříže Liberec
+13249,13633,,Bc. František Kučera
+13253,13637,,Otto Kinský
+13257,13641,,Božena Koublová
+13261,13645,,Bohuslav Pešek
+13265,13649,,Miroslav Vacka
+13269,13653,49617052,ROCHE s.r.o.
+13273,13657,00081531,Statutární město Ústí nad Labem
+13277,13661,28560248,Letecký klub VINTAGE o.s.
+13281,13665,00300870,Město Vítkov
+13285,13669,,Zdena Raymundová
+13289,13673,,Jan Landa
+13293,13677,19015186,TĚLOVÝCHOVNÁ JEDNOTA BESKYD BUKOVEC\n
+13297,13681,25511939,"Bell Helicopter Prague, a.s."
+13301,13685,00000205,"Vojenské lesy a statky ČR, s.p."
+13305,13689,,Věra Zigušková
+13313,13697,25288083,"RMI, s.r.o."
+13317,13701,18050247,"Český rybářský svaz, z. s., místní organizace Jablunkov"
+13321,13705,64615341,"ONYX engineering, spol. s r. o."
+13325,13709,26723727,HAGS Praha s.r.o.
+13329,13713,,Ing. David Bednář
+13333,13717,,MUDr. Jana Luxemburgová
+13245,13721,26684055,"Komunální technika, s.r.o."
+13337,13725,14824531,Miroslav Fokt – ALTUS
+13341,13729,,Miloslav Plecháč
+13345,13733,28695828,BENNE s.r.o.
+13349,13737,29222745,LP staving s.r.o.
+13049,13741,05103258,MIKO - výtahy s.r.o.
+13353,13745,47122374,ProInterier s.r.o.
+13357,13749,00574139,Obec Borovno
+13361,13753,,Vladimír Křesťan
+6557,13757,03903907,Netpromotion group s.r.o
+13365,13761,27391981,Biomérieux CZ s.r.o.
+13369,13765,24745391,Edenred CZ s.r.o.
+13373,13769,26788675,MOBIKO plus a.s.
+13377,13773,,Josef Moravec
+13381,13777,27298370,Pozemní stavitelství s.r.o.
+13385,13781,,Josef Krabec
+13389,13785,28586336,SocioFactor s.r.o.
+13393,13789,24745391,Edenred CZ s.r.o.
+13397,13793,,Ing. Radomír Novák
+13401,13797,45583994,Jaromír Čermák
+13405,13801,,Aleš Zadina
+13409,13805,,Jiří Klement
+13413,13809,,Ing. Miloslav Mach
+13417,13813,45583994,Jaromír Čermák
+13421,13817,26788675,MOBIKO plus a.s.
+13425,13821,,Petr Roček
+13429,13825,,Bohumír Rychlý
+13433,13829,,Ondřej Oppitz
+13437,13833,04627407,HVPS STAVPROJEKT a.s.
+13441,13837,,Pavel Frýdek
+13445,13841,60735678,Synerga a.s.
+13449,13845,61860476,Sodexo Pass Česká republika a.s.
+13453,13849,,Věra Hanousková
+13457,13853,40764788,Messer Technogas s.r.o.
+13461,13857,43965865,VÝTAHY OSTRAVA spol. s r.o.
+13465,13861,,obchodní tajemství
+13469,13865,03438856,INKOMO CZ s.r.o.
+13473,13869,00289426,Město Hrotovice
+13477,13873,61860476,Sodexo Pass Česká republika a.s.
+13481,13877,00258890,Město Mirošov
+13485,13881,26229854,WOOD & PAPER a.s.
+13489,13885,26229854,WOOD & PAPER a.s.
+5737,13889,29246954,"Way to Nature, s.r.o., Svatoplukova 1224/24, Ostrava - Vítkovice 70300"
+13097,13893,25656112,Pražská vodohospodářská společnost a.s.
+13497,13901,60194120,"Pražské služby, a.s."
+13501,13905,00295841,Město Žďár nad Sázavou
+13505,13909,00267759,Město Ledeč nad Sázavou
+13509,13913,00511226,Obec Vystrkov
+13513,13917,00248380,Město Kamenice nad Lipou
+13517,13921,00378267,Obec Ocmanice
+13521,13925,60194120,"Pražské služby, a.s."
+13525,13929,00842249,Obec Milešín
+13529,13933,22896163,Buči z.s.
+13533,13937,27902587,TAYLLOR & COX s.r.o.
+13537,13941,29006805,AUSTUR s.r.o.
+13541,13945,29222745,LP staving s.r.o.
+13545,13949,28145879,ARA AUTO s.r.o.
+13549,13953,63148862,"AQUA MONT Jablonec nad Nisou, spol. s r.o."
+13557,13957,,Lidmila Andrejková
+13561,13961,,MVDr. Petr Kudělka
+13565,13965,,Jaroslav Pesničák
+13569,13969,,Petra Novosádová
+13573,13973,00286028,Obec Jihlávka
+13577,13977,00285765,Městys Dolní Cerekev
+13581,13981,25900056,PROINK  s.r.o.
+13585,13985,00248479,Obec Křeč
+13589,13989,24161055,"Lesní a rybochovné hospodářství, s.r.o."
+13593,13993,00248002,Obec Čejov
+13597,13997,00373885,Obec Panské Dubenky
+13601,14001,00376850,Obec Hodov
+13605,14005,24161055,"Lesní a rybochovné hospodářství, s.r.o."
+13609,14009,47124652,Porsche Inter Auto CZ spol. s r.o.
+13613,14013,00256552,Město Dobřany
+13617,14017,25710427,"F D servis Praha, s.r.o."
+13625,14025,00294616,Městys Křižanov
+13629,14029,00285960,Obec Jamné
+13633,14033,00268542,Město Ždírec nad Doubravou
+13637,14037,00373940,Obec Šimanov
+13641,14041,00584088,Obec Lhota-Vlasenice
+13645,14045,00287008,Obec Ždírec
+13649,14049,00287008,Obec Ždírec
+13657,14053,47282711,oaza - net spol. s r.o.
+13661,14057,48173002,"Vodovody a kanalizace Havlíčkův Brod, a. s."
+13665,14061,44848200,SANOFI-AVENTIS  s.r.o
+13669,14065,24745391,Edenred CZ s.r.o.
+13673,14069,05187958,Jasmínka s.r.o.
+13677,14073,14707420,Alliance Healthcare
+13681,14077,87687518,Ing.Viktor Brabec
+13685,14081,25404695,"Piráti Chomutov, a.s."
+13693,14089,45359326,"PHOENIX LV,a.s."
+13697,14093,00286753,Město Třešť
+13701,14097,44569181,Výzkumný ústav pro hnědé uhlí a.s.
+13709,14105,65410700,Koller Immobillen s.r.o.
+13713,14109,41889207,Jiří Homolka
+13721,14117,,Ing. Josef Kolář
+13725,14121,,Ing. Milan Muška
+13733,14129,,Zdeněk Zíka
+13741,14137,25135228,Fresenius Kabi s.r.o.
+13749,14145,26177005,"COLAS CZ, a.s."
+13753,14149,48531235,"INEX Moravské Budějovice, s.r.o."
+13757,14153,26259311,"Saegeling Medizintechnik, s.r.o."
+13761,14157,00842401,Obec Baliny
+13765,14161,00373613,Obec Arnolec
+13769,14165,60418541,Obec Cidlina
+13773,14169,,Ing. Milan Svoboda
+13777,14173,00543772,Obec Vílanec
+13781,14177,46508431,"STATEK DOUBRAVKA, s.r.o."
+13785,14181,00267953,Obec Okrouhlice
+13789,14185,00373761,Obec Kamenná
+13793,14189,,Pavel Lang
+13797,14193,24765180,TEZAS servis a.s.
+13801,14197,25618067,TOTAL SERVICE s.r.o.
+13805,14201,88260411,Zuzana Danielová
+13809,14205,04179960,"Siemens Healthcare, s.r.o."
+13813,14209,73118044,Petr Ploštica
+11529,14213,47671416,"NOSTA, s.r.o."
+13825,14225,00084409,Obec Osová Bítýška
+13829,14229,00599433,Obec Chlumek
+13833,14233,00599468,Obec Kadolec
+13837,14237,00544175,Obec Dobrá Voda
+13841,14241,250285881,"Correct BC, s.r.o."
+13845,14245,25030051,"Cvrček, s.r.o."
+13849,14249,01391577,BoneCare s.r.o.
+13621,14253,03053601,MAQUET Czech Republic s.r.o.
+13853,14257,,ZAPLETALOVÁ JANA
+13857,14261,25380443,"Renarkon, o.p.s."
+13865,14269,28199901,"AdActive, s.r.o."
+13869,14273,28199901,"AdActive, s.r.o."
+13877,14281,03781011,Smart Informatics s.r.o.
+13881,14285,46662855,Čunát Tomáš Dodávky a montáž VZT
+13885,14289,00376850,Obec Hodov
+13889,14293,00376981,Obec Horní Újezd
+13893,14297,26504642,AC Centrum Praha s.r.o.
+13897,14301,00378216,Obec Nárameč
+13901,14305,00842532,Obec Osové
+13905,14309,71195530,Mikroregion Krnovsko
+13917,14317,62525310,PROMPT 2 SERVIS v.o.s.
+13925,14325,25635972,Boston Scientific Česká republika s.r.o.
+13929,14329,27671739,Autopneu Urban s.r.o.
+13933,14333,48135267,"ĆR - Úřad pro technickou normalizaci,metrologii astátní zkušebnictví,organizační složka státu"
+13937,14337,02492032,AUTOOPRAVNY Prachatice s.r.o.
+13941,14341,46745980,"USK Slávia Liberec, z.s."
+13945,14345,47672315,BM servis a.s.
+13949,14349,47672315,BM servis a.s.
+13953,14353,66364256,23/02 ZO ČSOP BERKUT\n\n
+13957,14357,00533556,"Plavecký klub Nový Jičín, z.s"
+13961,14361,00299537,Obec Šumvald
+13965,14365,25733591,"E.ON Česká republika, s. r. o."
+13969,14369,28607376,Moderní škola s.r.o.
+13973,14373,48038687,"OMV Česká republika, s.r.o."
+13977,14377,,Jaroslava Tóthová
+13981,14381,,Marie Horčičková
+13985,14385,24745391,Edenred CZ s.r.o.
+13989,14389,00254592,Město Hroznětín
+13993,14393,61859869,Generali Pojišťovna a.s.
+13997,14397,45193525,"Těšínská tiskárna, a. s."
+14001,14401,60321661,EKOFAS spol. s r.o.
+14005,14405,00295892,Město Bruntál
+14009,14409,46966170,KOMA MODULAR s.r.o.
+14013,14413,,obchodní tajemství
+14017,14417,28168356,"NEWTON Media, a.s."
+14021,14421,60804114,Mgr. Břetislav Baar
+14025,14425,45193525,"Těšínská tiskárna, a. s."
+5505,14429,69202575,Mgr. Roman Lipavský
+14029,14433,28113128,"AGROZET České Budějovice, a.s."
+14033,14437,28781708,Fischer TPD s.r.o.
+14037,14441,46678735,"Robert Bosch, spol. s r.o."
+14045,14449,00583430,Obec Hojovice
+14057,14461,27349187,DKK Stav s.r.o.
+14061,14465,49165895,Jaroslav Lapeš
+14065,14469,,Jaroslav Janda
+14069,14473,,Vladimír Pechal
+14073,14477,,PATRIOT spol. s r.o.
+14077,14481,49165895,Jaroslav Lapeš
+14081,14485,26861836,HOKEJOVÝ KLUB - HC VÍTKOVICE STEEL a.s.
+14085,14489,22880534,Městský svaz stolního tenisu Ostrava z.s.
+14089,14493,61731315,"Apoštolská církem, sbor Vyškov"
+14101,14497,,Josef Michalíček
+14105,14501,00083232,"Severočeské muzeum v Liberci, příspěvková organizace"
+14109,14505,28248015,LANA Beránek s.r.o.
+14113,14509,26961873,"UniCab, s.r.o."
+14117,14513,,Horáková Alena
+14125,14521,00842648,Obec Křídla
+14129,14525,00293971,Městys Bobrová
+14133,14529,00842656,Obec Zubří
+14137,14533,00289922,Městys Mohelno
+14141,14537,00599191,Obec Zahrádka
+14145,14541,00512231,Obec Bácovice
+14149,14545,00599166,OBEC TŘESOV
+14153,14549,00378003,Obec Kuroslepy
+14157,14553,15546501,"PATRIOT, spol. s r.o."
+14165,14561,69114307,Basketbalový klub Jindřichův Hradec
+14169,14565,49617052,ROCHE s.r.o.
+14173,14569,00288462,Obec Mořice
+14177,14573,25028715,FK TEPLICE a.s.
+14181,14577,61502260,"ILA, s.r.o."
+14189,14585,26150395,EMBAU Praha s.r.o.
+14193,14589,25028715,FK TEPLICE a.s.
+14201,14593,46506063,"Agrostav Pardubice, akciová společnost"
+14205,14597,61860476,Sodexo Pass Česká republika a.s.
+14209,14601,00248436,Obec Komorovice
+14213,14605,46746072,MODERNÍ GYMNASTIKA LIBEREC
+14217,14609,68407700,České vysoké učení technické v Praze
+14221,14613,74813650,Erika Cháberová
+14225,14617,25635972,Boston Scientific Česká republika s.r.o.
+14229,14621,67338810,DUHA klub Dlažka
+14233,14625,26961873,"UniCab, s.r.o."
+14237,14629,24809951,IPROS s.r.o.
+14241,14633,26177005,"COLAS CZ, a.s."
+14245,14637,00373915,Obec Sedlatice
+14249,14641,44065540,Obec Zvěrkovice
+14253,14645,00377601,Obec Kladeruby nad Oslavou
+14257,14649,00376809,Obec Čikov
+14261,14653,,"KonekTel, a.s."
+14265,14657,00295540,Obec Škrdlovice
+14269,14661,00289329,Obec Dukovany
+14273,14665,,"KonekTel, a.s."
+14277,14669,,Věra Černíková
+14281,14673,,Stanislava Lhotová
+14285,14677,,Eva Sedláčková
+14293,14685,04736851,ARTEGRAM s.r.o.
+14297,14689,26177005,"COLAS CZ, a.s."
+14301,14693,27146171,CAUTOR PROJECTS & ADVISING a.s.
+14309,14701,61502260,"ILA, s.r.o."
+14313,14705,63839997,"OSA - Ochranný svaz autorský pro práva k dílům hudebním, z.s."
+14321,14713,45359326,"PHOENIX LV,a.s."
+14325,14717,62087851,Ing. Jan Pracný
+14329,14721,27108732,DDK Real s.r.o.
+14337,14729,49617052,ROCHE s.r.o.
+14341,14733,00583499,Obec Litohošť
+14349,14741,00515973,Obec Proseč pod Křemešníkem
+14353,14745,00267619,Obec Kamenná Lhota
+14357,14749,00515922,Obec Pavlov
+14361,14753,00511331,Obec Útěchovice
+14365,14757,45359326,"PHOENIX LV,a.s."
+13689,14761,25761307,Life Technologies Czech Republic s.r.o.
+14369,14765,25720635,ARCO OFFICE s.r.o.
+14373,14769,44848200,SANOFI-AVENTIS  s.r.o
+14377,14773,26623820,Krajská rada dětí a mládeže Karlovarska
+14381,14777,74654730,Jana Šínová
+14385,14781,25791079,"HPST, s.r.o."
+14389,14785,65806786,Eva Šimková
+14393,14789,28085400,E.On Distribuce a.s.
+14397,14793,02133750,"DAVID MORAVEC HOCKEY ACADEMY, z.s."
+14401,14797,25788001,Vodafone Czech Republic a.s.
+14405,14801,26272857,Prabos plus a.s.
+14409,14805,47114983,"Česká pošta, s.p."
+14413,14809,27574032,Netfox s.r.o.
+14417,14813,26540690,ANNA KK
+14421,14817,64949681,T-mobile Czch Republic a.s.
+14425,14821,72496991,Úřad práce České republiky
+14429,14825,,NECHUTNÁ JAROSLAVA
+14433,14829,61678937,JOANNES s.r.o.
+14437,14833,42957699,Petr Dvořák
+14441,14837,25933094,IRBOS s.r.o.
+14445,14841,,Obchodní tajemství
+14453,14849,46745661,Sportovní klub stolního tenisu Liberec
+14457,14853,22715436,ŠERM LIBEREC
+14461,14857,,Edenred  CZ s.r.o.
+14465,14861,47116901,Vodohospodářský rozvoj a výstavba a.s. zkráceně VRV a.s.
+5481,14865,25394967,"TOMA Olomouc, a.s."
+14469,14869,62417274,G-EFEKTA s.r.o.
+14473,14873,02458594,VODOPLAN s.r.o.
+14477,14877,26038340,HASS Hroby s.r.o.
+14481,14881,26038340,HASS Hroby s.r.o.
+14485,14885,,Daniela Racková
+14489,14889,26038340,HASS Hroby s.r.o.
+14493,14893,47114983,"Česká pošta, s.p."
+14497,14897,25085484,A care a.s.
+14501,14901,47114983,"Česká pošta, s.p."
+14505,14905,27102246,"Ircon, s.r.o."
+14509,14909,26038340,HASS Hroby s.r.o.
+14513,14913,47114983,"Česká pošta, s.p."
+14517,14917,47114983,"Česká pošta, s.p."
+14521,14921,47114983,"Česká pošta, s.p."
+14525,14925,26181134,STV GROUP a.s.
+14529,14929,47114983,"Česká pošta, s.p."
+14533,14933,29211069,ANPAX s.r.o.
+14541,14941,26177005,"COLAS CZ, a.s."
+14545,14945,28367499,ADISERVIS s.r.o.
+14121,14949,48038687,"OMV Česká republika, s.r.o."
+14121,14949,49450301,"MOL Česká republika, s.r.o."
+14121,14949,44684703,Popilka spol. s r.o.
+14121,14949,60193531,"ČEPRO, a.s."
+14549,14953,62419056,TELES s.r.o.
+14553,14957,26177005,"COLAS CZ, a.s."
+13081,14961,40766063,"INTV, spol. s r.o."
+13073,14965,NL817414290B01,Pepscan Presto
+14557,14969,25609378,GeneTiCA s.r.o.
+14565,14977,73926191,Ing. Petr Machalec
+14569,14981,46277633,"Handicap Zlín, z.s."
+14573,14985,,obchodní tajemství
+14577,14989,18630782,Pramacom Prague spol. s r.o.
+14581,14993,62913671,Le Cheque Déjeuner s.r.o.
+14589,15001,49977059,"Janáčkova 22 - správa podniků a nemovitostí, s.r.o."
+14593,15005,72007273,Petr Stoudek
+14597,15009,25945653,PAPERA s.r.o.
+14601,15013,26493233,Target Pictures Production s.r.o.
+14605,15017,47114983,"Česká pošta, s.p."
+14609,15021,25261282,"SILNICE ČÁSLAV - HOLDING, a.s."
+14613,15025,00064416,Galerie hlavního města Prahy
+14617,15033,26843935,"Z + M Partner, spol. s r.o."
+14621,15037,25664018,BioTech a.s.
+14625,15041,01608193,Badmintonový klub Technické univerzity v Liberci
+14629,15045,47114983,"Česká pošta, s.p."
+14633,15049,47114983,"Česká pošta, s.p."
+14637,15053,47114983,"Česká pošta, s.p."
+14641,15057,47114983,"Česká pošta, s.p."
+14645,15061,47114983,"Česká pošta, s.p."
+14649,15065,47114983,"Česká pošta, s.p."
+14653,15069,25884646,"F.S.C. Bezpečnostní poradenství, a.s."
+14657,15073,60825685,IZOPLAST a.s.
+14661,15077,43378692,Centrum Zdislava
+14665,15081,65339088,Římskokatolická farnost Křetín
+14669,15085,26513960,Grant Thornton Advisory s.r.o.
+14677,15093,27102246,"Ircon, s.r.o."
+14681,15097,28085400,E.On Distribuce a.s.
+14685,15101,14889200,Dialab spol. s r.o.
+14689,15105,26869977,STAVBY VAPE s.r.o.
+14693,15109,24272523,"Vojenský technický ústav, s.p."
+14701,15117,26177005,"COLAS CZ, a.s."
+14705,15121,45658757,Římskokatolická farnost Hevlín
+14709,15125,48173355,"PARAMO, a.s."
+14713,15129,60700181,"ČINEX stavební činnost, spol. s r.o."
+14717,15133,45359326,"PHOENIX LV,a.s."
+14729,15145,45359326,"PHOENIX LV,a.s."
+14733,15149,25342100,PŘEMYSL VESELÝ stavební a inženýrská činnost s.r.o.
+14737,15153,14707420,Alliance Healthcare
+14741,15157,44848200,SANOFI-AVENTIS  s.r.o
+14745,15161,00267953,Obec Okrouhlice
+14749,15165,00579955,Obec Michalovice
+14753,15169,00267830,Obec Lučice
+14757,15173,00268348,Obec Šlapanov
+14761,15177,00267813,Obec Lipnice nad Sázavou
+14765,15181,43004351,BRISTOL-MYERS SQUIBB
+14773,15189,26381001,"Petr Fiala - velkoobchod s drogerií, s.r.o."
+14777,15193,26177005,"COLAS CZ, a.s."
+14781,15197,25635972,Boston Scientific Česká republika s.r.o.
+14785,15201,25437941,Sportovní areál Ještěd a.s.
+14789,15205,25342100,PŘEMYSL VESELÝ stavební a inženýrská činnost s.r.o.
+14793,15209,00599425,Obec Chlum-Korouhvice
+14797,15213,00267651,Obec Kojetín
+14801,15217,00295671,Město Velké Meziříčí
+14805,15221,,Václav Valenta
+14809,15225,70822531,"Klub Augusta Sedláčka, z.s."
+14813,15229,41938658,BERGER BETON spol. s r.o.
+14817,15233,,Michal Šulc
+14821,15237,,Lukáš Belda
+14825,15241,,Miroslav Kaiser
+14829,15245,,Zdeněk Matěásko
+14833,15249,,Jana Horáčková
+14837,15253,,Zdeněk Havel
+14841,15257,,Mgr. Aneta Špaltová
+14845,15261,,Mgr. Iva Nálevková
+14849,15265,46744991,"Zdravotnická záchranná služba Libereckého kraje, příspěvková organizace"
+14853,15269,00192503,Nemocnice s poliklinikou v Semilech
+14857,15273,00829838,"Nemocnice Jablonec nad Nisou, p.o."
+14861,15277,,František ZAJÍC
+14865,15281,25342100,PŘEMYSL VESELÝ stavební a inženýrská činnost s.r.o.
+14869,15285,45354162,NAVA NAKLADATELSKÁ A VYDAVATELSKÁ AGENTURA s.r.o.
+14873,15289,15851516,Miloš Trejtnar
+14877,15293,,obchodní tajemství
+14881,15297,,obchodní tajemství
+14885,15301,,obchodní tajemství
+14889,15305,,Obchodní tajemství
+14893,15309,,Ing. Pavel Pokorný
+14897,15313,,Ing. Petr Hesoun
+14769,15317,27102246,"Ircon, s.r.o."
+14901,15321,40229921,Design sport service  B A F R  společnost s ručením omezeným
+14905,15325,26241773,"Lékárna-invest, s.r.o."
+14909,15329,05021421,HD MEDIA s.r.o.
+14913,15337,24751502,CATERA SERVICE s.r.o.
+14917,15341,24272523,"Vojenský technický ústav, s.p."
+14921,15345,27102246,"Ircon, s.r.o."
+14925,15349,25086227,Chromservis s.r.o.
+14929,15353,14504588,ZAHRADNÍ ARCHITEKTURA TÁBOR s.r.o.
+14933,15357,24662143,Dataprojekt s.r.o.
+14937,15361,63073242,VWR International s.r.o.
+14941,15365,00216208,Univerzita Karlova v Praze
+14945,15369,64327680,Římskokatolická farnost u kostela Nejsvětější Trojice Brno - Královo Pole
+14949,15373,46580387,HILGER s.r.o.
+14953,15377,49440829,Římskokatolická farnost Hluboké Mašůvky
+14957,15381,49439502,Římskokatolická farnost Hostěradice
+14965,15389,27102246,"Ircon, s.r.o."
+14969,15393,64254577,MEDESA s.r.o.
+14973,15397,26444569,AUTODÍLY ŠPINDLER HOLDING a.s.
+14977,15401,26206536,SPINFLO s.r.o.
+14981,15405,24294179,PERFECTSTAV s.r.o.
+14985,15409,25269844,METRODIS s.r.o.
+14989,15413,24158771,TT MARKETING s.r.o.
+14997,15421,66340110,Ing. arch. Jan Mudra
+15001,15425,00581658,Základní škola Trhové Sviny
+15005,15429,,Radmila Pitrová
+15009,15433,,Miroslav Kobza
+15017,15441,27291294,"G 3 plast, spol. s r. o."
+15021,15445,00582298,"Střední škola, Trhové Sviny, Školní 709"
+15025,15449,00245551,Město Trhové Sviny
+15029,15453,,Mělníčková Božena
+15077,15501,27504671,Divadlo Drak a Mezinárodní institut fig. divadla o.p.s.
+15081,15505,27770338,Kariérový a personální servis s.r.o.
+15085,15509,46508147,"THT Polička, s.r.o."
+15089,15513,41601645,"Inženýrské stavby Brno, spol. s r.o."
+15093,15517,00078051,"Divadlo Josefa Kajetána Tyla, příspěvková organizace"
+15097,15521,26272857,Prabos plus a.s.
+15101,15525,60719877,CARDION s.r.o.
+15109,15533,25253361,"Chládek a Tintěra, Pardubice a.s."
+15113,15537,28798902,Design Tech s.r.o.
+15117,15541,65993390,Ředitelství silnic a dálnic ČR
+15121,15545,60150394,Rücker Ota
+15125,15549,15027228,Grundmann Roland
+15129,15553,04146506,Pohl Petr
+14345,15557,46348760,ELCOMP společnost s ručením omezeným
+15133,15561,01617672,JMC construct s.r.o.
+15137,15565,49099469,Severočeská vodárenská společnost a.s.
+15141,15569,,Jan Pittner
+15145,15573,26735172,Vyšehradská realitní kancelář s.r.o
+15149,15577,,X.T.Nguyen-H.B.Thi - Smlouva o nájmu pozemku
+15153,15581,,Kuča P. - Smlouva o nájmu pozemku
+15157,15585,26207451,TWIN TRANS s.r.o.
+15161,15589,26735172,Vyšehradská realitní kancelář s.r.o
+15165,15593,28571690,SAFETY PRO s.r.o.
+15169,15597,40763374,"FACSON, spol. s r.o."
+15177,15605,72496991,Úřad práce České republiky
+15181,15609,45192464,Ridera Stavební a.s.
+15181,15609,63144409,"PULSKLIMA, spol. s r.o."
+15185,15613,47997885,Charita Valašské Meziříčí
+15189,15617,46276262,Charita sv. Anežky Otrokovice
+15193,15621,28571690,SAFETY PRO s.r.o.
+15197,15625,26440709,"DOMAFIT FITNESS, s.r.o."
+15201,15629,13586394,Český rybářský svaz
+15205,15633,60154144,Římskokatolická fanost Rtyně v Podkrkonoší
+15209,15637,64511588,"S. A. B. Impex, s.r.o."
+15213,15641,69936200,Josef Sedláček
+15221,15649,44740778,Charita Vsetín
+15225,15653,72197102,Milan Daniš
+15229,15657,65022491,Ing. Tomáš Rada
+15233,15661,48333310,Obec Žákava
+15237,15665,28480830,IMMOMEDICAL CZ s.r.o.
+15241,15669,72751762,Ing. Jan Zelenka
+15245,15673,26796228,KARIREAL a.s.
+15249,15677,26177005,"COLAS CZ, a.s."
+15253,15681,87241005,Jan Horák - HP STŘECHY
+15257,15685,26177005,"COLAS CZ, a.s."
+15269,15697,26633582,"Otevřená OKNA, z. ú."
+15273,15701,26177005,"COLAS CZ, a.s."
+15277,15705,45797803,TRANSKONTAKT-MEDICAL s.r.o.
+15261,15709,25956019,"Tost.cz, s.r.o."
+15281,15713,22753974,Ztracené dítě o.s.
+15285,15717,26177005,"COLAS CZ, a.s."
+15289,15721,25285131,Festivalpark Production s.r.o.
+15293,15725,43965865,VÝTAHY OSTRAVA spol. s r.o.
+15297,15729,28687108,KOMPLEX DC  s. r. o.
+15301,15733,28571690,SAFETY PRO s.r.o.
+15305,15737,26177005,"COLAS CZ, a.s."
+15309,15741,26744881,FOBZ a.s.
+15317,15749,00512338,Městské středisko sociálních služeb
+15313,15753,62913671,Le Cheque Déjeuner s.r.o.
+15321,15757,27243460,"Hanyš - Jeřábnické práce, s.r.o."
+15325,15761,64004091,Radek Dvořák
+15329,15765,41193075,"Johnson  & Johnson, s.r.o."
+15333,15769,49454544,"Vodovody a kanalizace Hodonín, a.s."
+15337,15773,,fyzická osoba
+15341,15777,,KOLMAŠ DALIBOR
+15349,15785,27787443,"PROJEKTSTUDIO EUCZ, s.r.o."
+15353,15789,,KOLMAŠ DALIBOR
+15357,15793,62526006,ČEČETKA s.r.o.
+15361,15797,27945197,"Expirit, s.r.o."
+15365,15801,14866838,SARTALEX spol. s r.o.
+15369,15805,25339010,"SDZ profin, s.r.o."
+15373,15809,49454544,"Vodovody a kanalizace Hodonín, a.s."
+15377,15813,25135228,Fresenius Kabi s.r.o.
+15345,15817,61383198,"Linka bezpečí, z.s."
+15381,15821,47607483,"Bílý kruh bezpečí, z.s."
+15385,15825,28436024,Window Holding a.s.
+15389,15829,01955144,"Elim Vsetín, o.p.s."
+15393,15833,27074358,"Asseco Central Europe, a.s."
+15397,15837,18535569,Jiří Malec
+15401,15841,67598056,Iveta Macholánová
+15405,15845,05066719,Blanka Miksová
+15417,15857,64123031,Kamarád Rožnov o.p.s.
+15421,15861,28717759,Reality Projekt Stav s.r.o.
+15425,15865,22764569,VELKÁ ČERNOC sobě
+15429,15869,28717759,Reality Projekt Stav s.r.o.
+15433,15873,05141265,"Soukromá mateřská škola, Úlibice, okres Jičín"
+15441,15881,,Česká hlava PROJEKT z.ú.
+15445,15885,26284677,"EURODECK, s.r.o."
+15449,15889,26237369,ROTANA a.s.
+15453,15893,04885228,"Centrum umění a řemesel, z.s."
+15457,15897,64651959,EUROGREEN CZ s.r.o.
+15465,15909,00515965,Obec Putimov
+15469,15913,42196868,M - SILNICE a.s.
+15473,15917,43371540,"TERNO SERVIS, a. s."
+15477,15921,26936364,"KRONOSPAN OSB, spol. s r.o."
+15481,15925,26917581,JV PROJEKT VH s.r.o.
+15485,15929,27748847,EVOTECH s.r.o.
+15493,15937,28852150,"VYSOKOMÝTSKÁ KULTURNÍ, o.p.s."
+15501,15945,,VORLÍČEK KAREL
+15505,15949,25563068,STAND CZ spol. s r.o.
+15509,15953,62913671,Le Cheque Déjeuner s.r.o.
+15513,15957,48111198,ACTIVA spol. s r.o.
+15517,15961,27608514,CompuNet s.r.o.
+15521,15965,46347828,LÁZNĚ LUHAČOVICE a.s
+15525,15969,25096702,"HANSA 2, s.r.o."
+15529,15973,25751018,"ELTODO-CITELUM, s.r.o."
+15533,15977,24745391,Edenred CZ s.r.o.
+15537,15981,61672637,"ELPRO - DELICIA, a.s."
+15541,15985,,Kulturní Morava z.s.
+15545,15989,62243136,"Unipetrol výzkumně vzdělávací centrum, a.s."
+15549,15993,14707420,Alliance Healthcare
+15553,15997,41328019,"Atletický klub AC Slovan Liberec, z.s."
+15557,16001,46744592,"Tělovýchovná jednota Sokol Doubí, o.s."
+15565,16009,28852150,"VYSOKOMÝTSKÁ KULTURNÍ, o.p.s."
+15573,16017,,Hauptigová Eva
+15577,16021,28305043,MT Legal s.r.o.  advokátní kancelář
+15581,16025,00852546,Základní škola Krnov
+15585,16029,27916693,CCS Česká společnost pro platební karty s.r.o.
+15589,16033,69295069,Petr Malík
+15593,16037,46713301,PEMA VELKOOBCHOD s.r.o.
+15597,16041,28084594,SILVERMIX s. r. o.
+15605,16049,19010290,"PHARMOS,a.s."
+15609,16053,03614450,ELEKTROMONT s.r.o.
+15621,16061,25428942,VIPS gas s.r.o.
+15625,16065,00268755,OBEC HABŘINA
+15413,16069,01683136,"Gora nábytek, s.r.o."
+15633,16077,14707420,Alliance Healthcare
+15637,16081,01440578,VLTAVA LABE MEDIA a.s.
+15641,16085,00030325,KOVO výrobní družstvo BRNO
+15645,16089,24745391,Edenred CZ s.r.o.
+15649,16093,61672637,"ELPRO - DELICIA, a.s."
+12841,16097,68135122,Miroslav Bílek
+15653,16101,70890013,"Povodí Moravy, s.p."
+15657,16105,48586285,B. Braun Medical s.r.o.
+15661,16109,27127231,VIVACOM s.r.o.
+15665,16113,48111198,ACTIVA spol. s r.o.
+15673,16121,00299308,Statutární město Olomouc
+15677,16125,64040577,Sportovní klub JEŠTĚD
+15681,16129,46966447,"Merci, s.r.o."
+15685,16133,66231051,"Holec Pavel, JUDr., advokát"
+15689,16137,44962550,"HEPRO, spol. s r.o."
+15693,16141,44947429,HARTMANN - RICO a.s.
+15697,16145,00203459,"ARGUS, spol. s r.o."
+15701,16149,24791211,ViaGaudium s.r.o.
+15705,16153,27295567,RWE GasNet s.r.o
+15709,16157,28852150,"VYSOKOMÝTSKÁ KULTURNÍ, o.p.s."
+15713,16161,45359326,"PHOENIX LV,a.s."
+15717,16165,46342907,"BIOMEDICA ČS, s.r.o."
+15721,16169,49366076,Správa Pražského hradu
+15725,16173,45359326,"PHOENIX LV,a.s."
+15729,16177,03524124,"Performa Medical, s.r.o."
+13729,16185,00267406,Město Golčův Jeníkov
+13705,16189,00267406,Město Golčův Jeníkov
+15737,16193,00574228,Obec Měcholupy
+15741,16197,24201596,Medsol s.r.o.
+15745,16201,27094987,CHEIRÓN a.s.
+15749,16205,49451766,SEMO a.s.
+15753,16209,45359326,"PHOENIX LV,a.s."
+15757,16213,,„občanské sdružení The Boom“
+15761,16217,18626971,MERCK spol. s.r.o.
+15765,16221,24119393,"Bracco Imaging Czech, s.r.o."
+15769,16225,13368851,Luboš Maier
+15773,16229,15545318,Anti-Germ CZ s.r.o.
+15777,16233,25892533,TESCO SW a.s.
+15781,16237,49617052,ROCHE s.r.o.
+15785,16241,00565474,BAYER s.r.o.
+15789,16245,49195379,Zemědělské družstvo Příchovice
+12025,16253,04115490,Z TECHNIK s.r.o.
+15797,16257,45359326,"PHOENIX LV,a.s."
+15805,16265,62237306,"Český svaz včelařů z.s., základní organizace Jablonné v Podještědí"
+15809,16269,,Ing. Lenka Kruntorádová
+15813,16273,,Josef Holman
+15817,16277,,Martin Jon
+15821,16281,,Luboš Lejdar
+15825,16285,,Ladislav Kopecký
+15829,16289,,Ing. Karol Ježík
+15833,16293,,Martina Ryšálková
+15837,16297,27535363,Okrasné zahrady arboristika s.r.o.
+15841,16301,,Pavel Hylmar
+15845,16305,,Leoš Bartoníček
+15849,16309,15045447,Český krkonošský spolek SKI Jilemnice
+15853,16313,00303038,Město Mohelnice
+15857,16317,13582518,Tělocvičná jednota Sokol Turnov
+15861,16321,00275841,Obec Košťálov
+15865,16325,27117804,"AMGEN,s.r.o."
+15869,16329,45359326,"PHOENIX LV,a.s."
+15873,16333,02004534,Edwards Lifesciences Czech Republic s.r.o.
+15877,16337,45359326,"PHOENIX LV,a.s."
+15881,16341,14707420,Alliance Healthcare
+15885,16345,25099019,"PROMEDICA PRAHA GROUP,a.s."
+15889,16349,63839172,"CESNET, zájmové sdružení právnických osob"
+15893,16353,14888742,ViaPharma s.r.o.
+15905,16365,25533843,"RTS,a.s."
+15909,16369,26282097,"Mostní vývoj, s.r.o."
+15913,16373,00255114,Obec Valeč
+15917,16377,,Kancelář ekonomického a projektového poradenství
+15921,16381,28082656,"CE-Traffic, a.s."
+15925,16385,45359326,"PHOENIX LV,a.s."
+15929,16389,27711170,SVCS Process Innovation s.r.o.
+15933,16393,63079496,"Simac Technik ČR, a.s."
+15937,16397,47114983,"Česká pošta, s.p."
+15941,16401,86782541,Lukáš Cink
+15949,16409,25256599,Lesní družstvo Chraňbož
+15953,16413,,Miroslav Sekot
+15957,16417,,Marie Šemíková
+15965,16425,25684213,GEFOS a.s.
+15969,16429,69211183,Musica Viva
+15973,16433,25709801,"PBA Group, s.r.o."
+15977,16437,10087486,Jan Mikunda
+15981,16441,00301582,Obec Milenov
+15985,16445,61860476,Sodexo Pass Česká republika a.s.
+15989,16449,45359326,"PHOENIX LV,a.s."
+15993,16453,,Jan Fexa
+15997,16457,61672637,"ELPRO - DELICIA, a.s."
+16001,16461,25251937,Lesní družstvo obcí Ledeč nad Sázavou
+16005,16465,,Milan Laco
+16009,16469,49648144,Emilie Hašková
+16013,16473,,Jaroslava Novotná
+16017,16477,42825261,Radek Šafařík
+16021,16481,,Ladislav Novák
+16025,16485,,Petr Vacek
+16029,16489,,Bc. Marcela Zítková
+16033,16493,25102354,"BUK cs, s.r.o."
+16037,16497,26342057,PROLEMAX s.r.o.
+16045,16505,25497421,"AQUA S.P.P., s.r.o."
+16049,16509,26078201,EON Energie a.s.
+16053,16513,28637500,Friendly & Loyal s.r.o.
+16057,16517,22858555,Ensemble Damian o.s.
+16061,16521,00299308,Statutární město Olomouc
+16065,16525,,Jaroslava Jirsová
+16069,16529,,Marie Poláková
+16073,16533,70975230,Ing. Mgr. Pavel Srna
+16077,16537,,Ludvík Junga
+16081,16541,,Ing. Tomáš Francálek
+16085,16545,,Věra Slámová
+16089,16549,25256599,Lesní družstvo Chraňbož
+16093,16553,40233308,Vodohospodářské stavby
+16097,16557,64510514,"Gruna, s.r.o."
+16101,16561,26370298,Radio Egrensis s.r.o.
+16105,16565,65138082,"Technické služby Karviná, a.s."
+16109,16569,75008190,"Mateřská škola Černošice, Karlická 1170, okres Praha - západ"
+16109,16569,75008173,"Mateřská škola Černošice, Topolská 518, příspěvková organizace"
+16109,16569,72550929,"Mateřská škola Barevný ostrov, příspěvková organizace"
+16109,16569,61385158,"Základní škola Černošice, příspěvková organizace"
+16109,16569,75008165,"Základní umělecká škola Černošice, příspěvková organizace"
+16109,16569,47536209,"AQUACONSULT, spol. s r.o."
+16109,16569,00241636,Město Řevnice
+16109,16569,47005254,Základní škola Řevnice
+16109,16569,71005803,"Mateřská škola Řevnice, příspěvková organizace"
+16109,16569,47551828,Ekos ŘEVNICE s.r.o.
+16109,16569,00241849,Obec Všenory
+16109,16569,72052635,"Základní škola a mateřská škola Josefa Kubálka Všenory, příspěvková organizace"
+16109,16569,00241393,Obec Lety
+16109,16569,71005811,"Mateřská škola Lety, okres Praha-západ, příspěvková organizace"
+16109,16569,00233803,Obec Srbsko
+16109,16569,70998477,"Základní škola a mateřská škola Srbsko , okres Beroun, příspěvková organizace"
+16109,16569,00233234,Obec Hlásná Třebaň
+16109,16569,49662392,Jiří Martin
+16109,16569,43123333,Martin Pelcner
+16113,16573,24838535,FMM Consulting s.r.o.
+15629,16577,00212423,Provozní systém registru smluv (Vězeňská služba České republiky)
+16117,16581,61672637,"ELPRO - DELICIA, a.s."
+16121,16585,46748083,"Dětský diagnostický ústav, středisko výchovné péče a základní škola, Liberec"
+16125,16589,,Jan Vencálek
+16129,16593,,Hugo Pelikán
+16133,16597,,Jaroslav Hájek
+16137,16601,60574593,Petr Habán
+13737,16605,00267376,Obec Dolní Město
+16141,16609,46508431,"STATEK DOUBRAVKA, s.r.o."
+16145,16613,,Jan Musil
+16149,16617,47441089,JIŘÍ DOBEŠ
+16153,16621,25146441,DNS a.s.
+16157,16625,,FONS BMV
+16165,16633,25740253,TEMO-TELEKOMUNIKACE a.s.
+16173,16641,,Ing. Blanka Karlová
+16177,16645,45358800,"STAMOZA, společnost s ručením omezeným"
+1793,16649,25285262,CHRPA stavební společnost s r. o. Pardubice
+16181,16653,,obchodní tajemství
+16185,16657,10087486,Jan Mikunda
+16189,16661,46508431,"STATEK DOUBRAVKA, s.r.o."
+16193,16665,,Oldřich Svoboda
+16197,16669,,Josef Jiráček
+16201,16673,,Jiří Zlata
+16205,16677,,Slavomír Vlček
+5685,16681,25232100,Šumavské vodovody a kanalizace a.s.
+16209,16685,45359326,"PHOENIX LV,a.s."
+16213,16689,,Zbyněk Müller
+16217,16693,,Jaroslav Zahrádka
+16221,16697,,Jaroslav Humeš
+16225,16701,,Jaroslav Mrkvička
+16229,16705,,Marie Štěpánová
+16233,16709,,Mgr. Marta Nováčková
+16237,16713,42302773,Ludvík Belcredi
+16241,16717,,Marie Čížková
+16245,16721,,Martin Jakubec
+16249,16725,,Oldřich Volejník
+16253,16729,,Jitka Zacharová
+16257,16733,64597105,Svatopluk Kuča
+16261,16737,28641922,Equine Sport Center Olomouc o.p.s.
+16265,16741,28637500,Friendly & Loyal s.r.o.
+16269,16745,48427586,Římskokatolická farnost Olomouc - Hejčín
+16273,16749,60886439,"Český svaz včelařů, o.s.
+, Základní organizace Opočno"
+16277,16753,27563481,"Evolution Films, s.r.o."
+16281,16757,00271632,Město Jičín
+16285,16761,29463173,"T.T.TRADE-VÍTKOVICE, a.s."
+16289,16765,,Pavel Chalmovianský
+16293,16769,70819777,Římskokatolická farnost Oleksovice
+16297,16773,62742931,"Data System, s.r.o."
+16301,16777,46748083,"Dětský diagnostický ústav, středisko výchovné péče a základní škola, Liberec"
+16305,16781,,František Jon
+16309,16785,75008271,"Archeologické centrum Olomouc, příspěvková organizace"
+16313,16789,62742931,"Data System, s.r.o."
+16317,16793,,obchodní tajemství
+16321,16797,,Anna Šimůnková
+16325,16801,,Roman Hanuš
+16329,16805,45274924,"EUROVIA CS, a.s."
+16333,16809,,Bc. Karel Kahule
+16337,16813,40764281,JANUS spol. s r.o.
+16341,16817,,Jiří Bradáč
+16345,16821,27909247,"TIMED, organizační složka"
+16349,16825,,Milan Halamka
+16353,16829,,Pavel Horký
+16357,16833,69650489,Jiří Myška
+16361,16837,,Ing. Petr Uher
+16365,16841,61729671,Římskokatolická farnost Kobeřice u Brna
+16369,16845,62742931,"Data System, s.r.o."
+16373,16849,65764994,Římskokatolická farnost Dyje
+16377,16853,,Ing. František Neckář
+16381,16857,,Eliška Prknová
+16385,16861,61594369,"Ing. Josef Trochta, MBA"
+16389,16865,61594369,"Ing. Josef Trochta, MBA"
+16393,16869,,Zdeňka Teclová
+16397,16873,,Vít Dunička
+16401,16877,,Jiří Houdek
+16405,16881,70975230,Ing. Mgr. Pavel Srna
+16409,16885,,Alena Mužátková
+16413,16889,48842591,Římskokatolická farnost Bzenec
+16417,16893,45357307,Silnice Klatovy a.s.
+16421,16897,64583562,Medtronic Czechia s.r.o.
+16425,16901,47114983,"Česká pošta, s.p."
+16429,16905,61743500,Římskokatolická farnost Želetice u Kyjova
+16433,16909,28699921,STAVBY SEHO s.r.o.
+16437,16913,49157582,"Handball club Zlín, z.s."
+16441,16917,26521342,Římskokatolická farnost Troskotovice
+16445,16921,46350110,TRIGON PLUS spol. s r.o.
+16449,16925,64949681,T-mobile Czch Republic a.s.
+16453,16929,27068641,"Olympus Czech Group, s.r.o., člen koncernu"
+16457,16933,65265793,Římskokatolická farnost Ostrovačice
+16461,16937,41192923,EUROMEDICAL spol. s r.o.
+16469,16945,47114983,"Česká pošta, s.p."
+16473,16949,47114983,"Česká pošta, s.p."
+16477,16953,47114983,"Česká pošta, s.p."
+16481,16957,47114983,"Česká pošta, s.p."
+16485,16961,40772225,Sládková Blanka
+16489,16965,47114983,"Česká pošta, s.p."
+16493,16969,,"Kooperativa pojišťovna, a.s., Vienna Insurance Group"
+16497,16973,17048851,HEWLETT-PACKARD s.r.o.
+16501,16977,45272387,"PRAGOPROJEKT, a.s."
+16501,16977,00075370,Statutární město Plzeň
+16169,16989,62909070,SMC Industrial Automation CZ s.r.o.
+16513,16993,70890749,KruV - RS (Kraj Vysočina)
+16517,16997,00303160,Obec Písečná
+16521,17001,00216224,Masarykova univerzita
+16525,17005,00288616,Obec Pěnčín
+16529,17009,25403460,ARMEX OIL s.r.o.
+16533,17013,60193336,O2 Czech Republic a.s.
+16537,17017,03579727,INSET s.r.o.
+16541,17021,64511588,"S. A. B. Impex, s.r.o."
+16545,17025,22729909,"Hospic Sv. Jiří, o. p. s."
+16557,17037,27096670,"EUROVIA Kamenolomy, a.s."
+16561,17041,48111198,ACTIVA spol. s r.o.
+16565,17045,26612429,Občanské sdružení střípky
+16569,17049,,Vít Vondráček
+16573,17053,29215935,EP SERVICES s.r.o.
+16577,17057,00832430,"Základní umělecká škola Litvínov, Podkrušnohorská 1720, okres Most"
+16585,17065,64511588,"S. A. B. Impex, s.r.o."
+15497,17069,24745391,Edenred CZ s.r.o.
+16589,17073,,Eurowagon s.r.o.
+16593,17077,25749897,Stimcare s.r.o.
+16605,17089,29316715,Měřící technika Morava s.r.o.
+16609,17093,25270095,Technické služby Náchod s.r.o.
+16613,17097,25900056,PROINK  s.r.o.
+16617,17101,46882481,KASYS s.r.o.
+16625,17105,49099469,Severočeská vodárenská společnost a.s.
+16629,17109,44567626,DeCe COMPUTERS s.r.o.
+16633,17113,,"Junák - česky skaut, přístav Racek Žďár nad Sázavoz, z.s."
+16637,17117,,fyzická osoba
+16645,17125,70892822,Pardubický kraj
+16161,17129,44567626,DeCe COMPUTERS s.r.o.
+16649,17133,26921677,STAVIMAL s.r.o.
+16653,17137,61509426,NIKON spol. s r.o.
+16657,17141,47409819,"Tělovýchovná jednota Sokol Opatovice, o.s."
+16661,17145,47409819,"Tělovýchovná jednota Sokol Opatovice, o.s."
+16665,17149,01671197,Radek Šiška
+16673,17157,24290751,MANDISANplus s.r.o.
+16677,17161,43069371,Jiří Němec
+16685,17173,70890749,KruV - RS (Kraj Vysočina)
+16689,17177,27265480,SIZ s.r.o.
+16553,17181,63673169,EDOMED a.s.
+16693,17185,49195379,Zemědělské družstvo Příchovice
+16697,17189,,Vedra Zdeněk
+16697,17189,,Vedrová Jarmila
+16697,17189,,Zatloukal Luboš
+16697,17189,,Zatloukalová Alena
+16697,17189,,Klemešová Marta
+16697,17189,,Drčka Bohumil
+16705,17197,27068641,"Olympus Czech Group, s.r.o., člen koncernu"
+16709,17201,75030926,"Zdravotnická záchranná služba Středočeského kraje, příspěvková organizace"
+16713,17205,25097008,"REISSWOLF likvidace dokumentů a dat, s.r.o."
+14561,17209,62914511,"O.K.SERVIS BioPro, s.r.o."
+10673,17213,04942710,SUNKINS store s.r.o.
+16717,17217,70890749,KruV - RS (Kraj Vysočina)
+16721,17221,75030926,"Zdravotnická záchranná služba Středočeského kraje, příspěvková organizace"
+16725,17225,67007317,Asociace nestátních neziskových organizací Jihomoravského kraje
+15105,17229,44947429,HARTMANN - RICO a.s.
+16729,17233,,obchodní tajemství
+16733,17237,25403460,ARMEX OIL s.r.o.
+16741,17245,19012322,FC ODRA PETŘKOVICE
+16745,17249,27936376,NOKIKA s.r.o.
+16749,17253,70890749,KruV - RS (Kraj Vysočina)
+16761,17265,75030926,"Zdravotnická záchranná služba Středočeského kraje, příspěvková organizace"
+16765,17269,22982426,Hana Nováčková IPO
+16769,17273,45809712,"FCC Česká republika, s.r.o."
+16773,17277,00425869,"Český červený kříž, Oblastní spolek Český Krumlov"
+16777,17281,70890749,KruV - RS (Kraj Vysočina)
+16781,17285,76424286,Jiří Pytlík
+16785,17289,75030926,"Zdravotnická záchranná služba Středočeského kraje, příspěvková organizace"
+16801,17305,61989592,Univerzita Palackého v Olomouci
+16809,17313,00030520,Dřevozpracující výrobní družstvo
+16813,17317,63493179,"DAHLHAUSEN CZ, spol. s r.o."
+16817,17321,,obchodní tajemství
+16821,17325,,obchodní tajemství
+16825,17329,64618692,Retigate s.r.o.
+16829,17333,18629512,"Renova Praha, spol. s r. o."
+16833,17337,,obchodní tajemství
+16837,17341,00274046,Statutární město Pardubice
+16841,17345,25953117,"Cor HB, s.r.o."
+16845,17349,01391577,BoneCare s.r.o.
+16853,17357,,obchodní tajemství
+8517,17361,00262463,Obec Malá Skála
+16857,17365,49969641,"K.E.I. GROUP, s.r.o."
+16861,17369,28161416,"BP a PO servis, spol. s.r.o."
+16865,17373,70890650,Jihočeský kraj
+16869,17377,01391577,BoneCare s.r.o.
+16873,17381,,Obchodní tajemství
+16881,17389,70890749,KruV - RS (Kraj Vysočina)
+16885,17393,44225008,Tělocvičná jednota SOKOL Liberec 3 - Františkov
+16889,17397,27501701,"Truhlářství Urban, s.r.o."
+16893,17401,62577565,LaMa Operations s.r.o.
+16897,17405,75030926,"Zdravotnická záchranná služba Středočeského kraje, příspěvková organizace"
+16901,17409,,Obchodní tajemství
+16905,17413,64583562,Medtronic Czechia s.r.o.
+16909,17417,,Obchodní tajemství
+16913,17421,,Obchodní tajemství
+16917,17425,62419641,TRASK SOLUTIONS a.s.
+16921,17429,15548341,"SPOJMONT Brno, spol. s r.o."
+16925,17433,25649761,"HAPPY END CZ, a.s."
+16929,17437,45309612,S u b t e r r a a.s.
+16933,17441,71650768,Pavel ŠKUBNÍK
+16941,17449,,obchodní tajemství
+16581,17453,16188641,"ALWIL Trade, spol. s r.o."
+16945,17457,75030926,"Zdravotnická záchranná služba Středočeského kraje, příspěvková organizace"
+16949,17461,,obchodní tajemství
+16953,17465,49097652,AEC Novák s.r.o.
+16957,17469,00566985,Sportovní klub Telč
+16961,17473,45359326,"PHOENIX LV,a.s."
+16965,17477,25135228,Fresenius Kabi s.r.o.
+16969,17481,27751783,"cine4net, s.r.o."
+16973,17485,27466868,"Dopravně inženýrská kancelář, s.r.o."
+16977,17489,27487938,MDS projekt s.r.o.
+16981,17493,61065251,"VERTIGO Písek, s.r.o."
+16985,17497,,obchodní tajemství
+16989,17501,,obchodní tajemství
+16993,17505,,obchodní tajemství
+16997,17509,18384161,BFHM spol. s r.o.
+17001,17513,25317628,"FIRESTA-Fišer, rekonstrukce, stavby a.s."
+17005,17517,,obchodní tajemství
+17009,17525,26812576,BUVI Promotion s. r. o.
+17013,17529,,KOLMAŠ DALIBOR
+17017,17533,,obchodní tajemství
+17021,17537,13642090,"ČR-Zemědělský podnik Razová, státní podnik v likvidaci"
+17025,17541,,obchodní tajemství
+17029,17545,,obchodní tajemství
+17033,17549,60193336,O2 Czech Republic a.s.
+17037,17553,,obchodní tajemství
+17041,17557,,obchodní tajemství
+17045,17561,,obchodní tajemství
+17053,17569,,obchodní tajemství
+17061,17577,,obchodní tajemnství
+17065,17581,73860140,Bc. Adéla Baxová
+17073,17589,,obchodní tajemství
+17081,17597,02657392,BERKASTAV s.r.o.
+17085,17601,71780165,RADEK BEDNÁŘ
+17089,17605,46713158,"SILKOM, spol. s r.o."
+17093,17609,60730129,"AUTOS, spol. s r.o."
+17097,17613,70885371,Hasičský záchranný sbor Středočeského kraje
+17101,17617,,Akad. arch. Pavel Bílek
+17105,17621,,FREDI s.r.o.
+17109,17625,02145740,Lerson s.r.o.
+17113,17629,28607155,POTRUBNÍ SYSTÉMY s.r.o.
+17117,17633,01717006,Pavel Dvořák
+17121,17637,48365513,Krajská hospodářská komora karlovarského kraje
+17125,17641,45359326,"PHOENIX LV,a.s."
+17129,17645,02604795,ALPINE Bau CZ a.s.
+17133,17649,61799271,Sulejman Vejspahič Sádrokartony
+17137,17653,25710257,KOSMAS s.r.o.
+17141,17657,63109859,Svaz chovatelů ovcí a koz z.s.
+15961,17661,26282097,"Mostní vývoj, s.r.o."
+17145,17665,25232312,Axes Computers s.r.o.
+17153,17673,04163753,SVITAVSKÝ BASKET s.r.o.
+17157,17677,62061160,SVITAVAN a.s.
+17161,17681,27518141,"PROAUTO Hradec Králové, s.r.o."
+17165,17685,12397181,Petr Schneiderwinkl
+17169,17689,26598035,PRAGUE SECURITY STUDIES INSTIT
+17173,17693,25490125,"Rosette Design, s.r.o."
+17177,17697,27279936,IDP spol. s r.o.
+17181,17701,61405230,Ing. Ladislav Alster - Projektová kancelář A-S
+17185,17705,16672011,Ladislav Janda
+17189,17709,,ATALIAN
+17193,17713,70428620,Ivan Tichý
+17197,17717,25497421,"AQUA S.P.P., s.r.o."
+17205,17725,10609059,Jaroslav Dostálek - IRP
+17209,17729,25705512,"LAO - průmyslové systémy, s.r.o."
+17209,17729,46348395,"MIT, spol. s r. o."
+17209,17729,29316715,Měřící technika Morava s.r.o.
+17213,17733,00286010,Statutární město Jihlava
+17217,17737,42767776,Tělovýchovná jednota Baník Ostrava
+17221,17741,29441081,Topgolfopen s.r.o.
+17225,17745,47912502,"MESIT defence, s.r.o."
+16789,17749,04785487,Tchoukball Jičín z.s.
+17233,17757,,Springer Nature
+17237,17761,60730129,"AUTOS, spol. s r.o."
+17241,17765,02016770,"OptiXs, s.r.o."
+17249,17773,61947008,"Baloušek, s. r. o."
+17253,17777,00299588,Obec Tršice
+17257,17781,64573877,EXCALIBUR ARMY spol. s r.o.
+17261,17785,00288926,Obec Vranovice-Kelčice
+17265,17789,64573877,EXCALIBUR ARMY spol. s r.o.
+17269,17793,64573877,EXCALIBUR ARMY spol. s r.o.
+17273,17797,27279936,IDP spol. s r.o.
+17277,17801,46744533,"Jezdecký klub Liberec, o.s."
+17281,17805,00288594,Obec Otinoves
+17285,17809,70861374,"Sportovní Gymnastika Liberec,z.s."
+17289,17813,45351821,"Procházka a Vogt, spol. s r. o."
+17293,17817,00288357,Obec Klopotovice
+17297,17821,,JANÍČEK MARTIN
+17301,17825,72054433,Obec Petrov nad Desnou
+6009,17833,26375869,VAK SERVIS s.r.o.
+17309,17841,00284891,Město Hodonín
+17313,17845,26315971,ADAM & FRIENDS s.r.o.
+17317,17849,02507242,"Sportovní akademie Luďka Zlenky, z.s."
+17321,17853,72749571,Ing. libor Jakoubek
+17325,17857,15045528,"Tělovýchovná jednota Turnov, z.s."
+17333,17865,26704391,"CLASIC CZ, spol. s r.o."
+17337,17869,25331248,VISTA car s.r.o.
+17341,17873,28239458,ZDEPE.CZ s.r.o.
+17345,17877,,STRNISKO PETR
+17353,17885,61860476,Sodexo Pass Česká republika a.s.
+17361,17889,27849619,TAYLORTEAM s.r.o
+17365,17893,,obchodní tajemství
+17369,17897,,obchodní tajemství
+17373,17901,,obchodní tajemství
+17377,17905,,obchodní tajemství
+17385,17913,04115490,Z TECHNIK s.r.o.
+17389,17917,,Obchodní tajemství
+17393,17921,66181062,Maratón klub Seitl Ostrava z.s.
+17397,17925,26986965,"OSTRAVA SQUASH KLUB, o.s."
+17401,17929,60544937,TĚLOCVIČNÁ JEDNOTA SOKOL TELČ
+17405,17933,44941161,Sportovní klub Policie Ostrava
+17409,17937,22766421,SWANKY
+17413,17941,26536625,"Fotbal 88, z.s."
+17417,17945,,obchodní tajemství
+17421,17949,,obchodní tajemství
+17425,17953,,obchodní tajemství
+17429,17957,,obchodní tajemství
+17433,17961,,Ing. Ivan Šot
+17433,17961,,Mgr. Karolína Šotová
+17437,17965,28607376,Moderní škola s.r.o.
+17441,17969,15795136,Ing. Josef Hroděj
+17445,17973,,Gajdoš Michal
+17229,17977,25705512,"LAO - průmyslové systémy, s.r.o."
+17453,17981,43508511,TJ Slovan Moravská Třebová
+17457,17985,15404927,Bohumír Wanecki
+17461,17989,61731315,"Apoštolská církem, sbor Vyškov"
+17465,17993,48014630,Libor Gašparovič
+17469,17997,26007967,TERMGAS s.r.o.
+17473,18001,25866664,DRAPS  s.r.o.
+17477,18005,03283844,"Foodfest, s.r.o."
+17481,18009,60799757,Tělocvičná jednota SOKOL Olomouc-Chvalkovice
+17485,18013,26639173,Bowland BC Olomouc
+17489,18017,41503457,Hanácký folklorní spolek
+17493,18021,02040182,Moravský Labyrint
+17497,18025,70760730,"Elipssis s.r.o., Kunc Jiří, Ing., Vzduchotechnika"
+17501,18029,25849280,"ALFAPROJEKT OLOMOUC, a.s."
+17505,18033,29441145,DaSt Inpo group s.r.o.
+17509,18037,70694061,Jilemnicko - svazek obcí
+17513,18041,62158562,MUDr. Štefánie Kyseláková
+17517,18045,,PEŠÁK KAMIL
+17521,18049,49454501,SDS EXMOST spol. s r.o.
+17525,18053,27762157,"MŽT Stavitelství, a.s."
+17529,18057,25096702,"HANSA 2, s.r.o."
+17533,18061,26264081,Stavba a údržba silnic s.r.o.
+17541,18069,22723161,RABA Motosport z.s
+17545,18073,,obchodní tajemství
+17549,18077,29453968,M&B eProjekce s.r.o.
+17553,18081,49454501,SDS EXMOST spol. s r.o.
+17557,18085,,obchodní tajemství
+17561,18089,,SUCHÁNCOVÁ JINDŘIŠKA
+17569,18097,47468564,Zemědělské družstvo Velké Svatoňovice
+17573,18101,,Zdeněk Kos
+17573,18101,,Alena Kosová
+17577,18105,27399508,XERTEC a.s.
+17581,18109,,Ifkovich Evžen
+17585,18113,25012169,MD COLOR v.o.s.
+17589,18117,67066968,Pavel Zezula
+17593,18121,28608909,"ATRIS, s.r.o."
+17597,18125,,obchodní tajemství
+17601,18129,,VYCHODIL RADOMÍR
+17605,18133,28608909,"ATRIS, s.r.o."
+17609,18137,46358714,Louda Auto a.s.
+17613,18141,28608909,"ATRIS, s.r.o."
+17617,18145,27110176,Stavební firma Pazdera s.r.o.
+17621,18149,,obchodní tajemství
+17625,18153,46358714,Louda Auto a.s.
+17629,18157,,VILÍMEC RENÉ
+17633,18161,27536718,BAWORK s.r.o.
+17637,18165,46358714,Louda Auto a.s.
+17645,18173,,DRAG s.r.o.
+17653,18181,01440578,VLTAVA LABE MEDIA a.s.
+17657,18185,03497313,RADIOHOUSE s.r.o.
+17661,18189,29131863,RADIO UNITED SERVICES s.r.o.
+17665,18193,46708839,FANAK s.r.o.
+17669,18197,43380123,"Základní škola Žďár nad Sázavou, Švermova 4"
+17673,18201,48897540,Orel jednota Žďár nad Sázavou
+17677,18205,66181062,Maratón klub Seitl Ostrava z.s.
+17681,18209,60336803,"Klub plaveckých sportů Ostrava, z.s"
+17689,18217,22818227,Ostrava Steelers
+17693,18221,41695909,"RIVA,spol. s r.o."
+17697,18225,70698627,Martin Jelínek
+17701,18229,25501003,DYNATECH s.r.o.
+17705,18233,05061661,Huml Dennis
+17709,18237,48035599,SWIETELSKY stavební s.r.o.
+17713,18241,60779098,KUMAN spol. s r.o.
+17725,18253,70999180,"Základní škola Opava, Boženy Němcové 2 - příspěvková organizace"
+17729,18257,29148197,JENSTAV s.r.o.
+17733,18261,,Uher Pavel
+17737,18265,00085839,"Muzeum a Pojizerská galerie Semily, příspěvková organizace"
+17741,18269,00371394,"Kulturní centrum Golf Semily, příspěvková organizace"
+17745,18273,60276258,KASRO spol. s r.o.
+17749,18277,24663310,STREET s.r.o.
+17753,18281,27353443,Pekárna Šumava a.s.
+17757,18285,47474327,MUDr. Ivan Novák
+17761,18289,47311576,Nemocnice Frýdlant s. r. o.
+17765,18293,48586285,B. Braun Medical s.r.o.
+17769,18297,45359326,"PHOENIX LV,a.s."
+17773,18301,14707420,Alliance Healthcare
+17777,18305,02602482,PENETA CORPORATION s.r.o.
+17781,18309,27144526,Baroch - okna s.r.o.
+17785,18313,14617081,"CIDEM Hranice, a.s."
+16849,18317,28233492,Beckman Coulter Česká republika s.r.o.
+17789,18321,25788001,Vodafone Czech Republic a.s.
+17793,18325,28781708,Fischer TPD s.r.o.
+17797,18329,28781708,Fischer TPD s.r.o.
+17801,18333,,Kadeřábek Vlastimil
+17805,18337,28781708,Fischer TPD s.r.o.
+17809,18341,28781708,Fischer TPD s.r.o.
+17813,18345,28789202,"VH - stavební práce, s.r.o."
+17817,18349,28781708,Fischer TPD s.r.o.
+17821,18353,73763811,Štábl František
+17825,18357,28781708,Fischer TPD s.r.o.
+17837,18369,28436024,Window Holding a.s.
+17841,18373,26177005,"COLAS CZ, a.s."
+17845,18377,75500523,Martin Petula
+17849,18385,86995383,Davídek Dominik
+17853,18389,,Hora Josef
+17857,18393,,Marie Moravcová
+17861,18397,,Eliška Košťáková
+17861,18397,,Jiří Košťák
+17865,18401,48621692,Nadační fond HOSPITAL BROUMOV
+17869,18405,14707420,Alliance Healthcare
+17873,18409,60750197,Koutný spol. s r.o.
+17877,18413,00673170,Obec Nezabylice
+17881,18417,14707420,Alliance Healthcare
+17885,18421,49337491,Petr Dvořáček
+17889,18425,04791738,"Stromy, krajina, zeleň s.r.o."
+15437,18429,47930063,Charita Holešov
+17893,18433,76504913,Jakub Václavínek
+17897,18437,14707420,Alliance Healthcare
+17901,18441,25393804,ArcelorMittal Engineering and Consulting Ostrava s.r.o.
+17905,18445,02004534,Edwards Lifesciences Czech Republic s.r.o.
+17909,18449,45359326,"PHOENIX LV,a.s."
+17913,18453,13347799,Zdeněk Oravec
+17917,18457,64018610,Římskokatolická farnost Minice
+17921,18461,64835138,"VOCHOC, s.r.o."
+17833,18465,47917059,"ELEKTRO PLUS, spol. s r.o."
+17925,18469,40526151,"BIS, a. s."
+17929,18473,45359326,"PHOENIX LV,a.s."
+17933,18477,49617052,ROCHE s.r.o.
+17937,18481,27810054,"Technoprojekt, a.s."
+17941,18485,48152366,"MarS, a.s."
+17945,18489,45272441,Blue Panther s.r.o.
+17949,18493,28123395,"ARTSCPECT, a.s."
+17953,18497,27641295,"JB přívěsy, s.r.o."
+17957,18501,42324254,OTIS a.s.
+17961,18505,25487892,Pro Projekt s.r.o.
+10697,18513,61778966,MECAS ESI s.r.o.
+17965,18517,48169731,"BERINGEI, s.r.o."
+17973,18525,45359326,"PHOENIX LV,a.s."
+17977,18529,25313029,ANECT a.s.
+17981,18533,00255408,Obec Dlažov
+17985,18537,44018045,GIENGER spol. s r.o.
+17989,18541,62738542,Severočeské komunální služby s.r.o.
+17993,18545,45359326,"PHOENIX LV,a.s."
+18001,18549,,Terumo BCT Europe N.V.
+18009,18557,46966447,"Merci, s.r.o."
+18013,18561,60715235,Skřivánek s.r.o.
+18017,18565,25163051,AUTA BOREK a.s.
+18021,18569,29443814,SCHWARZ OOPP s.r.o.
+18025,18573,87162610,Tomáš Smékal
+18029,18577,25099019,"PROMEDICA PRAHA GROUP,a.s."
+18033,18581,26440318,WALTER Graphtek CZ s.r.o.
+18041,18589,45359326,"PHOENIX LV,a.s."
+18045,18593,25367498,INTERDEKOR HP s.r.o.
+18049,18597,18359094,Jiří Franz - FAS
+18053,18601,28142292,PRAVO s.r.o.
+18057,18605,28351363,Caleum a.s.
+18061,18609,44848200,SANOFI-AVENTIS  s.r.o
+18065,18613,26398435,PPC s.r.o.
+18069,18617,48586285,B. Braun Medical s.r.o.
+18073,18621,61860476,Sodexo Pass Česká republika a.s.
+18077,18625,,fyzická osoba
+18081,18629,,"ROSKA Žďár nad Sázavou, reg. organizace Unie Roska z.p.s."
+18085,18633,47543434,KBJ VELKOOBCHODY s.r.o.
+18089,18637,25550250,PANEP s.r.o.
+18093,18641,45193665,Severomoravské vodovody a kanalizace Ostrava a.s.
+18097,18645,64055485,Jaroslav Urban
+18101,18649,27146928,"Janssen-Cilag,s.r.o."
+18105,18653,70890013,"Povodí Moravy, s.p."
+18109,18657,26593548,"Centrum pro zdravotně postižené Moravskoslezskéhokraje, o.p.s."
+18117,18665,25218883,VÝTAHY SCHMITT+SOHN s.r.o.
+18121,18669,25099019,"PROMEDICA PRAHA GROUP,a.s."
+18125,18673,00257745,Obec Dýšina
+18129,18677,25629646,"TEVA Pharmaceuticals CR, s.r.o."
+18137,18681,00573787,Obec Brod nad Tichou
+18141,18685,44797320,"SITEL, spol. s  r.o."
+18145,18689,26593548,"Centrum pro zdravotně postižené Moravskoslezskéhokraje, o.p.s."
+18149,18693,41193075,"Johnson  & Johnson, s.r.o."
+18153,18701,45359326,"PHOENIX LV,a.s."
+18157,18705,16188641,"ALWIL Trade, spol. s r.o."
+18161,18709,00533874,"Divadlo loutek Ostrava, příspěvková organizace"
+18165,18713,14707420,Alliance Healthcare
+18169,18717,26353237,ENILAB s.r.o.
+18173,18721,46965564,"Rallye Zlín, spol. s r.o."
+18177,18725,25382276,Divadelní společnost Petra Bezruče s.r.o.
+18181,18729,45359326,"PHOENIX LV,a.s."
+18189,18737,26593548,"Centrum pro zdravotně postižené Moravskoslezskéhokraje, o.p.s."
+18193,18741,27214176,OV Media s.r.o.
+18197,18745,22774581,Jestřebská lesní s.r.o.
+18201,18749,,FIALA MARTIN
+18209,18757,,MORAVA s.r.o.
+18213,18761,,"Údaj není veřejný na základě § 5 odst. 6 zákoan č. 340/2015 Sb., o registru smluv"
+18217,18765,02004534,Edwards Lifesciences Czech Republic s.r.o.
+18225,18773,26322951,"STAVGIPS, s.r.o."
+6273,18777,26375869,VAK SERVIS s.r.o.
+18229,18781,,PETŘÍKOVÁ NADĚŽDA
+8781,18785,64835286,HART - PIPE s.r.o.
+18233,18789,26700778,Dräger Safety s.r.o.
+18237,18793,61860476,Sodexo Pass Česká republika a.s.
+18245,18801,62157108,"Základní škola, Brno, Košinova 22, příspěvková organizace"
+18253,18809,26861283,"FAMOS, s.r.o."
+18257,18813,66901308,Ing. Otakar Hrubý
+18261,18817,28849809,Teleflex Medical s.r.o.
+18265,18821,47455292,TRANSCONSULT s.r.o.
+18269,18825,24799629,"Proact Czech Republic, s.r.o."
+18277,18833,00533874,"Divadlo loutek Ostrava, příspěvková organizace"
+18281,18837,41084900,1. VASTO spol. s r.o.
+18285,18841,,Mgr. Eva Paldusová
+18289,18845,,Josef Farský
+18293,18849,ATU57543527,RECOM Power GmbH
+18297,18853,,Jaroslav Spanilý
+18301,18857,,Jana Chvojková
+18305,18861,,Lenka Šebková
+18309,18865,,Aleš Filípek
+18313,18869,,Martin Řehák
+18317,18873,00671908,Obec Svijany
+18321,18877,,Petr Meixner
+18325,18881,,Věra Uhrová
+18329,18885,,Ing. Lucie Pavlíková
+18333,18889,75087057,Střední Morava - Sdružení cestovního ruchu
+18337,18893,62908049,BIO ILLUSION s.r.o.
+18341,18897,22718371,MusicOlomouc
+18345,18901,67339832,Klub sportovních potápěčů Olomouc
+18349,18905,48586285,B. Braun Medical s.r.o.
+18353,18909,48427560,Římskokatolická farnost svatého Mořice Olomouc
+18357,18913,48427748,Římskokatolická farnost svatého Václava Olomouc
+18361,18917,64124789,Římskokatolická akademická farnost Olomouc
+18365,18921,60800496,MGC Olomouc
+17649,18925,00482731,"Český rybářský svaz, z. s., místní organizace Nový Bor"
+18369,18929,BE0413.166.055,Terumo BCT Europe N.V.
+18373,18933,,obchodní tajemství
+18377,18937,,obchodní tajemství
+18381,18941,,obchodní tajemství
+18385,18945,15547591,HUBER CS spol. s r.o.
+18389,18949,25487230,DOKOM FINAL s.r.o.
+18389,18949,60838744,STRABAG a.s.
+18389,18949,28688651,ZEPS s.r.o.
+18393,18953,25382276,Divadelní společnost Petra Bezruče s.r.o.
+18405,18965,03524124,"Performa Medical, s.r.o."
+18413,18973,41072162,MVDr. Luboš Tylšar
+18417,18977,25664018,BioTech a.s.
+18421,18981,27127231,VIVACOM s.r.o.
+18425,18985,25065939,"SCHOELLER INSTRUMENTS, s.r.o."
+18429,18989,60463031,"Mettler - Toledo, s.r.o."
+18433,18993,,Medtronic Czechia s.r.o.
+18441,19001,24736490,"Škola Můj Projekt - základní škola Praha, s.r.o."
+18445,19005,25980009,ACO Stavební prvky spol. s r.o.
+18449,19009,26492385,K - Service s.r.o.
+18453,19013,67776779,"R - Mosty, z.s."
+18457,19017,25107976,"Zimmer Czech, s.r.o."
+18461,19025,25107976,"Zimmer Czech, s.r.o."
+18465,19029,,Artan Koleci
+18469,19033,,Michal Kopecký
+18473,19037,62438514,Božena Kummerová
+18477,19041,40026647,Jiří Jerman
+18481,19045,25107976,"Zimmer Czech, s.r.o."
+18485,19049,,obchodní tajemství
+18489,19053,48152366,"MarS, a.s."
+18493,19057,,Eva Ometáková
+18501,19065,49977202,VV TOP s.r.o.
+18505,19069,25107976,"Zimmer Czech, s.r.o."
+18509,19073,,obchodní tajemství
+18513,19077,25107976,"Zimmer Czech, s.r.o."
+18517,19081,,obchodní tajemství
+18249,19085,61860476,Sodexo Pass Česká republika a.s.
+18521,19089,,Tomáš Kochan
+18525,19093,,Zdeněk Hortenský
+18529,19097,25107976,"Zimmer Czech, s.r.o."
+18533,19101,,Bohuš Nosek
+18537,19105,,"Údaj není veřejný na základě § 5 odst. 6 zákona č. 340/2015 Sb., o registru smluv"
+18541,19109,02497247,IDProjekt s.r.o.
+18549,19117,,obchodní tajemství
+18557,19125,25527266,V okno s.r.o.
+18561,19129,48586285,B. Braun Medical s.r.o.
+18565,19133,25904183,"Partner Czech,s.r.o."
+18569,19137,25821237,NORTHMAN OUTDOOR s.r.o.
+18573,19141,,Lorencová Zdeňka
+18577,19145,00676853,"HOSPIMED, spol. s r.o."
+18581,19149,26831198,AP PROGRESS CZ spol.s.r.o.
+18585,19153,,SJM Šejblovi
+18589,19157,60734078,UCHYTIL  s.r.o.
+18593,19161,28610768,ROOFMONT - FM s.r.o.
+18597,19165,26849836,MSS - projekt s.r.o.
+18601,19169,70891095,Středočeský kraj - rejstřík smluv (Středočeský kraj)
+18605,19173,27872688,"Czech Architecture Week, s.r.o."
+18609,19177,48769908,Římskokatolická farnost Svatý Kopeček u Olomouce
+18617,19185,25909614,Azylový dům pro ženy a matky s dětmi o.p.s.
+18625,19193,15030709,"OPTIMA, spol. s r.o."
+18629,19197,27918637,"Bytové družstvo Jeseniova 71, Praha 3"
+18633,19201,10327991,Jindřich Lachout - MonTop
+18637,19205,27007090,"MAS Aktivios, z.s."
+18641,19209,71131612,Marek Mozola
+18645,19213,71131612,Marek Mozola
+18649,19217,26678004,"Místní akční skupina svatého Jana z Nepomuku, z.s."
+18653,19221,60202564,"VIAKONTROL, spol. s r.o."
+18657,19225,18246095,Obec Velečín
+18669,19237,,obchodní tajemství
+18677,19245,,Polách Josef
+18689,19257,47907193,GRANE  s.r.o.
+18705,19273,,Jana Hejtmánková
+18709,19277,15030865,SOR Libchavy spol. s r. o.
+18713,19281,,Jan Čančara
+18717,19285,,Schmidtová Eva
+18721,19289,,Kubíček Pavel
+18721,19289,,Kubíčková Lenka
+18725,19293,,Urbánková Hana
+18733,19301,,Burdová Libuše
+18733,19301,,Burda Jiří
+18745,19313,,Pospíšil Petr Ing.
+18745,19313,,Pospíšilová Ludmila
+18749,19317,16188641,"ALWIL Trade, spol. s r.o."
+18753,19321,,Mackovík Stanislav
+18765,19333,,Sale
+18773,19341,,Zdeňka Váňová
+18777,19345,,Stárek Lubomír
+18777,19345,,Stárková Jana
+18781,19349,,Ota Herzog
+18781,19349,,Lenka Herzogová
+18785,19353,,Zedek Pavel
+18789,19357,,Šimánková Libuše
+18793,19361,,Marie Kovačovičová
+18797,19365,27466868,"Dopravně inženýrská kancelář, s.r.o."
+18801,19369,11555742,Rudolf Gerža - ENERGO
+18113,19373,25543415,VISITECH a.s.
+18813,19385,,Krapka Josef
+18817,19389,48476684,Ing. Jiří Škrabal
+18821,19393,26848007,Závodný Elektro s.r.o.
+18825,19397,,Jaroslav Hampl
+18829,19401,,obchodní tajemství
+18833,19405,02846471,Projekce DS s.r.o.
+18841,19417,,Pospíšil Jan
+18857,19433,46965564,"Rallye Zlín, spol. s r.o."
+18861,19437,03499464,ROBOTIKA Plzeň s.r.o.
+18869,19445,25205404,PP Partner koberce s.r.o.
+18877,19453,41193075,"Johnson  & Johnson, s.r.o."
+18885,19461,26913216,"Správa a údržba silnic Slovácka, s.r.o."
+18545,19465,03271811,REDBLOCK PROJECT s.r.o.
+18889,19469,,YVONA Stolařová
+18905,19485,00179639,Obec Chřenovice
+18909,19489,26935287,"SAFE TREES, s.r.o."
+18913,19493,27219828,"Sport Marketing International, s.r.o."
+18921,19501,,Robert Schuran
+18925,19505,25015435,"AUDIDA, s.r.o."
+18929,19509,,D.N.
+18933,19513,,obchodní tajemství
+18937,19517,75008190,"Mateřská škola Černošice, Karlická 1170, okres Praha - západ"
+18937,19517,75008173,"Mateřská škola Černošice, Topolská 518, příspěvková organizace"
+18937,19517,72550929,"Mateřská škola Barevný ostrov, příspěvková organizace"
+18937,19517,61385158,"Základní škola Černošice, příspěvková organizace"
+18937,19517,75008165,"Základní umělecká škola Černošice, příspěvková organizace"
+18937,19517,47536209,"AQUACONSULT, spol. s r.o."
+18937,19517,00241636,Město Řevnice
+18937,19517,47005254,Základní škola Řevnice
+18937,19517,71005803,"Mateřská škola Řevnice, příspěvková organizace"
+18937,19517,00241393,Obec Lety
+18937,19517,71005811,"Mateřská škola Lety, okres Praha-západ, příspěvková organizace"
+18937,19517,00233803,Obec Srbsko
+18937,19517,70998477,"Základní škola a mateřská škola Srbsko , okres Beroun, příspěvková organizace"
+18937,19517,00233234,Obec Hlásná Třebaň
+18937,19517,03404901,Mateřská škola Hlásná Třebáň
+18937,19517,43123333,Martin Pelcner
+18941,19521,12377252,"Rudolf Kříž, výstavba inženýrských sítí"
+18949,19529,00302384,Obec Bohuslavice
+18697,19545,00064581,Hlavní město Praha
+18977,19557,,obchodní tajemství
+18981,19561,00262544,Obec Rádlo
+18985,19565,25358014,AUGUR Consulting s.r.o.
+18993,19573,,Hana Poláková
+18997,19577,,Zdeněk Svoboda
+19001,19581,,Jiří Smejkal
+19005,19585,01554913,"Sportovní městečko, o.s."
+16793,19593,45272298,"JLV, a.s."
+19013,19597,70994234,"Správa železniční dopravní cesty, státní organizace"
+19017,19601,00573965,Obec Kamenec
+18845,19605,24663310,STREET s.r.o.
+19021,19609,00573884,Obec Újezd u Svatého Kříže
+19029,19617,00478512,Obec Sirá
+19037,19625,00258717,Obec Holoubkov
+19041,19629,00445118,Biskupství českobudějovické
+19045,19633,29298687,"Kangaroo group, a.s."
+16805,19637,00014915,Metrostav a.s.
+19049,19641,28935390,"Dedeman, s.r.o."
+19053,19645,44005130,"COMTECH Group, spol. s r. o."
+19057,19649,71154957,"Bartoň Martin, MUDr."
+19061,19653,70889546,Královéhradecký kraj
+19065,19657,75151499,Krajské ředitelství policie Jihomoravského kraje
+19069,19661,27675645,C SYSTEM CZ a.s.
+19073,19665,25821237,NORTHMAN OUTDOOR s.r.o.
+19077,19669,26272857,Prabos plus a.s.
+19085,19677,86635760,Antonín Zeman
+19089,19681,72820942,Pavel Danihelka - Toncart
+19097,19689,65028201,"Římskokatolická farnost Horní Planá, Náměstí 1, Horní Planá 38226"
+19109,19701,49920189,Václav Knor
+19113,19705,00376965,Obec Horní Heřmanice
+19117,19709,00377309,Obec Chlum
+19121,19713,00378461,Obec Pokojovice
+19125,19717,60913088,Grano Skuteč spol. s r.o.
+19129,19721,00286745,Město Telč
+19137,19729,00094820,"Národní divadlo Brno, příspěvková organizace"
+19141,19733,65028201,"Římskokatolická farnost Horní Planá, Náměstí 1, Horní Planá 38226"
+19153,19745,62587978,"VERA, spol. s r.o."
+19157,19749,25407317,"STAVO - UNION, stavební společnost s r.o."
+19161,19753,,obchodní tajemství
+19165,19757,,Jarčyčová Natalija
+19169,19761,,obchodní tajemství
+19173,19765,46356088,"ÚJV Řež, a. s."
+19177,19769,63857448,Darren Leslie Ireland
+19181,19773,49162756,Roman Zlesák
+19185,19777,65050975,"Římsko katolická farnost Žumberk u Trhových Svinů, Kostelní 125, Trhové Sviny 37401"
+19189,19781,27983943,A.D.S. Rokycany s.r.o.
+19193,19785,24676586,CRE8 s.r.o.
+19197,19789,25229397,SUPTel a.s.
+19205,19797,03678091,ADUCID s.r.o.
+19209,19801,,obchodní tajemství
+19213,19805,00476455,Obec Mysletín
+19217,19809,00289132,Obec Březník
+19221,19813,22889833,"Hokejový klub RT TORAX PORUBA 2011, o.s"
+19225,19817,00511218,Obec Bystrá
+19229,19821,00249483,Obec Želiv
+19233,19825,00543748,Obec Řídelov
+19237,19829,,obchodní tajemství
+19241,19833,,Maršálek Marcel
+19245,19837,65025776,"Římskokatolická farnost Černice, Náměstí 1, Křemže 38203"
+19249,19841,00259641,Obec Vintířov
+19253,19845,,obchodní tajemství
+19261,19853,25981854,OREDO s.r.o.
+19265,19857,25981854,OREDO s.r.o.
+19269,19861,25981854,OREDO s.r.o.
+19273,19865,,obchodní tajemství
+19277,19869,47906651,"ITEVO, spol. s r.o."
+19281,19873,00179680,Obec Boňkov
+19285,19877,00580091,Obec Slavníč
+19289,19881,,PROCHÁZKA BOHUSLAV
+19293,19885,,obchodní tajemství
+19297,19889,24676586,CRE8 s.r.o.
+19301,19893,,obchodní tajemství
+19305,19897,03673073,Hřiště hrou s.r.o.
+19313,19905,14501945,A 1 spol. s r. o.
+19321,19913,28085400,E.On Distribuce a.s.
+19325,19917,,obchodní tajemství
+19329,19921,,obchodní tajemství
+19333,19925,61860476,Sodexo Pass Česká republika a.s.
+19337,19929,,obchodní tajemství
+19341,19933,,obchodní tajemství
+19345,19937,,obchodní tajemství
+19349,19941,,obchodní tajemství
+19353,19945,26525003,Jihomoravská rada dětí a mládeže
+19357,19949,47767456,"TJ Hvězda Trnovany, z.s."
+19361,19953,,obchodní tajemství
+19365,19957,,obchodní tajemství
+19369,19961,,obchodní tajemství
+19373,19965,,obchodní tajemství
+19377,19969,25525620,"Kinematograf bratří Čadíků, s.r.o."
+19381,19973,61860476,Sodexo Pass Česká republika a.s.
+19385,19977,,obchodní tajemství
+19389,19981,,obchodní tajemství
+19393,19985,48582085,Proximity Prague s.r.o.
+19397,19989,47767456,"TJ Hvězda Trnovany, z.s."
+19401,19993,,obchodní tajemství
+19405,19997,,obchodní tajemství
+19409,20001,,Duchoň Miroslav
+19413,20005,03393780,Lahůdky Slunko s.r.o.
+19417,20009,61946702,"ECHOalarm, s.r.o."
+19421,20013,,obchodní tajemství
+19425,20017,,obchodní tajemství
+19429,20021,25413813,"Rekultivace Dubí, s.r.o."
+19433,20025,01554913,"Sportovní městečko, o.s."
+19441,20033,,obchodní tajemství
+19445,20037,,obchodní tajemství
+19449,20041,,obchodní tajemství
+19453,20045,,obchodní tajemství
+19457,20049,,obchodní tajemství
+19461,20053,,obchodní tajemství
+19201,20057,25432478,A.stavby s.r.o.
+19465,20061,,obchodní tajemství
+19469,20065,25930044,"SEMILEAS, a. s."
+19473,20069,45148287,Variel
+19477,20073,25419048,AUTODROM MOST a.s.
+19481,20077,44587104,Miroslav Málek
+19485,20081,,obchodní tajemství
+19489,20085,,obchodní tajemství
+19493,20089,70999180,"Základní škola Opava, Boženy Němcové 2 - příspěvková organizace"
+19501,20101,00300241,Obec Kobeřice
+19505,20105,00408328,Hnutí Brontosaurus
+19509,20109,,obchodní tajemství
+19513,20113,42324254,OTIS a.s.
+19521,20121,60850353,KOSTAX spol. s r.o.
+19525,20125,60850353,KOSTAX spol. s r.o.
+19529,20129,60850353,KOSTAX spol. s r.o.
+19533,20133,73545708,Jaroslav Prokeš
+19537,20137,26069687,DTD Styl CB s.r.o.
+19541,20141,27277577,Projektový ateliér DAVID s.r.o.
+19545,20145,,Proximity Prague s.r.o.
+19549,20149,,Ogilvy & Mather spol. s.r.o.
+19549,20149,,Nydrle Digital s.r.o.
+19549,20149,,Proximity Prague s.r.o.
+19553,20153,24799629,"Proact Czech Republic, s.r.o."
+19557,20157,,obchodní tajemství
+19569,20169,75032333,"Národní památkový ústav, státní příspěvková organizace"
+19577,20177,15887103,SHIMADZU Handels GmbH-organizační složka
+19581,20181,,obchodní tajemství
+19585,20185,,obchodní tajemství
+19589,20189,15051145,"KonekTel, a.s."
+19593,20193,63836114,"Svaz českých potapěčů, zapsaný spolek"
+19597,20197,,obchodní tajemství
+19601,20201,25510622,ČERVINKA - CZECH REPUBLIC s.r.o.
+19605,20205,62414402,Purum s.r.o.
+19609,20209,41522770,LEMARK - Lenka Zacharová
+19613,20213,70889546,Královéhradecký kraj
+19617,20217,00262340,Statutární město Jablonec nad Nisou
+19561,20221,46936777,Služby Města Veselí nad Moravou
+19625,20229,28733932,Bezpečně na silnicích o.p.s.
+19629,20233,04084063,Česká telekomunikační infrastruktura a.s.
+19637,20241,44587104,Miroslav Málek
+19641,20245,16191242,"Biotronik Praha, s.r.o."
+19649,20257,25232100,Šumavské vodovody a kanalizace a.s.
+19653,20261,27195147,"SMP CZ, a.s."
+19653,20261,40233308,Vodohospodářské stavby
+19657,20265,00075370,Statutární město Plzeň
+19657,20265,25205625,VODÁRNA PLZEŇ a.s.
+19657,20265,45274924,"EUROVIA CS, a.s."
+19657,20265,45357269,BERGER BOHEMIA a. s.
+19661,20269,60193531,"ČEPRO, a.s."
+19669,20277,25516191,"Ing. NEDOMA,s.r.o."
+19673,20285,04704894,EndoTech s.r.o.
+19677,20289,00278181,MĚSTO PEC POD SNĚŽKOU
+19681,20301,76305686,Jiřina Netopilová
+19685,20305,60838744,STRABAG a.s.
+19689,20309,00507814,LINET spol. s.r.o.
+19693,20317,00289931,Město Moravské Budějovice
+19697,20321,00081531,Statutární město Ústí nad Labem
+19701,20325,46960341,AUTONOVA BRNO s.r.o.
+19705,20329,,"Údaj není veřejný na základě § 5 odst. 6 zákona č. 340/2015 Sb., o registru smluv"
+19709,20337,00081531,Statutární město Ústí nad Labem
+19713,20341,26869551,CLINITEX s.r.o.
+19717,20345,00579947,Obec Leškovice
+19725,20353,25678124,REAGA s.r.o.
+19733,20361,25099019,"PROMEDICA PRAHA GROUP,a.s."
+19737,20365,01697706,Nadační fond Blues nad Bečvou
+19741,20369,28085400,E.On Distribuce a.s.
+19745,20373,49466739,Nadační fond VITA NOVA
+19749,20377,49617052,ROCHE s.r.o.
+19753,20381,00282979,Město Židlochovice
+19757,20385,00579190,Obec Krchleby
+19761,20389,28786793,"Ing. Ivan Šír, projektování dopravních staveb, a.s."
+19765,20393,00579149,OBEC ŘÍČKY
+19769,20397,27487938,MDS projekt s.r.o.
+19773,20401,25618091,VIKTORSTAV s.r.o.
+19777,20405,14707420,Alliance Healthcare
+19781,20409,27774996,"PANGEA CZ, s.r.o."
+19785,20413,00081531,Statutární město Ústí nad Labem
+19789,20417,00262587,Městský úřad Tanvald
+19793,20421,,obchodní tajemství
+19797,20425,26499223,EMC CZECH REPUBLIC s.r.o.
+19801,20429,00288675,Městys Protivanov
+19805,20433,00300241,Obec Kobeřice
+19809,20437,02915987,Altic Point s.r.o.
+19813,20441,02492245,"Ronnex Group, s.r.o."
+19817,20445,46708839,FANAK s.r.o.
+19821,20449,24745391,Edenred CZ s.r.o.
+19825,20453,49960822,František Vlasák
+19829,20457,00271756,Obec Libošovice
+19833,20461,00653675,OBEC BUKOVICE
+19837,20465,00277711,Obec Čermná
+19841,20469,65993390,Ředitelství silnic a dálnic ČR
+19849,20477,26849836,MSS - projekt s.r.o.
+19853,20481,72751762,Ing. Jan Zelenka
+19857,20485,26961873,"UniCab, s.r.o."
+19865,20493,,"Edenred CZ, s.r.o."
+19869,20497,60838744,STRABAG a.s.
+19873,20501,45148287,Variel
+19877,20505,25417851,Korál servis LTM s.r.o.
+19881,20509,47155337,OSA projekt s.r.o.
+19885,20513,47116871,EUROPEUM Praha a. s.
+19889,20517,47903783,GORDIC spol. s r.o.
+19897,20525,13144391,Tomáš Sedláček
+19905,20533,41881133,Oblastní charita Vimperk
+19909,20537,00013226,TONAK a. s.
+19913,20541,28784804,"Pennybelts, s.r.o."
+19917,20545,00029084,"Snaha KV, družstvo\n"
+19921,20549,26588579,Občanské sdružení Větrov Vysoké nad Jïzerou
+19925,20553,28325851,Horolezecké centrum Brno s.r.o.
+19929,20557,60750197,Koutný spol. s r.o.
+19933,20561,04255071,ADEVITA s.r.o.
+19945,20573,61386839,Dům zahraniční spolupráce
+19953,20581,44851529,GEPRO s.r.o.
+19957,20585,22713701,"ČBF - Oblast Jižní Čechy, evidenční číslo ČBF 03"
+19961,20589,,obchodní tajemství
+19965,20593,47155337,OSA projekt s.r.o.
+19969,20597,74784889,Tomáš Berger
+19973,20601,28633831,TECHSTAIN s.r.o.
+5797,20605,25855506,HAOSPOL s.r.o.
+19977,20609,60793716,TS a.s.
+19981,20613,,obchodní tajemství
+19985,20617,25317075,STUDENT AGENCY k.s.
+19989,20621,61860476,Sodexo Pass Česká republika a.s.
+19993,20625,47155337,OSA projekt s.r.o.
+19997,20629,25018094,SaM silnice a mosty a.s.
+20001,20633,,obchodní tajemství
+20005,20637,,obchodní tajemství
+20013,20645,,obchodní tajemství
+20017,20649,00275841,Obec Košťálov
+20021,20653,00276111,Město Semily
+20025,20657,00505609,Klub českých turistů
+20029,20661,47282711,oaza - net spol. s r.o.
+20033,20665,25279921,EXPOL HK s.r.o.
+20045,20677,,Ing. arch. Radmila Vraníková
+20053,20685,49616528,Hypokramed s.r.o.
+20057,20689,,"Otsuka Pharmaceutical Development and Commercialization, Inc."
+20061,20693,00271764,Obec Libuň
+20065,20697,00580759,Obec Doubravice
+20069,20701,00578444,Obec Milovice u Hořic
+20073,20705,25981854,OREDO s.r.o.
+20077,20709,,Havránek Petr
+20081,20713,,Walter Köhler
+20085,20717,01739735,MIKADA s.r.o.
+20089,20721,,Hrabák Petr
+20093,20725,03908232,AIR TECHNIC Clima s.r.o.
+20097,20729,26177005,"COLAS CZ, a.s."
+20101,20733,47676795,AutoCont CZ a.s.
+20105,20737,14615754,DATA-INTER spol. s r.o.
+20109,20741,70890692,MSK registr smluv (Moravskoslezský kraj)
+20113,20745,46966331,"DIKOS, s.r.o."
+20121,20753,75868105,Ing. Hana Víchová
+20125,20757,,Ing. Milena Holasová
+17381,20761,63144379,"COMP NET SYSTEMS, s.r.o."
+20129,20765,49975358,"KAVYL, spol. s r.o."
+20137,20773,47155337,OSA projekt s.r.o.
+20141,20777,76462293,Michaela Hrubá
+20145,20781,01696114,ADVAMED s.r.o.
+20153,20789,00275204,OBEC ORLICKÉ ZÁHOŘÍ
+20157,20793,61860476,Sodexo Pass Česká republika a.s.
+20161,20797,03035441,Shooting Systems s.r.o.
+20165,20801,00000493,"VOP CZ, s.p."
+20169,20805,26668084,"Folklérní soubor Marjánek, z. s."
+20173,20809,61859575,"MORAVSKÁ VODÁRENSKÁ, a.s."
+20177,20813,00278653,Město Česká Třebová
+20181,20817,69092826,"Jihočeský svaz cyklistiky, z.s."
+20185,20821,00278653,Město Česká Třebová
+20193,20829,25232932,FLASHDANCE CLUB s. r. o.
+20197,20833,01864190,LT WELD s.r.o.
+20209,20845,00000493,"VOP CZ, s.p."
+20213,20849,00290629,Město Třebíč
+20217,20853,29268826,"ICT Energo, s.r.o."
+20221,20857,00000493,"VOP CZ, s.p."
+20225,20861,00000493,"VOP CZ, s.p."
+20229,20865,,KATEŘINA FIALOVÁ
+20233,20869,00000493,"VOP CZ, s.p."
+20237,20873,25911368,"VÍTKOVICE ARÉNA, a.s."
+20241,20877,24206181,Werfen Czech s.r.o.
+20245,20881,,fyzická osoba
+20245,20881,,fyzická osoba
+20249,20885,25582518,"Veletrhy Brno, a.s."
+20253,20889,00296317,Město Rýmařov
+20257,20893,10438971,Antonín Pech
+20261,20897,86747266,Jiří Janku
+20265,20901,25035207,"PIVOVAR SVIJANY, a.s."
+20269,20905,27942171,"RELMOST, a.s."
+20273,20909,25892533,TESCO SW a.s.
+20277,20913,28608909,"ATRIS, s.r.o."
+20281,20917,00268917,OBEC KÁRANICE
+20285,20921,87154528,Ing. Jana Sýkorová
+20289,20925,25357603,"CONE-STAVITELSTVÍ, a.s."
+20293,20929,26322242,PP-servis Plzeň s.r.o.
+20297,20933,,Jiří Žaloudek
+20297,20933,,Martina Žaloudková
+20301,20937,00267805,Obec Lípa
+20305,20941,00248801,Město Pelhřimov
+20309,20945,04084063,Česká telekomunikační infrastruktura a.s.
+20317,20953,00282031,Obec Lukovany
+20321,20957,22713948,Moto bigbang
+20333,20969,02231328,ERGIS & GROUP s.r.o.
+20337,20973,,Obchodní tajemství
+20341,20977,25516191,"Ing. NEDOMA,s.r.o."
+20345,20981,,obchodní tajemství
+20349,20985,00296317,Město Rýmařov
+20353,20989,60875577,REALISTAV s.r.o.
+20357,20993,27675645,C SYSTEM CZ a.s.
+20361,20997,42869668,B M H spol. s. r.o.
+20365,21001,41251806,Marian Pavel - ELMOPA
+20373,21009,28781708,Fischer TPD s.r.o.
+20377,21013,28789202,"VH - stavební práce, s.r.o."
+20381,21017,,Kadeřábek Vlastimil
+20385,21021,28781708,Fischer TPD s.r.o.
+20389,21025,,Kadeřábek Vlastimil
+20393,21029,73763811,Štábl František
+20397,21033,,obchodní tajemnství
+20405,21037,87154528,Ing. Jana Sýkorová
+20409,21041,40523811,EXIMPO Plzeň
+20413,21045,,Obchodní tajemství
+20417,21049,73646130,Petr Špaček
+20421,21053,,obchodní tajemství
+20425,21057,25504487,"RAPOS, spol. s r.o."
+20429,21061,25635972,Boston Scientific Česká republika s.r.o.
+20433,21065,63475243,Gaudio s.r.o.
+10773,21073,64949681,T-mobile Czch Republic a.s.
+20449,21085,60719877,CARDION s.r.o.
+20453,21089,03650014,VESTIMENTUM s.r.o.
+20457,21093,01391577,BoneCare s.r.o.
+20461,21097,,obchodní tajemství
+20465,21101,00013226,TONAK a. s.
+20469,21105,73035921,Ing. Jiří Hendrych
+20473,21109,,Loebe Patrik
+20477,21113,60750197,Koutný spol. s r.o.
+20481,21117,,"INVESTICE CZ, a.s."
+20485,21121,26259630,"MEGASTRO CZ, s.r.o."
+20489,21125,,Loebe Patrik
+20493,21129,25298496,"SINTEX, a.s."
+20497,21133,60193336,O2 Czech Republic a.s.
+20501,21137,,Obchodní tajemství
+20505,21141,60750197,Koutný spol. s r.o.
+20509,21145,63673169,EDOMED a.s.
+20513,21149,66459800,Štěpán Holič
+20517,21153,70876096,"Základní škola Pelhřimov, Osvobození 1881, příspěvková organizace"
+20525,21161,61974757,Dopravní podnik Ostrava a.s.
+20529,21165,28351363,Caleum a.s.
+20537,21173,40523811,EXIMPO Plzeň
+20541,21177,40523811,EXIMPO Plzeň
+20545,21181,40523811,EXIMPO Plzeň
+20549,21185,40523811,EXIMPO Plzeň
+20553,21189,40523811,EXIMPO Plzeň
+20557,21193,40523811,EXIMPO Plzeň
+20561,21197,40523811,EXIMPO Plzeň
+20565,21201,40523811,EXIMPO Plzeň
+20569,21205,40523811,EXIMPO Plzeň
+20573,21209,25840371,Graseko s.r.o.
+20577,21213,40523811,EXIMPO Plzeň
+20581,21217,66459800,Štěpán Holič
+20585,21221,64426882,Ing. Radomír Gregor
+20589,21229,00289507,Město Jaroměřice Nad Rokytnou
+20593,21233,63362341,Radek Sekera
+20597,21237,26272857,Prabos plus a.s.
+20601,21241,70435618,Charita sv. Vojtěcha Slavičín
+20605,21249,25579703,SEZAKO Prostějov s.r.o.
+20609,21253,26215951,Hadrman UH a.s.
+20613,21257,26200481,"Tyfloservis, o.p.s."
+20617,21261,25250167,"D & D  PROFI,  s. r. o."
+20621,21265,25250167,"D & D  PROFI,  s. r. o."
+20625,21269,49284479,EL-VY spol. s r.o.
+20629,21273,,Josef Zelený
+20633,21277,04412672,"Rodinné centrum Kroměříž, z.s."
+20637,21281,,Trunečka František
+20641,21285,26803291,FROS ZPS s.r.o.
+20645,21289,,Svazek obcí Horní Labe
+19901,21297,27373231,ASEKOL a.s.
+20649,21301,49617052,ROCHE s.r.o.
+20653,21305,44018886,Oblastní charita Uherské Hradiště
+20657,21309,60719877,CARDION s.r.o.
+20661,21313,25900056,PROINK  s.r.o.
+20665,21317,70101884,Antidopingový výbor České republiky
+20673,21325,45359326,"PHOENIX LV,a.s."
+20681,21329,49900854,"Intermont, Opatrný, s.r.o."
+20685,21333,26708451,"Maltézská pomoc, o.p.s."
+20689,21337,15934837,Ing. Čeněk Kadlec
+20693,21341,45359326,"PHOENIX LV,a.s."
+20697,21345,65488521,PhDr. Miroslav Kadlčík
+20701,21349,72351438,Ondřej Kolář
+20705,21353,14707420,Alliance Healthcare
+20709,21357,25635972,Boston Scientific Česká republika s.r.o.
+20717,21365,75126621,"Federace campingu a caravaningu České republiky, z.s."
+20721,21369,02083825,Auxilium o.p.s.
+20725,21373,,ZATLOUKALOVÁ BOŽENA
+20729,21377,11255005,František Janek
+20733,21381,25045504,"ČSAD Liberec, a.s."
+20737,21385,26829941,RAL PNEU s.r.o.
+20741,21389,26025523,AB TÁBOR spol. s r.o.
+20745,21393,49900854,"Intermont, Opatrný, s.r.o."
+20749,21397,27068641,"Olympus Czech Group, s.r.o., člen koncernu"
+20753,21401,64499219,Emil Muller
+20757,21405,00284459,město Slavičín
+20761,21409,,obchodní tajemství
+20765,21413,43172083,Petr Vitvar
+20769,21417,41508513,Jiří Trecha
+20773,21421,25300083,"Centrum služeb postiženým Zlín, obecně prospěšná společnost"
+20777,21425,41508513,Jiří Trecha
+20781,21429,61989100,Vysoká škola báňská - Technická univerzita Ostrava
+20785,21433,26842149,Vzdělávací a komunitní centrum Integra Vsetín o.p.s.
+20789,21437,,Varmuža Zdeněk
+20793,21441,,obchodní tajemství
+20797,21445,,obchodní tajemství
+20801,21449,18189750,Oblastní charita Kroměříž
+20805,21453,00284459,město Slavičín
+20809,21457,,obchodní tajemství
+20813,21461,48489336,Oblastní charita Uherský Brod
+20817,21465,,Město Nová Role
+20821,21469,25121537,ABILITY s.r.o.
+20829,21477,00570931,NADĚJE
+20833,21481,00570931,NADĚJE
+20837,21485,27087565,Róbert Nemec
+20841,21489,63073242,VWR International s.r.o.
+20845,21493,64949681,T-mobile Czch Republic a.s.
+20849,21497,60193336,O2 Czech Republic a.s.
+20857,21501,47676795,AutoCont CZ a.s.
+20861,21505,,obchodní tajemství
+20865,21509,62595571,Ing. Peter Kováčik
+20037,21513,03053601,MAQUET Czech Republic s.r.o.
+20869,21517,,Vymětalík Pavel
+20049,21521,14707420,Alliance Healthcare
+20873,21525,,obchodní tajemství
+20877,21529,,HORÁK JIŘÍ
+20881,21533,69319570,Ivan Jiránek
+20897,21549,,AUDIOPRO s.r.o.
+20901,21553,,PETROVÁ MILOSLAVA
+20913,21565,,obchodní tajemství
+20925,21577,47150602,"DS Správa servisů, s.r.o."
+20929,21581,,Kanisová Lucie
+20933,21585,,nezveřejňuje se (bankovní tajemství)
+20937,21589,,nezveřejňuje se (bankovní tajemství)
+20941,21593,,nezveřejňuje se (bankovní tajemství)
+20945,21597,,nezveřejňuje se (bankovní tajemství)
+20949,21601,,nezveřejňuje se (bankovní tajemství)
+20953,21605,,nezveřejňuje se (bankovní tajemství)
+20957,21609,,nezveřejňuje se (bankovní tajemství)
+20961,21613,,nezveřejňuje se (bankovní tajemství)
+20965,21617,,nezveřejňuje se (bankovní tajemství)
+20969,21621,,nezveřejňuje se (bankovní tajemství)
+20973,21625,,nezveřejňuje se (bankovní tajemství)
+20977,21629,,nezveřejňuje se (bankovní tajemství)
+20981,21633,,nezveřejňuje se (bankovní tajemství)
+20985,21637,,nezveřejňuje se (bankovní tajemství)
+20989,21641,,nezveřejňuje se (bankovní tajemství)
+20993,21645,,nezveřejňuje se (bankovní tajemství)
+20997,21649,,nezveřejňuje se (bankovní tajemství)
+21001,21653,,nezveřejňuje se (bankovní tajemství)
+21005,21657,,nezveřejňuje se (bankovní tajemství)
+21009,21661,,SROKA JIŘÍ
+21013,21665,16903293,Ing. Jiří Soudek
+21017,21669,28035461,Boula IPK s.r.o.
+21021,21673,27127010,Schindler CZ a.s.
+21025,21677,25526880,"VLARY, s.r.o."
+21029,21681,26236176,AEC a.s.
+21037,21693,75576228,Michal Baláž
+21033,21697,27210821,MARKUL CONTROLS s.r.o.
+21041,21701,,Novotný Milan
+21045,21705,,"K.Aišman, J.Balek, B.Dušek, H.Dvořáková, E.Iveljová, M.Klimešová, J.Koubová, J. Lobkowicz, J.Mikulovský, M.Mužíková, A.Nováková, J.Petříček, J.Richter, J.Vaníček, P.Vilhelm, M.Vorel, A.Zelenková"
+21049,21709,45244782,"Česká spořitelna, a.s."
+21053,21713,44947429,HARTMANN - RICO a.s.
+21057,21717,27733718,LEMESSIANAs.r.o.
+21061,21721,65139577,Pharmacy-distribuce léčiv s.r.o.
+21065,21725,26296225,Stavplyn s.r.o.
+21069,21729,45359326,"PHOENIX LV,a.s."
+21073,21733,65139577,Pharmacy-distribuce léčiv s.r.o.
+21077,21737,44848200,SANOFI-AVENTIS  s.r.o
+21081,21741,03866696,BAXALTA CZECH spol. s r.o.
+21085,21745,44269471,Trios s.r.o.
+21089,21749,44269471,Trios s.r.o.
+21093,21753,42340586,M.G.P. spol. s r.o.
+21097,21757,62526472,Biogena CB spol. s.r.o.
+21101,21761,27146928,"Janssen-Cilag,s.r.o."
+21105,21765,65139577,Pharmacy-distribuce léčiv s.r.o.
+21109,21769,45359326,"PHOENIX LV,a.s."
+21113,21773,00565474,BAYER s.r.o.
+21117,21777,65139577,Pharmacy-distribuce léčiv s.r.o.
+21121,21781,49617052,ROCHE s.r.o.
+21125,21785,65139577,Pharmacy-distribuce léčiv s.r.o.
+21129,21789,48586285,B. Braun Medical s.r.o.
+21133,21793,27664989,"ÚJV Řež,a.s."
+21137,21797,65139577,Pharmacy-distribuce léčiv s.r.o.
+21141,21801,49617052,ROCHE s.r.o.
+21145,21805,,TERUMO BCT EUROPE N.V.
+21149,21809,27752356,SYSMEX CZ s.r.o.
+21153,21813,44848200,SANOFI-AVENTIS  s.r.o
+21157,21817,49449770,"ElektroSystem Zlín, s.r.o"
+21161,21821,63219107,PROMA REHA s.r.o.
+21165,21825,65139577,Pharmacy-distribuce léčiv s.r.o.
+21169,21829,14888742,ViaPharma s.r.o.
+21173,21833,45359326,"PHOENIX LV,a.s."
+21177,21837,03053601,MAQUET Czech Republic s.r.o.
+21181,21841,65139577,Pharmacy-distribuce léčiv s.r.o.
+21185,21845,27733718,LEMESSIANAs.r.o.
+21189,21849,49689011,BAXTER CZECH spol. s r. o.
+21193,21853,45359326,"PHOENIX LV,a.s."
+21197,21857,44947429,HARTMANN - RICO a.s.
+21201,21861,45359326,"PHOENIX LV,a.s."
+21205,21865,45359326,"PHOENIX LV,a.s."
+21209,21869,48041351,Grifols s.r.o.
+21213,21873,65139577,Pharmacy-distribuce léčiv s.r.o.
+21217,21877,65139577,Pharmacy-distribuce léčiv s.r.o.
+21221,21881,26009951,Gali s.r.o.
+21225,21885,26909243,PANEP CZ s.r.o.
+21229,21889,27664989,"ÚJV Řež,a.s."
+21233,21893,25135228,Fresenius Kabi s.r.o.
+21237,21897,14707420,Alliance Healthcare
+21241,21901,45359326,"PHOENIX LV,a.s."
+21245,21905,45359326,"PHOENIX LV,a.s."
+21249,21909,65139577,Pharmacy-distribuce léčiv s.r.o.
+21253,21913,45359326,"PHOENIX LV,a.s."
+21257,21917,48586366,"AMEDIS, spol. s r.o."
+21261,21921,65139577,Pharmacy-distribuce léčiv s.r.o.
+20205,21925,60371757,Gymnázium J.A.Komenského a Jazyková škola s právem státní jazykové zkoušky Uherský Brod
+21265,21929,00064190,Thomayerova nemocnice
+21269,21933,61974731,"Trade FIDES, a.s."
+21273,21937,28497481,DiaSorin Czech s.r.o.
+21277,21941,27370917,"QUICKSEAL INTERNATIONAL, s.r.o."
+21281,21945,61387991,"Česká florbalová unie, o. s."
+21285,21949,00548979,Český svaz házené
+21289,21953,18291091,"SKI KLUB ŠUMAVA VIMPERK, z.s."
+21293,21957,25981854,OREDO s.r.o.
+21297,21961,74813889,Šlechta Lukáš
+21301,21965,25607782,"Kalin, spol. s r.o."
+21305,21969,,"RNDr. Vlasta Jankovská, CSc."
+21309,21973,14558963,Havrda Jan
+21313,21977,05117127,Jihočeský krajský svaz ČSOS
+21317,21985,48546542,Česká softballová asociace
+21321,21989,42002141,Ing. Vítězslav Stavař
+21325,21993,19013833,"Střední škola technická, Přerov"
+21329,21997,22715738,"Jihočeský Krajský svaz stolního tenisu, z.s."
+21333,22001,26537001,Jihočeský triatlon
+3905,22005,47473266,"ALTER, s.r.o."
+21341,22013,14499061,"HC České Budějovice, z.s."
+21345,22017,66186056,Zdeněk Punčochář
+21349,22021,13624768,Rudolf Zgubiš Elektro
+20713,22029,71230629,"SOCIÁLNÍ SLUŽBY UHERSKÝ BROD, příspěvková organizace"
+20713,22029,00291463,Město Uherský Brod
+21357,22033,27156753,General Dynamics European Systems - Czech s.r.o.\n
+21361,22037,26607255,"Hluboká Baseball & Softball Club, z.s."
+21365,22041,25383035,ARBOR MORAVIA  s.r.o.
+21369,22045,16370490,Miroslav Horyna
+21373,22049,26917891,Zbyněk Lazar s.r.o.
+21377,22053,60065249,"Hockey club Tábor, z.s."
+21381,22057,70101884,Antidopingový výbor České republiky
+21385,22061,04000188,"TT PROFI servis, s.r.o."
+21389,22065,60074205,"Volejbalový klub České Budějovice, z.s."
+16641,22085,25354973,ha-vel internet s.r.o.
+21393,22089,47234199,"Jihočeská fotbalová akademie Karla Poborského, z.s."
+21397,22093,,Obchodní tajemství
+21401,22097,,Obchodní tajemství
+21405,22101,47267968,FK Tábor
+21409,22105,,Obchodní tajemství
+21413,22109,,Obchodní tajemství
+21417,22113,,Obchodní tajemství
+21421,22117,,Obchodní tajemství
+21425,22121,63469511,NWT a.s.
+21429,22125,00531987,PŠR z.s.
+21433,22129,04911148,H-BRO s.r.o.
+21437,22133,27156753,General Dynamics European Systems - Czech s.r.o.\n
+21441,22137,27156753,General Dynamics European Systems - Czech s.r.o.\n
+21445,22141,27156753,General Dynamics European Systems - Czech s.r.o.\n
+21449,22145,48029289,Pragolab s.r.o.
+21457,22153,45794171,SIGMA-ALDRICH spol. s r.o.
+21461,22157,25664018,BioTech a.s.
+21465,22161,49703391,SAVA TRADE  s.r.o.
+21469,22165,61501484,CANON CZ s.r.o.
+21473,22169,63267985,Ing. Milan Bastl
+21481,22177,18325297,Pavel Míka - FALIKO
+21485,22181,26682443,"DYNEX LABORATORIES, s.r.o."
+21497,22185,60774151,DOR - SPORT s.r.o.
+21501,22189,63279185,Ing.Dušan Melzer
+21505,22193,28480830,IMMOMEDICAL CZ s.r.o.
+21509,22197,18825605,"NIMOTECH, s.r.o."
+21513,22201,25725394,"TESTO, s.r.o."
+21517,22205,64583562,Medtronic Czechia s.r.o.
+21521,22209,47150602,"DS Správa servisů, s.r.o."
+21525,22213,40414221,Věra Hevrová - AGAMA
+21529,22217,27507785,"ELLA-CS, s.r.o."
+21533,22221,47150602,"DS Správa servisů, s.r.o."
+21537,22225,25843907,PONTIS Šumperk o.p.s.
+21541,22229,27142213,PEK - TK s.r.o.
+21545,22233,76192814,Kryštof Šigut
+21549,22237,47607483,"Bílý kruh bezpečí, z.s."
+21553,22241,47676795,AutoCont CZ a.s.
+21557,22245,25578286,"KOVOARTIKL CZ, s.r.o."
+21565,22253,00303038,Město Mohelnice
+21569,22257,04179960,"Siemens Healthcare, s.r.o."
+21573,22261,27295567,RWE GasNet s.r.o
+21573,22261,27295567,RWE GasNet s.r.o
+21577,22265,45359326,"PHOENIX LV,a.s."
+21585,22273,04046366,"T.C.B. EXPORT, s.r.o."
+21593,22277,27754146,"OXOID CZ s.r.o.
+
+Prodejce:
+Kateřina Tesaříková"
+21597,22281,62587978,"VERA, spol. s r.o."
+21601,22285,48399477,"TM  Stav, spol. s r.o."
+21605,22289,26843935,"Z + M Partner, spol. s r.o."
+21609,22293,63073242,VWR International s.r.o.
+21613,22297,26826925,HAGEMANN a.s.
+21617,22301,45789584,"AUTO JAROV, s.r.o."
+20893,22305,65077237,Miroslav Hlavatý
+20885,22309,24666238,GSUS absolutní čistota a.s.
+21621,22313,,obchodní tajemství
+21453,22317,27507211,JM Woodwork s.r.o.
+21629,22325,62911163,KAMPA PARK spol. s r.o.
+21633,22329,,SH ČMS - Sbor dobrovolných hasičů Žďár n. S. 2 - Zamek
+21637,22333,00293806,Městys Vranov nad Dyjí
+21645,22341,28538153,"Phadia, s.r.o."
+21649,22345,70890692,MSK registr smluv (Moravskoslezský kraj)
+21653,22349,68145161,"Cyklistické sdružení MAX-CURSOR, z.s."
+21657,22353,,ICZ a.s.
+21661,22357,45299579,Vladislav Honc
+18409,22365,,"""JOKAS s.r.o.""´, Bydžovská Lhotka 46, NB"
+21669,22369,24745391,Edenred CZ s.r.o.
+21673,22373,46508147,"THT Polička, s.r.o."
+21677,22377,26390957,W.T.A. service s.r.o.
+21681,22381,64618064,"KROVSTAV, s.r.o."
+21685,22385,62330373,"Základní umělecká škola, Odry, příspěvková organizace"
+21689,22389,46508147,"THT Polička, s.r.o."
+21693,22393,26454807,"Havel, Holásek & Partners s.r.o., advokátní kancelář"
+21697,22397,26738384,CONFESS-Research
+21701,22401,27157938,"Projektmedia,s.r.o."
+21705,22405,25672363,"BATTEX, spol. s r.o."
+21709,22409,26912791,"BAJER group, s.r.o."
+21713,22413,41032004,"Z + M servis, spol. s r.o."
+21717,22417,44992785,Statutární město Brno
+21721,22425,44684703,Popilka spol. s r.o.
+21733,22429,29190088,"Sokordia, s.r.o."
+21741,22437,13690965,"HICON, spol. s r.o."
+21745,22441,00600741,Obec Rybí
+21749,22445,44992785,Statutární město Brno
+21753,22449,64900568,Jan Hedrlín
+21757,22453,00483389,"TETRONIK, v.d."
+21761,22457,47903783,GORDIC spol. s r.o.
+21765,22461,13640666,Ing. Martin Karas
+21769,22465,,fyzická osoba
+21773,22469,25071815,JASA s.r.o.
+21777,22473,65468562,Slezská diakonie
+21781,22477,25512111,"BRINGSTAV, s.r.o."
+21737,22481,46792635,Jan Heran
+21785,22485,45299579,Vladislav Honc
+21789,22489,01775324,3PM s.r.o.
+21793,22493,04999312,Cyklopujcovna.com s.r.o.
+21797,22497,88050289,Petr Konopek
+21801,22501,,fyzická osoba
+21805,22505,00576310,Sdružení pro rozvoj Moravskoslezského kraje z.s.
+21809,22509,00601250,Městská knihovna Havířov
+21813,22513,,Martin Boskovský
+21817,22517,,Ing. Petr Zajpt
+21821,22521,,Jaroslav Maťátko
+21825,22525,,Ivana Pospíšilová
+21829,22529,,František Strakorský
+21837,22537,,Martina Charouzová
+21841,22541,,Jiří Keller
+21845,22545,,Luboš Novotný
+21849,22549,,Viktor Vlček
+21853,22553,,Vladimír Briestenský
+21861,22561,60557621,Společnost Podané ruce o.p.s.
+21865,22565,49457004,Svazek vodovodů a kanalizací Tišnovsko
+21869,22569,45359326,"PHOENIX LV,a.s."
+21873,22573,13690965,"HICON, spol. s r.o."
+21877,22577,,Hruška Václav - Instalatérské práce
+21881,22581,25110977,PROMINECON CZ a.s.
+21885,22585,04543661,"Poradenské centrum pro rodiny a děti GAUDIUM z. s,"
+21889,22589,48026620,"H + H stavební společnost, spol. s r.o."
+21893,22593,46792635,Jan Heran
+21897,22597,45193584,HUTNÍ PROJEKT FRÝDEK-MÍSTEK a.s.
+21901,22601,70100691,Poradna pro občanství/Občanská a lidská práva
+21909,22609,74227297,Martin Dunda
+21913,22613,16188781,Com-Sys Trade spol. s r.o.
+21917,22617,40613411,Armáda spásy v ČR
+21477,22621,25002121,ANTINARI s.r.o.
+21905,22625,64254577,MEDESA s.r.o.
+21921,22629,42634296,TERNI s.r.o.
+21925,22633,25916050,Institut Jana Pernera o.p.s.
+21929,22637,00549746,"Česká lesnická společnost, z. s."
+21945,22653,62360213,KARETA s.r.o.
+21949,22657,,JUHÁS JAKUB
+21953,22661,25968807,MATEX HK s.r.o.
+21957,22665,26079127,Střechy PTS s.r.o.
+21965,22669,47667109,IPR spol s r.o.
+21969,22673,,fyzická osoba
+21969,22673,,fyzická osoba
+21969,22673,,fyzická osoba
+21977,22681,61973840,MSS Ostrava s.r.o.
+21981,22685,25883666,"STAVEX Ostrava, s.r.o."
+21985,22689,48586366,"AMEDIS, spol. s r.o."
+21989,22693,65497961,"Nová šance, z.s."
+21993,22697,60609460,Olomoucký kraj
+21641,22701,60882794,Vodovodní svaz Císařská studánka
+21997,22705,,Lukáš Plha
+22001,22709,70631824,"Domov pro seniory IRIS, O-Mar Hory, PO"
+22001,22709,00845451,Městský obvod Vítkovice
+22005,22713,,"KORAKO plus, s.r.o."
+22009,22717,27127010,Schindler CZ a.s.
+22013,22721,,Jitka Tkáčová
+22021,22729,,Ludmila Špindlerová
+22025,22733,,Martin Šulc
+22029,22737,,Hana Běhounková
+22033,22741,,Jitka Knobová
+22037,22745,,Václav Jindra
+22041,22749,,Jiří Smékal
+22045,22753,,Milada Kleinová
+22049,22757,,Jaroslav Kysela
+22053,22761,,Václav Hladký
+22057,22765,25264451,PROXION s.r.o.
+22061,22769,,Ing. Petr Ježek
+22065,22773,29107709,AMPRESA Group s.r.o.
+22073,22781,00236977,Město Kralupy nad Vltavou
+22077,22785,48172901,"VHOS, a. s."
+22081,22789,,Michaela Nová
+22089,22797,46973451,"Hasičská vzájemná pojišťovna, a.s."
+22093,22801,,Michal a Lenka Paulovi
+22097,22805,,fyzická osoba
+22101,22809,00150584,"FORTEX - AGS, a.s."
+21581,22813,00088447,Komorní filharmonie Pardubice
+22105,22817,26994305,Piloti v Beskydech
+22113,22821,45191085,Tomáš Hořínek
+22121,22829,,"KORAKO plus, s.r.o."
+22125,22833,25958941,"Kulturní centrum Turnov, s.r.o."
+22129,22837,,"KORAKO plus, s.r.o."
+22133,22845,49688723,"ASCO-MED,spol. s r.o."
+22141,22853,64386839,Dům zahraniční spolupráce
+22145,22857,00676853,"HOSPIMED, spol. s r.o."
+22149,22861,70631875,"Domov Čujkovova O-Zábřeh, PO"
+22149,22861,00845451,Městský obvod Vítkovice
+22153,22865,,Hlavová Eva
+22157,22869,,Studničková Petra
+9449,22873,,Lišková Zuzana
+22161,22877,22610707,Krajské sdružení NS MAS ČR Moravskoslezského kraje
+22165,22881,60112476,HOCKEY CLUB DYNAMO PARDUBICE a.s.
+20521,22889,,fyzická osoba
+22173,22893,29058155,INTERIER TECH s.r.o.
+22181,22901,46342907,"BIOMEDICA ČS, s.r.o."
+22185,22905,48119083,"CLARINO, s.r.o."
+22189,22909,00297755,Město Bílovec
+22193,22913,28264371,"Janečka consulting, s.r.o."
+22197,22917,,nezveřejňuje se (bankovní tajemství)
+22201,22921,,obchodní tajemství
+22205,22925,27295567,RWE GasNet s.r.o
+22209,22929,26629437,"Národní strojírenský klastr, o.s."
+22213,22933,03612899,ŠU-STR stavební společnost s. r. o.
+22221,22941,27802191,"3D Promo, s.r.o."
+22229,22949,63491770,"Lesní družstvo obcí Měřín, družstvo"
+22233,22953,01810430,"INÉS Kunštát, s.r.o."
+22237,22957,62415409,"ČBF, s.r.o."
+22241,22961,27273890,Benešovi-úklidové služby s. r. o.
+22245,22965,45534306,"ČSOB Pojišťovna, a. s., člen holdingu ČSOB"
+22249,22969,00257354,Obec Útušice
+22253,22973,46427821,Miloslav Mleziva
+22257,22977,28305043,MT Legal s.r.o.  advokátní kancelář
+22265,22985,01693182,"Domov se zvláštním režimem Bílsko, o. p. s."
+22269,22989,73181081,Bc. Eva Josefíková
+22273,22993,,fyzická osoba
+22273,22993,,fyzická osoba
+22273,22993,,fyzická osoba
+22273,22993,,fyzická osoba
+20533,23001,63673169,EDOMED a.s.
+22285,23009,64583562,Medtronic Czechia s.r.o.
+22293,23017,60609460,Olomoucký kraj
+22297,23021,14707420,Alliance Healthcare
+22305,23029,65737393,"Bytová správa MV, státní příspěvková organizace"
+22309,23033,19010290,"PHARMOS,a.s."
+22313,23037,00294055,Obec Bory
+22317,23041,,PAVEL VOMÁČKA
+22317,23041,,SVĚTLANA VOMÁČKOVÁ
+22321,23045,,PETR ČEPELA
+22325,23049,11566582,Ilja Běhal
+22329,23053,,fyzická osoba
+22329,23053,,fyzická osoba
+22329,23053,,fyzická osoba
+22329,23053,,fyzická osoba
+22329,23053,,fyzická osoba
+22329,23053,,fyzická osoba
+22333,23057,28797728,ROKO service plus s.r.o.
+22337,23061,28131339,"Zenkl CB, spol. s r.o."
+22341,23065,63906236,"Liebscher&Pohl, spol. s r.o."
+22345,23069,45180326,Charita Hranice
+22349,23073,,obchodní tajemství
+22353,23077,25677551,A.R. OKENNÍ TECHNIKA spol.s r.o.
+22357,23081,63986621,"MEDISCO Praha, s.r.o."
+22361,23085,00676853,"HOSPIMED, spol. s r.o."
+22365,23089,,Město Rožmitál pod Třemšínem
+22369,23093,25490524,IMP engineering s.r.o.
+22373,23097,,fyzická osoba
+22373,23097,,fyzická osoba
+22377,23101,49617052,ROCHE s.r.o.
+22381,23109,27640477,KWEKU s.r.o.
+22385,23113,24242462,"Projekty  Zeman, cz"
+22389,23117,,"CPI BYTY, a.s."
+22393,23121,41250257,Václav Daněk - LAGUNA
+22397,23125,28553187,"Jsme tady, o. p. s."
+22401,23129,70856508,Státní fond dopravní infrastruktury
+22405,23133,48172901,"VHOS, a. s."
+22409,23137,00676853,"HOSPIMED, spol. s r.o."
+22413,23141,,"CPI BYTY, a.s."
+22417,23145,,fyzická osoba
+22421,23149,,Obchodní tajemství
+22425,23153,28436024,Window Holding a.s.
+22429,23161,,Obchodní tajemství
+22433,23165,04567773,Mobido Company s. r. o.
+22437,23169,02680327,Stavitelství Kudláček s.r.o.
+22441,23173,26009951,Gali s.r.o.
+22445,23177,47011343,"Základní škola Jindřicha Matiegky Mělník, příspěvková organizace"
+22449,23181,,fyzická osoba
+22453,23185,,"E.ON Distribuce, a.s."
+22457,23189,,"VoKa - ekologické stavby, spol. s r.o."
+22461,23193,46973451,"Hasičská vzájemná pojišťovna, a.s."
+22465,23197,25270095,Technické služby Náchod s.r.o.
+22473,23205,27509184,"TAH reklamní agentura, s.r.o."
+22481,23213,27487938,MDS projekt s.r.o.
+22485,23217,,Macháň Miloslav
+22489,23221,60339241,Charita Javorník
+22493,23225,25178644,ONYX wood spol. s r.o.
+22497,23229,26190338,"ENIMA PRO, a.s."
+22501,23233,,obchodní tajemství
+22505,23237,,obchodní tajemství
+22509,23241,43224679,WARMNIS spol. s r.o.
+22513,23245,48399183,MoSeV Olomouc s.r.o.
+22517,23249,28927338,Instala Profi s.r.o.
+22521,23253,,Obchodní tajemství
+22525,23257,00494453,Česká provincie Kongregace Dcer Božské Lásky
+22529,23261,00006963,Česká správa sociální zabezpeční
+22533,23265,24745391,Edenred CZ s.r.o.
+22537,23269,25852957,"DĚTSKÝ KLÍČ Šumperk, o.p.s."
+22541,23273,,Obchodní tajemství
+22545,23277,00299634,Město Uničov
+22549,23281,27283933,"Krajská nemocnice Liberec, a.s."
+22553,23285,63729113,SPOLU Olomouc
+22557,23289,46973451,"Hasičská vzájemná pojišťovna, a.s."
+22561,23293,25269844,METRODIS s.r.o.
+22565,23297,27999971,KLIMA GROUP s.r.o.
+22569,23301,00637548,Obec Přibyslavice
+22577,23309,,obchodní tajemství
+22581,23313,,obchodní tajemství
+22585,23317,28998791,Mega Trans - výrobní družstvo invalidů
+22589,23321,24161055,"Lesní a rybochovné hospodářství, s.r.o."
+22593,23325,28611942,ZJS - Realizace staveb s.r.o.
+22597,23329,48908088,"Kóta-sady, spol. s r.o."
+22601,23333,28132017,Pacovská lesní s.r.o.
+22605,23337,13582275,EVČ s.r.o.
+22609,23341,00287601,Obec Počenice-Tetětice
+22613,23345,27094359,ACG-Real s.r.o.
+22617,23349,00477036,TJ Slavoj Pacov
+22621,23353,75064707,"Jihomoravské centrum pro mezinárodní mobilitu,zájmové sdružení právnických osob"
+22625,23357,28961404,Agarden rostliny s.r.o.
+22633,23365,27382354,Bohemia JazzFest
+22637,23369,27094359,ACG-Real s.r.o.
+22641,23373,,obchodní tajemství
+22645,23377,,obchodní tajemství
+22649,23381,60838744,STRABAG a.s.
+22653,23385,28631862,OPLUŠTIL - STAVBY s.r.o.
+22657,23389,28623291,"KOVOMA - Mácha, s.r.o."
+22665,23397,25585070,"Technické služby Třešť, spol. s r.o."
+22669,23401,47913240,"TEST-LINE
+Clinical Diagnostics,s.r.o."
+22673,23405,46342907,"BIOMEDICA ČS, s.r.o."
+22677,23409,00294055,Obec Bory
+22681,23413,27232433,ČEZ Prodej s.r.o.
+22685,23417,00294055,Obec Bory
+22689,23421,26700778,Dräger Safety s.r.o.
+22693,23425,62550985,Ing. Přemysl Pěknice
+22697,23429,46883690,JK - Trading spol. s r.o.
+22701,23433,65053079,"Arpida, centrum pro rehabilitaci osob"
+22705,23437,04828691,Potravinová banka Jihočeského kraje z.s.
+22709,23441,65053079,"Arpida, centrum pro rehabilitaci osob"
+22713,23445,62913671,Le Cheque Déjeuner s.r.o.
+22725,23457,00856100,"Městská knihovna Semily, příspěvková organizace"
+22729,23461,72819847,Marian Pácalt
+22733,23465,62913671,Le Cheque Déjeuner s.r.o.
+22737,23469,28563280,VALMAK-STAV Frýdek s.r.o.
+22741,23473,63886201,HBT WELD s.r.o.
+22745,23477,26640601,"Centrum pro rozvoj péče o duševní zdraví Moravskoslezkého kraje, z. s."
+19105,23481,25664018,BioTech a.s.
+22749,23485,62913671,Le Cheque Déjeuner s.r.o.
+22757,23493,28085400,E.On Distribuce a.s.
+22761,23497,63839997,"OSA - Ochranný svaz autorský pro práva k dílům hudebním, z.s."
+22765,23501,,V.D. a M.D.
+22769,23505,40613411,Armáda spásy v ČR
+22773,23509,40613411,Armáda spásy v ČR
+22777,23513,64830551,"EUROVIA Silba, a.s."
+22781,23517,00262978,STATUTÁRNÍ MĚSTO LIBEREC
+22785,23521,69043094,MUDr. Zoltán Paluch
+22793,23529,70994196,"Mateřská škola Brno, Šrámkova 14, příspěvková organizace"
+22797,23533,14869586,"C & S, s.r.o."
+22801,23537,28563280,VALMAK-STAV Frýdek s.r.o.
+22805,23541,26079127,Střechy PTS s.r.o.
+22809,23545,62550985,Ing. Přemysl Pěknice
+22813,23549,15044572,"EMBA, spol. s r. o."
+22817,23553,,obchodní tajemství
+22821,23557,,XXX
+22825,23561,28618891,"Beskydská stavební, a.s."
+22829,23565,26263564,TISK CENTRUM s.r.o.
+22841,23577,42196868,M - SILNICE a.s.
+22845,23581,02956969,Klášterní lesy Strahov s.r.o.
+22849,23585,48207357,Lesní družstvo v Ondřejově
+22853,23589,49434179,"AGRO - Měřín, a.s."
+4969,23593,61977306,"CS21 Nextnet, s.r.o."
+22857,23597,26846888,FLAME System s.r.o.
+22861,23601,,obchodní tajemství
+22865,23605,22903569,\nLifeInLine
+22869,23609,70630267,"Junák - český skaut, Moravskoslezský kraj, z.s."
+22873,23613,63015820,Ing. Miroslav Geryk
+22877,23617,47903783,GORDIC spol. s r.o.
+22881,23621,25379569,"AHOL - Střední odborná škola, s.r.o.,\nnáměstí Jiřího z Poděbrad 301/26\n703 00 Ostrava - Vítkovice"
+22885,23625,60710888,Lesní družstvo JAVOŘÍ
+22889,23629,49975358,"KAVYL, spol. s r.o."
+22893,23633,63491443,"Lesní družstvo v Polné, družstvo"
+22897,23637,00139513,"Zemědělské družstvo Hrotovice, družstvo"
+22901,23641,25274368,STAVOKOMP SERVICE s.r.o.
+22905,23645,,OK GARDEN s.r.o.
+22909,23649,66135737,Jaroslav Mikoláš
+22913,23653,00575488,TJ Lokomotiva Krnov
+22917,23657,,"A - Realitka, s.r.o."
+22921,23661,26708451,"Maltézská pomoc, o.p.s."
+22925,23665,,obchodní tajemství
+22929,23669,70236445,Charita Kojetín
+22933,23673,44936427,Charita Olomouc
+22937,23677,44159854,Charita Prostějov
+22941,23681,42766796,Charita Zábřeh
+22945,23685,29393647,"JITRO Olomouc, o.p.s."
+22949,23689,61984680,Spolek Trend vozíčkářů Olomouc
+22953,23693,05029627,Kampus Palace s.r.o.
+22957,23697,27385086,BJS Czech s.r.o.
+22961,23701,75095009,Středisko rané péče SPRP Olomouc
+22965,23705,86673050,Oldřich Fridrich
+22969,23709,,obchodní tajemství
+22973,23713,25045504,"ČSAD Liberec, a.s."
+22977,23717,27513149,DERS Group s.r.o.
+22981,23721,26574721,"Každý koš pomáhá, o.s."
+22985,23725,,"České dráhy,a.s."
+22993,23733,49453874,"VÚSH, a. s."
+1757,23737,61860476,Sodexo Pass Česká republika a.s.
+22997,23741,,"PEVI, s.r.o."
+23001,23745,24745391,Edenred CZ s.r.o.
+23005,23749,,obchodní tajemství
+23009,23753,,obchodní tajemnství
+23013,23757,26215951,Hadrman UH a.s.
+23017,23761,26812380,ELEKTROSLUŽBY ŠUMPERK s.r.o.
+23021,23765,60838744,STRABAG a.s.
+23025,23769,24306606,CIVIL PROJECTS s.r.o.
+23029,23773,26848007,Závodný Elektro s.r.o.
+23033,23777,46098682,Radek Pecha
+23037,23781,49453874,"VÚSH, a. s."
+23041,23785,49453874,"VÚSH, a. s."
+23045,23789,25638955,SITA CZ a.s.
+23049,23793,26080338,Marták Logistic s. r. o.
+23053,23797,45359326,"PHOENIX LV,a.s."
+23057,23801,,obchodní tajemství
+23061,23805,00267759,Město Ledeč nad Sázavou
+23065,23809,14888742,ViaPharma s.r.o.
+23069,23813,27777120,PW interier Jaroslav Horák s.r.o.
+23073,23817,40763781,DARTIN spol.s r.o.
+23077,23821,46579834,LaserTherm spol. s r.o.
+23085,23829,12137545,Ing. Václav Bezecný - VAN
+23089,23833,24207519,SoftwareONE Czech Republic s.r.o.
+23093,23837,,Jirat-Wasiutynski Andrew Michael a Jirat-Wasiutynski Marie Éve
+23097,23841,,Vlasta Schořovská
+23101,23845,64085236,"STAVO-ČESTAV, s.r.o."
+23109,23853,00674010,Město Trmice
+23121,23865,18248675,"ISSO - Inženýrské stavby Sokolov, s. r. o."
+23125,23869,28634993,ISOWELL Building s.r.o.
+23129,23873,28563280,VALMAK-STAV Frýdek s.r.o.
+23133,23877,64254577,MEDESA s.r.o.
+23137,23881,28563280,VALMAK-STAV Frýdek s.r.o.
+23141,23885,87483505,Klára Mišunová
+23145,23889,62225219,Zdeněk Bárta
+23149,23893,62225219,Zdeněk Bárta
+23157,23901,25448188,LEN-servis s.r.o.
+23161,23905,00283509,Město Pohořelice
+23165,23909,27171850,LANG ŠPINAR ATELIER s.r.o.
+23169,23913,60194120,"Pražské služby, a.s."
+23173,23917,25018094,SaM silnice a mosty a.s.
+23177,23921,28731492,SMOLA STAVBY s.r.o.
+23181,23925,27597075,"UNIPETROL RPA, s.r.o."
+23185,23929,18248675,"ISSO - Inženýrské stavby Sokolov, s. r. o."
+23189,23933,,Jan Šubrt
+22177,23937,14498138,XANADU a.s.
+23193,23941,46792635,Jan Heran
+23197,23945,60072709,Městská charita České Budějovice
+23201,23949,00662402,Tělocvičná jednota Sokol Český Brod - ČOS
+23205,23953,27146171,CAUTOR PROJECTS & ADVISING a.s.
+23205,23953,61502260,"ILA, s.r.o."
+23205,23953,64948242,"UniCredit Bank Czech Republic and Slovakia, a.s."
+23205,23953,28337361,"RENARDS dotační, s.r.o."
+23205,23953,26756102,"NAVIGA 4, s.r.o."
+23205,23953,27145051,GRANT Garant s.r.o.
+23209,23957,26756102,"NAVIGA 4, s.r.o."
+23213,23961,26756102,"NAVIGA 4, s.r.o."
+23217,23965,26756102,"NAVIGA 4, s.r.o."
+23221,23969,00174939,YOUR SYSTEM Türkova 2319/5b
+23225,23973,,Šrejma Robert
+23225,23973,,"Šrejmová Eva, Ing."
+23229,23977,26756102,"NAVIGA 4, s.r.o."
+23233,23981,64511588,"S. A. B. Impex, s.r.o."
+23237,23985,60269421,Radek Tesař
+23241,23989,63482576,"COMINFO, a.s."
+23245,23993,28351363,Caleum a.s.
+23249,23997,14707420,Alliance Healthcare
+23253,24001,27146928,"Janssen-Cilag,s.r.o."
+23257,24005,32004401,Ing. Josef Novotný
+23261,24009,46356088,"ÚJV Řež, a. s."
+23265,24013,25817183,Radio Čas s.r.o.
+23269,24017,46356088,"ÚJV Řež, a. s."
+23273,24021,46712143,V A R I A  s.r.o. - inženýrská činnost a provádění staveb
+23277,24025,47542195,H E R D U C A  spol. s r.o.
+23281,24029,45312338,Elektroline a.s.
+23285,24033,27451895,TACHO s.r.o.
+23289,24037,,Agentura NKL s.r.o.
+23293,24041,46974687,"Ekostavby Brno, a.s."
+23297,24045,46356151,"Agrochemický podnik Mstětice, a.s."
+23301,24049,25065939,"SCHOELLER INSTRUMENTS, s.r.o."
+23305,24053,64511588,"S. A. B. Impex, s.r.o."
+23309,24057,18626513,"VAMEX, spol. s r.o."
+23313,24061,27068641,"Olympus Czech Group, s.r.o., člen koncernu"
+23317,24065,46974687,"Ekostavby Brno, a.s."
+23321,24069,25513117,"AQUA - GAS, s.r.o."
+23325,24073,27675645,C SYSTEM CZ a.s.
+23329,24077,46356151,"Agrochemický podnik Mstětice, a.s."
+23333,24081,,Ing. Alan Vojtěchovský
+23337,24085,,"Národní památkový ústav, státní příspěvková organizace"
+23341,24089,00368717,Obec Kobeřice u Brna
+23345,24093,00237914,Městys Chotětov
+23349,24097,00240231,OBEC HUSINEC
+23353,24101,49099451,"Severočeské vodovody a kanalizace, a.s."
+23357,24105,,obchodní tajemství
+23361,24109,72680351,Vojtěch Huk
+23365,24113,,obchodní tajemství
+23369,24117,04910231,Oční optika Karolová s.r.o.
+23373,24121,25248596,TISKÁRNA BÍLÝ SLON s.r.o.
+23377,24125,,obchodní tajemství
+23381,24129,,Obchodní tajemství
+23385,24133,27361861,EuroAgentur Hotels & Travel a.s.
+23389,24137,,Obchodní tajemství
+23393,24141,,nezveřejňuje se (bankovní tajemství)
+23397,24145,,nezveřejňuje se (bankovní tajemství)
+23401,24149,,nezveřejňuje se (bankovní tajemství)
+23405,24153,,nezveřejňuje se (bankovní tajemství)
+23409,24157,,nezveřejňuje se (bankovní tajemství)
+23413,24161,,nezveřejňuje se (bankovní tajemství)
+23417,24165,,nezveřejňuje se (bankovní tajemství)
+23421,24169,,nezveřejňuje se (bankovní tajemství)
+23425,24173,,nezveřejňuje se (bankovní tajemství)
+23429,24177,,nezveřejňuje se (bankovní tajemství)
+23433,24181,,nezveřejňuje se (bankovní tajemství)
+23437,24185,,nezveřejňuje se (bankovní tajemství)
+23441,24189,,nezveřejňuje se (bankovní tajemství)
+23445,24193,,nezveřejňuje se (bankovní tajemství)
+23449,24197,45359326,"PHOENIX LV,a.s."
+23453,24201,,obchodní tajemství
+23457,24205,,obchodní tajemství
+23461,24209,,obchodní tajemství
+23465,24213,,obchodní tajemství
+23469,24217,,obchodní tajemství
+23473,24221,44084234,Aleš Pospíšil\nvýsadba a údržba zeleně
+23477,24225,45359326,"PHOENIX LV,a.s."
+23481,24229,63073242,VWR International s.r.o.
+23485,24233,45359326,"PHOENIX LV,a.s."
+23489,24237,48171298,Proteco s. r. o.
+23493,24241,,Obchodní tajemství
+23497,24245,,obchodní tajemství
+23501,24249,46504796,Tiskárny Havlíčkův Brod a.s.
+23505,24253,,Obchodní tajemství
+23509,24257,00029807,"ORLÍK-KOMPRESORY, výrobní družstvo"
+23513,24265,00237914,Městys Chotětov
+23521,24273,,nezveřejňuje se (bankovní tajemství)
+23105,24277,24666238,GSUS absolutní čistota a.s.
+23517,24281,25150707,LANius s.r.o.
+23525,24285,,Obchodní tajemství
+23529,24289,,obchodní tajemství
+23533,24293,28097637,ZK Atelier s.r.o.
+23113,24297,,Cezava a.s. Blučina
+23537,24301,62906127,"ROHDE   & SCHWARZ - Praha, s.r.o."
+23541,24305,,Obchodní tajemství
+23545,24309,,obchodní tajemství
+23549,24313,,obchodní tajemství
+23553,24317,,Obchodní tajemství
+23557,24321,,FRANEK JÁN
+23561,24325,25983857,AMX s.r.o.

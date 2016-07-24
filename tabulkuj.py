@@ -32,8 +32,8 @@ def node_dict(nd, excl=None):
 
 vstupy = 'vstupy'
 
-dt = [['idsml', 'idver', 'zverejneni', 'uzavreni', 'subjekt', 'ico', 'cena_bezdph',\
-'cena_sdph', 'cena_cizi', 'cena_cizi_mena', 'predmet', 'odkaz']]
+dt = [['idsml', 'idver', 'zverejneni', 'uzavreni', 'subjekt', 'ico', 'utvar', 'cena_bezdph',\
+'cena_sdph', 'cena_cizi', 'cena_cizi_mena', 'predmet', 'navazny']]
 kli =[['idsml', 'idver', 'ico', 'subjekt']]
 subj = dict() # ico -> jmeno parovani, aby se daly odstranit jmenny duplikaty
 
@@ -53,7 +53,7 @@ for j, fn in enumerate(fns):
         idver = int(vl['identifikator']['idVerze'])
 
         # objednatel
-        icok = vl['smlouva']['subjekt']['ico'] # ICO kupujiciho
+        icok = vl['smlouva']['subjekt']['ico'].rjust(8, '0') # ICO kupujiciho
         if icok not in subj:
             subj[icok] = vl['smlouva']['subjekt']['nazev']
 
@@ -61,12 +61,13 @@ for j, fn in enumerate(fns):
                      vl['casZverejneni'],
                      vl['smlouva']['datumUzavreni'],
                      subj[icok], icok,
+                     vl['smlouva']['subjekt'].get('utvar', ''),
                      float(vl['smlouva'].get('hodnotaBezDph', np.nan)),
                      float(vl['smlouva'].get('hodnotaVcetneDph', np.nan)),
                      float(vl['smlouva'].get('ciziMena', {}).get('hodnota', np.nan)),
                      vl['smlouva'].get('ciziMena', {}).get('mena', np.nan),
                      vl['smlouva']['predmet'],
-                     vl['odkaz']
+                     vl['smlouva'].get('navazanyZaznam', '')
                      ])
 
         # smluvni strana    
@@ -75,14 +76,21 @@ for j, fn in enumerate(fns):
         assert len(sstr) > 0
 
         for k, insm in enumerate(sstr):
-            if insm.get('ico', np.nan) == icok: continue # nakupci mezi smluvnima stranama
+            # obcas ICO neni
+            icos = np.nan
+            if 'ico' in insm:
+                #icos = ''.join(insm['ico'].split())
+                icos = insm['ico'].replace(' ', '')
+                icos = icos.rjust(8, '0')
+            
+            if icos == icok: continue # nakupci mezi smluvnima stranama
 
-            if 'ico' in insm and insm['ico'] not in subj:
-                subj[insm['ico']] = insm['nazev']
+            if 'ico' in insm and icos not in subj:
+                subj[icos] = insm['nazev']
 
             kli.append([idsml, idver,
-                      insm.get('ico', np.nan), # obcas ICO neni
-                      insm['nazev'] if 'ico' not in insm else subj[insm['ico']]])
+                      icos, 
+                      insm['nazev'] if 'ico' not in insm else subj[icos]])
 
 res = pd.DataFrame(dt[1:], columns=dt[0])
 kli = pd.DataFrame(kli[1:], columns=kli[0])
