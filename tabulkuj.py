@@ -95,7 +95,7 @@ for j, fn in enumerate(fns):
 res = pd.DataFrame(dt[1:], columns=dt[0])
 kli = pd.DataFrame(kli[1:], columns=kli[0])
 
-assert len(res.subjekt.unique()) == len(res.ico.unique()) # failne, az bude vic Lhot
+# assert len(res.subjekt.unique()) == len(res.ico.unique()) # failne, az bude vic Lhot
 
 # budem delat asi az v interpretaci
 # res['cena'] = res[['cena_bezdph', 'cena_sdph']].T.apply(lambda x: np.nan if np.isnan(x).all() else np.nanmean(x))
