@@ -16,13 +16,22 @@ from lxml import etree
 from glob import glob
 import math
 import os
+import sys
 
 # API limit
 import pytz
 from datetime import datetime
 
+if len(sys.argv) != 2:
+    print('Zadej jeden argument - "res" nebo "or" pro registr ekonomickych subjektu nebo obchodni rejstrik')
+    quit()
+
+if sys.argv[1] not in ['or', 'res']:
+    print('Neplatny mod, musi byt "or" nebo "res"')
+    quit()
+
 rdr = 'vstupy/ares/raw' # raw slozka 
-mod = 'res' # TODO: parametrizuj
+mod = sys.argv[1]
 appurl = 'http://wwwinfo.mfcr.cz/cgi-bin/ares/xar.cgi'
 
 try:
@@ -96,11 +105,25 @@ for fn in glob(os.path.join(rdr, mod, '*.xml')):
     et = etree.parse(fn).getroot()
     bd = et.find('.//SOAP-ENV:Body/*', namespaces=et.nsmap)
 
+    # najdi ty, co uz mame
     ii = bd.findall('.//D:ICO', namespaces=bd.nsmap)
 
     for j in ii:
         if j.text not in ica: continue
         ica.remove(j.text)
+
+    # najdi co jsme zkouseli, ale nenasli
+    err = bd.findall('.//D:ET', namespaces=bd.nsmap)
+
+    for j in err:
+        ee = j.text.strip()
+        ee = ee[ee.rfind(' ') + 1:]
+        if ee == 'klíč': continue
+        assert ee.isdigit()
+        ee = ee.rjust(8, '0')
+        
+        if ee in ica:
+            ica.remove(ee.rjust(8, '0'))
 
 ica = list(ica)
 
@@ -110,18 +133,19 @@ tz = pytz.timezone('Europe/Prague')
 prg = datetime.now(tz)
 if prg.hour > 17 or prg.hour < 8:
     limit = 4950
-
+print(len(ica))
 if len(ica) > limit:
-    print('Máme víc jak %d chybějících IČO, stahuju jen část' % limit)
+    print('Mame vic jak %d chybejicich IC, stahuju jen cast' % limit)
     ica = ica[:limit]
 
 # jde se stahovat
 
-np = 100 # v postu
+np = 50 # v postu
 chunks = math.ceil(len(ica)/np) # pocet souboru
 
 for pos in range(chunks):
-    subs = ica[100*pos:100*(pos+1)]
+    print('Stahuju %d/%d' % (pos+1, chunks), end='\r')
+    subs = ica[np*pos:np*(pos+1)]
     rt = gen_ares_req(subs, mod)
     r = requests.post(appurl, rt)
     assert r.ok
