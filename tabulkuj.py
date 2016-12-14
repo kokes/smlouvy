@@ -53,7 +53,10 @@ for j, fn in enumerate(fns):
         idver = int(vl['identifikator']['idVerze'])
 
         # objednatel
-        icok = vl['smlouva']['subjekt']['ico'].rjust(8, '0') # ICO kupujiciho
+        icok = np.nan # ICO kupujiciho
+        if 'ico' in vl['smlouva']['subjekt']:
+          icok = vl['smlouva']['subjekt']['ico'].rjust(8, '0')
+        
         if icok not in subj:
             subj[icok] = vl['smlouva']['subjekt']['nazev']
 
@@ -105,4 +108,5 @@ kli = pd.DataFrame(kli[1:], columns=kli[0])
 # res.zverejneni = pd.to_datetime(res.zverejneni)
 
 res.to_csv(os.path.join(vstupy, 'smlouvy.csv'), index=False, encoding='utf8')
-kli.to_csv(os.path.join(vstupy, 'smluvni_strany.csv'), index=False, encoding='utf8')
+# obcas se opakuji smluvni strany, tak je vyfiltrujem
+kli.drop_duplicates().to_csv(os.path.join(vstupy, 'smluvni_strany.csv'), index=False, encoding='utf8')
